@@ -2,11 +2,11 @@
   "s3": {
     "stage": {
       "bucket": "projects-staging.seattletimes.com",
-      "path": "impulsive-tissue"
+      "path": ""
     },
     "live": {
-      "bucket": "projects.seattletimes.com",
-      "path": "2018/education/smarter-balanced"
+      "bucket": "",
+      "path": ""
     }
   },
   "title": "",

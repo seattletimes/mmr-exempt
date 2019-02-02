@@ -16,24 +16,24 @@ console.log(districtData)
   $scope.selected = all;
   $scope.schoolName = "";
 
-  $scope.mathAverages = {
-    "3": 58.9,
-    "4": 55.4,
-    "5": 49.2,
-    "6": 48.0,
-    "7": 49.8,
-    "8": 47.8,
-    "11": 21.8
-  };
-  $scope.elaAverages = {
-    "3": 54.3,
-    "4": 57.0,
-    "5": 60.1,
-    "6": 56.5,
-    "7": 58.5,
-    "8": 59.7,
-    "11": 75.5
-  };
+  // $scope.mathAverages = {
+  //   "3": 58.9,
+  //   "4": 55.4,
+  //   "5": 49.2,
+  //   "6": 48.0,
+  //   "7": 49.8,
+  //   "8": 47.8,
+  //   "11": 21.8
+  // };
+  // $scope.elaAverages = {
+  //   "3": 54.3,
+  //   "4": 57.0,
+  //   "5": 60.1,
+  //   "6": 56.5,
+  //   "7": 58.5,
+  //   "8": 59.7,
+  //   "11": 75.5
+  // };
 
   // Set Seattle Public Schools as default view
   $scope.district = $scope.districts.filter(function(d) {
@@ -50,17 +50,17 @@ console.log(districtData)
     var available = d => !d.exclude && district[`${d.data}_d`] && district[`${d.data}_d`] !== "N/A";
   });
 
-  $scope.$watch("schoolName", function() {
-    if (!$scope.district) return
-    $scope.school = !$scope.schoolName ? $scope.district : $scope.district.schools[$scope.schoolName];
-  });
+  // $scope.$watch("schoolName", function() {
+  //   if (!$scope.district) return
+  //   $scope.school = !$scope.schoolName ? $scope.district : $scope.district.schools[$scope.schoolName];
+  // });
 
 }]);
 
 app.directive("typeSelect", function() {
   return {
     template: `
-      <input ng-model="selection" placeholder="Enter district or county">
+      <input ng-model="selection" placeholder="Enter city">
       <div class="completion">
         <div class="options">
           <a class="option" ng-repeat="option in filtered" ng-click="setValue(option)">
@@ -92,7 +92,7 @@ app.directive("typeSelect", function() {
         scope.$apply();
       });
 
-      // closes the drow-down menu after user clicks on something
+      // closes the drop-down menu after user clicks on something
       input.addEventListener("blur", function() {
         setTimeout(() => element.removeClass("show-completion"), 300);
         if (!input.value || !setValue) input.value = cachedValue;
@@ -113,18 +113,18 @@ app.directive("typeSelect", function() {
         scope.$apply();
       });
 
-      scope.$watch("model", function() {
-        var option = scope.options.filter(o => o == scope.model);
-        option = option.pop();
-        var label;
-        if (!option) {
-          // label = "Seattle Public Schools (King)";
-          label = "Enter district or county"
-        } else {
-          label = option.county ? `${option.district} (${option.county})` : option.district;
-        }
-        input.value = label;
-      });
+      // scope.$watch("model", function() {
+      //   var option = scope.options.filter(o => o == scope.model);
+      //   option = option.pop();
+      //   var label;
+      //   if (!option) {
+      //     // label = "Seattle Public Schools (King)";
+      //     label = "Enter district or county"
+      //   } else {
+      //     label = option.county ? `${option.district} (${option.county})` : option.district;
+      //   }
+      //   input.value = label;
+      // });
 
       scope.setValue = function(option) {
         setValue = true;
