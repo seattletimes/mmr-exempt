@@ -11,6 +11,7 @@ app.controller("commonCoreController", ["$scope", function($scope) {
   $scope.districtData = districtData;
   var all = districtData;
 
+
   $scope.districts = window.districtData;
   $scope.selected = all;
   $scope.schoolName = "";
@@ -36,7 +37,7 @@ app.directive("typeSelect", function() {
       <div class="completion">
         <div class="options">
           <a class="option" ng-repeat="option in filtered" ng-click="setValue(option)">
-            {{option.city}} <span ng-if="option.county">({{option.county}})</span>
+            {{option.city}}
           </a>
         </div>
         <div class="nothing" ng-if="filtered.length == 0">

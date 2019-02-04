@@ -1,5 +1,5 @@
 <%
-  var whitelist = ["School", "District", "County", "GradeLevel"];
+  var whitelist = ["city", "school", "County", "GradeLevel"];
 
   var clean = function(r) {
     var out = {};
@@ -22,7 +22,7 @@
 
   var grouped = Object.keys(cityData).map(function(key) {
     var city = cityData[key];
-    city.schools.sort(function(a, b) { return a.school.exempt - b.school.exempt; });
+    city.schools.sort(function(a, b) { return b.exempt - a.exempt; });
     return city;
   });
 %>
@@ -47,30 +47,29 @@
       <div ng-controller="commonCoreController" class="outermost" ng-cloak>
 
         <div class="search-container">
-          <span class="view">View 2018 test results for:</span>
+          <span class="view">View schools within the city of:</span>
           <type-select options="districts" model="city"></type-select>
           <div ng-if="school">
             <table>
-              <tr class="table-label"><td colspan="5">Percentage of students proficient:</td></tr>
-
               <tr class="header">
                 <td class="grade">School</td>
-                <td class="grade">Enrollment</td>
-                <td class="grade">Exempt</td>
+                <td class="math">MMR vaccine exemption</td>
+                <td class="math">Total enrollment</td>
+                <td class="math">School district</td>
               </tr>
 
               <tr ng-repeat="row in school.schools">
 
                 <td class="grade">{{row.school}}</td>
-                <td class="grade">{{row.enrollment}}</td>
-
                 <td class="math">
                   <span ng-if="row.exempt">
                     {{row.exempt | number : 1}}%
                   </span>
                   <span ng-if="!row.exempt">
-                    -
+                    0%
                   </span>
+                  <td class="math">{{row.enrollment}}</td>
+                  <td class="math">{{row.district}}</td>
                   
                 </td>
               </tr>
@@ -80,10 +79,10 @@
 
         <div class="bottom">
           <div class="note">
-            Note: Students who opted out of the test were given scores of zero, and are counted in these numbers as not passing. For student privacy reasons, results aren’t available when only a small number of students took the test or when fewer than 10 passed or failed.
+            Note: XXXXX
           </div>
           <div class="source"><em>
-            Source: Office of Superintendent of Public Instruction</em>
+            Source: Washington Department of Health</em>
           </div>
           <div class="credit">Emily M. Eng / THE SEATTLE TIMES</div>
         </div>
