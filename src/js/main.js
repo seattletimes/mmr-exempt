@@ -8,11 +8,11 @@ require("angular");
 var app = angular.module("common-core-search", []);
 
 app.controller("commonCoreController", ["$scope", function($scope) {
-  $scope.districtData = districtData;
-  var all = districtData;
+  $scope.cityData = cityData;
+  var all = cityData;
 
-console.log(districtData)
-  $scope.districts = window.districtData;
+console.log(cityData)
+  $scope.cities = window.cityData;
   $scope.selected = all;
   $scope.schoolName = "";
 
@@ -36,23 +36,23 @@ console.log(districtData)
   // };
 
   // Set Seattle Public Schools as default view
-  $scope.district = $scope.districts.filter(function(d) {
-    if (d.district == "Seattle Public Schools") {
+  $scope.city = $scope.city.filter(function(d) {
+    if (d.city == "Seattle") {
       return d;
     }
   })[0];
 
-  //update selected from the district dropdown
-  $scope.$watch("district", function() {
+  //update selected from the city dropdown
+  $scope.$watch("city", function() {
     $scope.schoolName = "";
-    $scope.school = $scope.district;
-    var district = $scope.selected = all[$scope.district];
-    var available = d => !d.exclude && district[`${d.data}_d`] && district[`${d.data}_d`] !== "N/A";
+    $scope.school = $scope.city;
+    var city = $scope.selected = all[$scope.city];
+    var available = d => !d.exclude && city[`${d.data}_d`] && city[`${d.data}_d`] !== "N/A";
   });
 
   // $scope.$watch("schoolName", function() {
-  //   if (!$scope.district) return
-  //   $scope.school = !$scope.schoolName ? $scope.district : $scope.district.schools[$scope.schoolName];
+  //   if (!$scope.city) return
+  //   $scope.school = !$scope.schoolName ? $scope.city : $scope.city.schools[$scope.schoolName];
   // });
 
 }]);
@@ -64,7 +64,7 @@ app.directive("typeSelect", function() {
       <div class="completion">
         <div class="options">
           <a class="option" ng-repeat="option in filtered" ng-click="setValue(option)">
-            {{option.district}} <span ng-if="option.county">({{option.county}})</span>
+            {{option.city}} <span ng-if="option.county">({{option.county}})</span>
           </a>
         </div>
         <div class="nothing" ng-if="filtered.length == 0">
@@ -104,7 +104,7 @@ app.directive("typeSelect", function() {
           return;
         }
         var regex = new RegExp(input.value, "i");
-        scope.filtered = scope.options.filter(d => d.district.match(regex) || d.county.match(regex));
+        scope.filtered = scope.options.filter(d => d.city.match(regex) || d.county.match(regex));
         if (e.keyCode == 13) {
           input.blur();
           scope.setValue(scope.filtered[0]);
@@ -119,9 +119,9 @@ app.directive("typeSelect", function() {
       //   var label;
       //   if (!option) {
       //     // label = "Seattle Public Schools (King)";
-      //     label = "Enter district or county"
+      //     label = "Enter city or county"
       //   } else {
-      //     label = option.county ? `${option.district} (${option.county})` : option.district;
+      //     label = option.county ? `${option.city} (${option.county})` : option.city;
       //   }
       //   input.value = label;
       // });
@@ -129,8 +129,8 @@ app.directive("typeSelect", function() {
       scope.setValue = function(option) {
         setValue = true;
         // console.log("set", option);
-        if (!option.district) return;
-        input.value = option.county ? `${option.district} (${option.county})` : option.district;
+        if (!option.city) return;
+        input.value = option.county ? `${option.city} (${option.county})` : option.city;
         scope.model = option;
       }
     }

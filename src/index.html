@@ -1,6 +1,6 @@
 <%
 
-  var whitelist = ["School", "District", "County", "GradeLevel"];
+  var whitelist = ["school", "city"];
 
   var clean = function(r) {
     var out = {};
@@ -9,12 +9,41 @@
     });
     return out;
   }
+  var cityData = csv.mmr_school;
+  var schoolData = csv.mmr_school;
 
-  var districtData = csv.scores_by_district_2018;
-  var schoolData = csv.scores_by_school_2018;
-  var districtDataOld = csv.scores_by_district_2017;
-  var schoolDataOld = csv.scores_by_school_2017;
+  var createGroups = function(Data) {
+    var grouped = {};
+
+    Data.forEach(function(row) {
+      var key = row.school ? row.school + row.city : row.city;
+      if (!grouped[key]) grouped[key] = {
+        city: row.city,
+        school: row.school
+      };
+      var group = grouped[key];
+      if (!group.school) group.school = {};
+    });
   
+    return grouped;
+  }
+
+
+  var groupedResults = createGroups(cityData);
+  var groupedSchoolResults = createGroups(schoolData);
+
+  var groupedSchools = Object.keys(groupedSchoolResults).map(function(k) { 
+    return groupedSchoolResults[k]
+  });
+
+  groupedSchools.forEach(function(school) {
+    var city = groupedResults[school.city];
+    if (!city) return;
+    if (!city.schools) city.schools = {};
+    city.schools[school.school] = school;
+  });
+
+  var grouped = Object.keys(groupedResults).map(function(k) { return groupedResults[k] });
 %>
 
 <!doctype html>
@@ -37,35 +66,27 @@
       <div ng-controller="commonCoreController" class="outermost" ng-cloak>
 
         <div class="search-container">
-          <span class="view">View 2018 test results for:</span>
-          <type-select options="districts" model="district"></type-select>
+          <span class="view">View schools located in:</span>
+          <type-select options="cities" model="city"></type-select>
           <div ng-if="school">
             <div class="no-results" ng-if="!school.grades">
               <i class="alarm fa fa-exclamation-triangle"></i> No reported results.
             </div>
 
-<!--             <div class="showing" ng-class="{ visible: district.grades }">
-              <span class="label">Showing:</span>
-              <select name="select" ng-model="$parent.schoolName">
-                <option value="">District Average</option> 
-                <option value="{{s.school}}" ng-repeat="s in district.schools">{{s.school}}</option> 
-              </select>
-            </div> -->
-
-            <table ng-if="school.grades">
+            <table ng-if="school.city">
 
               <tr class="header">
-                <td class="grade">School</td>
-                <td class="grade">MMR Exemption rate</td>
-                <td class="grade">Enrollment</td>
-                <td class="grade">School District</td>
+                <td class="school">School</td>
+                <td class="school">MMR Exemption rate</td>
+                <td class="school">Enrollment</td>
+                <td class="school">School District</td>
               </tr>
 
-              <tr ng-repeat="row in school.grades">
-                <td class="grade">{{row.GradeLevel}}</td>
-                <td class="grade">{{row.GradeLevel}}</td>
-                <td class="grade">{{row.GradeLevel}}</td>
-                <td class="grade">{{row.GradeLevel}}</td>
+              <tr ng-repeat="row in city.school">
+                <td class="school">{{row.school}}</td>
+                <td class="school">{{row.exemptl}}</td>
+                <td class="school">{{row.enrollment}}</td>
+                <td class="school">{{row.district}}</td>
               </tr>
 
             </table>
@@ -88,7 +109,7 @@
     </responsive-child>
 
     <script>
-      var districtData = <%= JSON.stringify(grouped) %>;
+      var cityData = <%= JSON.stringify(grouped) %>;
     </script>
 
     <script src="app.js" async></script>
