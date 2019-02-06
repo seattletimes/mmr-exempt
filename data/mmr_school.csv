@@ -1,8 +1,37 @@
 ﻿school,enrollment,exempt,district,city
+A J West Elementary,428,0.23,Aberdeen School District,Aberdeen
+Central Park Elementary,192,2.60,Aberdeen School District,Aberdeen
+Harbor High School,110,1.82,Aberdeen School District,Aberdeen
+J M Weatherwax High School,927,0.76,Aberdeen School District,Aberdeen
+Mcdermoth Elementary,376,1.33,Aberdeen School District,Aberdeen
+Miller Junior High,489,2.04,Aberdeen School District,Aberdeen
+Robert Gray Elementary,347,1.15,Aberdeen School District,Aberdeen
+St. Mary School,121,1.65,Private,Aberdeen
+Wishkah Valley Elementary,59,6.78,Wishkah Valley School District,Aberdeen
+Wishkah Valley School,92,3.26,Wishkah Valley School District,Aberdeen
+Acme Elementary,229,6.11,Mount Baker School District,Acme
+Mount Baker Academy,20,30.00,Mount Baker School District,Acme
+Summit Valley Elementary,79,26.58,Summit Valley School District,Addy
+Adna Elementary School,263,4.56,Adna School District,Adna
+Adna Middle/High School,380,1.84,Adna School District,Adna
+Sunset Elementary,451,1.77,Cheney School District,Airway Heights
+Almira Elementary School,97,1.03,Almira School District,Almira
+Lake Quinault Elementary,89,3.37,Lake Quinault School District,Amanda Park
+Lake Quinault High School,75,0.00,Lake Quinault School District,Amanda Park
+Amboy Middle School,581,4.30,Battle Ground School District,Amboy
+Anacortes High School,798,3.38,Anacortes School District,Anacortes
+Anacortes Middle School,619,4.20,Anacortes School District,Anacortes
+Cap Sante High School,68,5.88,Anacortes School District,Anacortes
+Fidalgo Elementary,375,4.53,Anacortes School District,Anacortes
+Fiddlehead Montessori,12,16.67,Private,Anacortes
+Island View Elementary,427,4.45,Anacortes School District,Anacortes
+Mount Erie Elementary,375,5.07,Anacortes School District,Anacortes
+Whitney Elementary,94,3.19,Anacortes School District,Anacortes
+Yale Elementary,38,10.53,Woodland School District,Ariel
 Arlington Christian School,68,17.65,Private,Arlington
 Arlington High,"1,620",4.07,Arlington School District,Arlington
 Cougar Creek Elementary,406,4.43,Lakewood School District,Arlington
-Eagle Creek Elementary,667,2.7,Arlington School District,Arlington
+Eagle Creek Elementary,667,2.70,Arlington School District,Arlington
 Haller Middle School,660,1.82,Arlington School District,Arlington
 Kent Prairie Elementary,645,6.36,Arlington School District,Arlington
 Pioneer Elementary,575,3.48,Arlington School District,Arlington
@@ -11,20 +40,22 @@ Presidents Elementary,514,4.28,Arlington School District,Arlington
 Stillaguamish Valley School,76,13.16,Arlington School District,Arlington
 Weston High School,167,3.59,Arlington School District,Arlington
 Columbia Crest,186,3.23,Eatonville School District,Ashford
+Asotin Elementary,256,3.52,Asotin-Anatone School District,Asotin
+Asotin Jr. Sr. High,367,4.90,Asotin-Anatone School District,Asotin
 Arthur Jacobsen Elementary,563,4.62,Auburn School District,Auburn
 Auburn Adventist Academy,227,9.25,Private,Auburn
 Auburn Mountainview High School,"1,560",1.03,Auburn School District,Auburn
 Auburn Riverside High School,"1,647",1.21,Auburn School District,Auburn
 Auburn Sr. High School,"1,762",1.25,Auburn School District,Auburn
 Buena Vista Sda School,217,7.83,Private,Auburn
-Camelot Elementary School,284,8.1,Federal Way School District,Auburn
+Camelot Elementary School,284,8.10,Federal Way School District,Auburn
 Cascade Middle School,808,2.85,Auburn School District,Auburn
 Chinook Elementary School,534,0.94,Auburn School District,Auburn
 Dick Scobee Elementary School,490,3.27,Auburn School District,Auburn
 Evergreen Heights Elementary,530,4.72,Auburn School District,Auburn
 Gildo Rey Elementary School,583,2.23,Auburn School District,Auburn
 Hazelwood Elementary School,573,8.03,Auburn School District,Auburn
-Holy Family School,125,3.2,Private,Auburn
+Holy Family School,125,3.20,Private,Auburn
 Ilalko Elementary School,614,2.44,Auburn School District,Auburn
 Kilo Middle School,617,2.11,Federal Way School District,Auburn
 Lake Dolloff Elementary School,489,4.09,Federal Way School District,Auburn
@@ -32,9 +63,9 @@ Lake View Elementary School,451,5.99,Auburn School District,Auburn
 Lakeland Elementary School,431,11.83,Federal Way School District,Auburn
 Lakeland Hills Elementary,732,4.51,Auburn School District,Auburn
 Lea Hill Elementary School,511,5.28,Auburn School District,Auburn
-Meredith Hill Elementary School,453,6.4,Federal Way School District,Auburn
-Mt. Baker Middle School,"1,021",1.08,Auburn School District,Auburn
-Muckleshoot Tribal School,497,0.4,Enumclaw School District,Auburn
+Meredith Hill Elementary School,453,6.40,Federal Way School District,Auburn
+Mt Baker Middle School,"1,021",1.08,Auburn School District,Auburn
+Muckleshoot Tribal School,497,0.40,Enumclaw School District,Auburn
 Olympic Middle School,832,0.48,Auburn School District,Auburn
 Overcomer Academy,116,38.79,Private,Auburn
 Pioneer Elementary School,493,1.42,Auburn School District,Auburn
@@ -46,14 +77,14 @@ Special Services School,19,5.26,Auburn School District,Auburn
 Terminal Park Elementary School,481,4.78,Auburn School District,Auburn
 Thomas Jefferson High School,"1,753",0.91,Federal Way School District,Auburn
 Valhalla Elementary School,593,3.88,Federal Way School District,Auburn
-Valley Christian School,60,5,Private,Auburn
+Valley Christian School,60,5.00,Private,Auburn
 Washington Elementary School,563,2.13,Auburn School District,Auburn
 West Auburn Senior High School,270,1.85,Auburn School District,Auburn
 Bainbridge High School,"1,351",2.89,Bainbridge Island School District,Bainbridge Island
-Capt Johnston Blakely Elem School,369,4.07,Bainbridge Island School District,Bainbridge Island
+Capt. Johnston Blakely Elem School,369,4.07,Bainbridge Island School District,Bainbridge Island
 Capt. Charles Wilkes Elem School,392,3.83,Bainbridge Island School District,Bainbridge Island
 Carden Country School,39,15.38,Private,Bainbridge Island
-Eagle Harbor High School,132,5.3,Bainbridge Island School District,Bainbridge Island
+Eagle Harbor High School,132,5.30,Bainbridge Island School District,Bainbridge Island
 Hyla Middle School,86,1.16,Private,Bainbridge Island
 Madrona School,121,35.54,Private,Bainbridge Island
 Montessori Country School - Children's House,13,7.69,Private,Bainbridge Island
@@ -63,33 +94,55 @@ Ordway Elementary,357,1.96,Bainbridge Island School District,Bainbridge Island
 Sakai Intermediate,524,1.91,Bainbridge Island School District,Bainbridge Island
 St. Cecilia Catholic School,67,2.99,Private,Bainbridge Island
 The Island School,82,7.32,Private,Bainbridge Island
-Valley School,44,25,Private,Bainbridge Island
+Valley School,44,25.00,Private,Bainbridge Island
 Woodward Middle School,601,1.83,Bainbridge Island School District,Bainbridge Island
-America's Child Montessori,15,0,Private,Bellevue
+Battle Ground High School,"2,169",4.33,Battle Ground School District,Battle Ground
+Cam Academy,528,12.12,Battle Ground School District,Battle Ground
+Captain Strong Primary,732,6.97,Battle Ground School District,Battle Ground
+Chief Umtuch Middle School,600,4.50,Battle Ground School District,Battle Ground
+Columbia Adventist Academy,100,4.00,Private,Battle Ground
+Daybreak Middle,457,9.85,Battle Ground School District,Battle Ground
+Daybreak Primary,508,11.02,Battle Ground School District,Battle Ground
+Firm Foundation Christian School,290,20.00,Private,Battle Ground
+Homelink River,"1,019",23.45,Battle Ground School District,Battle Ground
+Maple Grove School,483,13.46,Battle Ground School District,Battle Ground
+Meadowglade Sda School,307,6.51,Private,Battle Ground
+Pleasant Valley Primary,585,10.09,Battle Ground School District,Battle Ground
+Prairie High School,"1,602",4.49,Battle Ground School District,Battle Ground
+Summit View Alt. High School,365,10.14,Battle Ground School District,Battle Ground
+Tukes Valley Middle School,471,5.73,Battle Ground School District,Battle Ground
+Tukes Valley Primary,601,8.15,Battle Ground School District,Battle Ground
+Belfair Elementary,482,3.53,North Mason School District,Belfair
+Hawkins Middle School,463,3.89,North Mason School District,Belfair
+James A. Taylor High School,45,4.44,North Mason School District,Belfair
+North Mason High School,745,2.01,North Mason School District,Belfair
+North Mason Homelink,15,6.67,North Mason School District,Belfair
+Sand Hill Elementary,466,3.22,North Mason School District,Belfair
+America's Child Montessori,15,0.00,Private,Bellevue
 Ardmore Elementary,419,1.19,Bellevue School District,Bellevue
-Bel-Red Bilingual Academy,59,0,Private,Bellevue
+Bel-Red Bilingual Academy,59,0.00,Private,Bellevue
 Bellevue Big Picture School,379,4.22,Bellevue School District,Bellevue
-Bellevue Children's Academy (2nd Location),586,0.85,Private,Bellevue
+Bellevue Children's Academy 2nd Location,586,0.85,Private,Bellevue
 Bellevue High School,"1,592",1.51,Bellevue School District,Bellevue
 Bellevue Montessori School,68,4.41,Private,Bellevue
 Bennett Elementary,436,0.92,Bellevue School District,Bellevue
-Big Brains Preparatory,10,0,Private,Bellevue
-Cedar Crest Bellewood,132,0,Private,Bellevue
-Cedar Park Christian School - Bellevue,37,18.92,Private,Bellevue
-Central Education Services,37,0,Bellevue School District,Bellevue
+Cedar Crest Bellewood,132,0.00,Private,Bellevue
+Cedar Park Christian School-Bellevue,37,18.92,Private,Bellevue
+Central Education Services,37,0.00,Bellevue School District,Bellevue
+Central Education Services,37,0.00,Bellevue School District,Bellevue
 Cherry Crest Elementary,645,2.02,Bellevue School District,Bellevue
 Chestnut Hill Academy South Campus,255,2.75,Private,Bellevue
 Chinook Middle School,990,1.11,Bellevue School District,Bellevue
-Clyde Hill Elementary,628,0.8,Bellevue School District,Bellevue
-Dartmoor School,13,0,Private,Bellevue
+Clyde Hill Elementary,628,0.80,Bellevue School District,Bellevue
+Dartmoor School,13,0.00,Private,Bellevue
 Eastgate Elementary,472,0.42,Bellevue School District,Bellevue
-Eastside Academy,27,0,Private,Bellevue
-Eastside Academy Overlake Campus,17,0,Private,Bellevue
+Eastside Academy,27,0.00,Private,Bellevue
+Eastside Academy Overlake Campus,17,0.00,Private,Bellevue
 Eastside Christian School,245,2.04,Private,Bellevue
 Emerald Heights Academy,57,15.79,Private,Bellevue
 Enatai Elementary,558,2.51,Bellevue School District,Bellevue
 Eton School,179,2.79,Private,Bellevue
-Forest Ridge School of Sacred Heart,325,0,Private,Bellevue
+forest Ridge School of Sacred Heart,325,0.00,Private,Bellevue
 French Immersion School of Washington,114,5.26,Private,Bellevue
 Highland Middle School,487,1.44,Bellevue School District,Bellevue
 Hillside Student Community School,43,4.65,Private,Bellevue
@@ -98,8 +151,8 @@ International School,575,2.09,Bellevue School District,Bellevue
 Jewish Day School,99,6.06,Private,Bellevue
 Jing Mei Elementary,369,2.44,Bellevue School District,Bellevue
 Lake Hills Elementary,495,2.63,Bellevue School District,Bellevue
-Living Montessori Academy,42,0,Private,Bellevue
-Newport Children's School,21,0,Private,Bellevue
+Living Montessori Academy,42,0.00,Private,Bellevue
+Newport Children's School,21,0.00,Private,Bellevue
 Newport Heights Elementary,607,2.64,Bellevue School District,Bellevue
 Newport High School,"1,843",1.95,Bellevue School District,Bellevue
 Odle Middle School,"1,061",1.13,Bellevue School District,Bellevue
@@ -107,8 +160,8 @@ Open Window School,331,1.21,Private,Bellevue
 Phantom Lake Elementary,344,2.91,Bellevue School District,Bellevue
 Sammamish High School,"1,120",1.96,Bellevue School District,Bellevue
 Seattle Waldorf - Three Cedars,128,33.59,Private,Bellevue
-Sherwood Forest Elementary,429,1.63,Bellevue School District,Bellevue
-Somerset Elementary,725,2.9,Bellevue School District,Bellevue
+Sherwood forest Elementary,429,1.63,Bellevue School District,Bellevue
+Somerset Elementary,725,2.90,Bellevue School District,Bellevue
 Spiritridge Elementary,706,1.42,Bellevue School District,Bellevue
 St. Louise School,351,1.99,Private,Bellevue
 St. Madeleine Sophie School,152,3.29,Private,Bellevue
@@ -117,10 +170,62 @@ Sunset Elementary,566,2.65,Issaquah School District,Bellevue
 The Eastside Montessori School,12,16.67,Private,Bellevue
 The Little School,112,5.36,Private,Bellevue
 Transition Program,38,5.26,Bellevue School District,Bellevue
+Transition Program,38,5.26,Bellevue School District,Bellevue
 Tyee Middle School,"1,018",0.69,Bellevue School District,Bellevue
 Woodridge Elementary,673,1.49,Bellevue School District,Bellevue
+Alderwood Elementary,211,7.11,Bellingham School District,Bellingham
+Assumption Catholic School,173,4.05,Private,Bellingham
+Baker View Christian,11,0.00,Private,Bellingham
+Bellingham Christian School,202,7.92,Private,Bellingham
+Bellingham Family Partnership,173,24.28,Bellingham School District,Bellingham
+Bellingham High School,"1,119",5.00,Bellingham School District,Bellingham
+Birchwood Elementary,256,4.30,Bellingham School District,Bellingham
+Carl Cozier Elementary,272,3.68,Bellingham School District,Bellingham
+Cascades Montessori Middle School,29,10.34,Private,Bellingham
+Cedar Tree Montessori,55,12.73,Private,Bellingham
+Columbia Elementary,234,5.13,Bellingham School District,Bellingham
+Cordata Elementary,300,6.33,Bellingham School District,Bellingham
+Explorations Academy/Global Community Institute,19,21.05,Private,Bellingham
+Fairhaven Middle School,631,3.96,Bellingham School District,Bellingham
+Geneva Elementary,388,4.64,Bellingham School District,Bellingham
+Happy Valley Elementary,361,4.99,Bellingham School District,Bellingham
+Harmony Elementary,340,9.12,Mount Baker School District,Bellingham
+Kulshan Middle School,591,4.23,Bellingham School District,Bellingham
+Lowell Elementary,259,5.02,Bellingham School District,Bellingham
+Lummi High School,100,0.00,Lummi Nation School,Bellingham
+Lummi Tribal Elementary School,215,0.00,Lummi Nation School,Bellingham
+Lynden Christian School Bellingham,121,7.44,Private,Bellingham
+Meridian High School,513,3.90,Meridian School District,Bellingham
+Montessori at Samish Woods,70,7.14,Private,Bellingham
+Northern Heights Elementary,346,2.02,Bellingham School District,Bellingham
+Options High School,172,3.49,Bellingham School District,Bellingham
+Parent Partnership Program,131,25.19,Meridian School District,Bellingham
+Parkview Elementary,264,7.58,Bellingham School District,Bellingham
+Roosevelt Elementary,320,3.75,Bellingham School District,Bellingham
+Sehome High School,"1,179",4.66,Bellingham School District,Bellingham
+Shuksan Middle School,666,3.75,Bellingham School District,Bellingham
+Silver Beach Elementary,390,3.59,Bellingham School District,Bellingham
+Squalicum High School,"1,327",2.86,Bellingham School District,Bellingham
+St. Paul's Academy,98,7.14,Private,Bellingham
+St. Paul's Academy - 2Nd Location,56,5.36,Private,Bellingham
+Sunnyland Elementary,239,5.86,Bellingham School District,Bellingham
+Wade King Elementary,348,7.47,Bellingham School District,Bellingham
+Whatcom Hills Waldorf,173,26.59,Private,Bellingham
+Whatcom Middle School,728,4.67,Bellingham School District,Bellingham
+Benge Elementary,14,21.43,Benge School District,Benge
+Kiona-Benton City High School,456,1.54,Kiona-Benton City School District,Benton City
+Kiona-Benton Intermediate Schl,359,0.84,Kiona-Benton City School District,Benton City
+Kiona-Benton Middle School,320,2.19,Kiona-Benton City School District,Benton City
+Kiona-Benton Primary School,325,0.92,Kiona-Benton City School District,Benton City
+Bickleton Elementary and High School,123,3.25,Bickleton School District,Bickelton
 Black Diamond Elementary,293,7.85,Enumclaw School District,Black Diamond
 Sawyer Woods Elementary,466,2.58,Kent School District,Black Diamond
+Blaine  Homeconnection,68,17.65,Blaine School District,Blaine
+Blaine Elementary School,490,4.49,Blaine School District,Blaine
+Blaine High School,659,3.95,Blaine School District,Blaine
+Blaine Middle School,495,4.65,Blaine School District,Blaine
+Blaine Primary,460,5.65,Blaine School District,Blaine
+Point Roberts Primary,15,0.00,Blaine School District,Blaine
 Bonney Lake Christian Academy,26,19.23,Private,Bonney Lake
 Bonney Lake Elementary,550,3.27,Sumner School District,Bonney Lake
 Bonney Lake High School,"1,395",2.37,Sumner School District,Bonney Lake
@@ -133,24 +238,24 @@ Bothell High School,"1,579",2.47,Northshore School District,Bothell
 Canyon Creek Elementary,688,0.15,Northshore School District,Bothell
 Canyon Park Middle School,910,2.31,Northshore School District,Bothell
 Cedar Park Christian School,975,10.97,Private,Bothell
-Cedar Wood Elementary,748,1.6,Everett School District,Bothell
+Cedar Wood Elementary,748,1.60,Everett School District,Bothell
 Crystal Springs Elementary,587,1.87,Northshore School District,Bothell
-Evergreen Academy,125,4.8,Private,Bothell
+Evergreen Academy,125,4.80,Private,Bothell
 Fernwood Elementary,784,0.51,Northshore School District,Bothell
-Frank Love Elementary,636,2.2,Northshore School District,Bothell
+Frank Love Elementary,636,2.20,Northshore School District,Bothell
 Heritage Christian Academy,176,4.55,Private,Bothell
 Lockwood Elementary,639,0.16,Northshore School District,Bothell
 Lynnwood High School,"1,431",2.17,Edmonds School District,Bothell
-Maywood Hills Elementary,623,0.8,Northshore School District,Bothell
+Maywood Hills Elementary,623,0.80,Northshore School District,Bothell
 North Creek High School,"1,283",1.71,Edmonds School District,Bothell
 Northshore Middle School,896,3.13,Northshore School District,Bothell
 Northshore Networks,144,11.11,Northshore School District,Bothell
-Northshore Online School,23,0,Northshore School District,Bothell
-Secondary Academy For Success,100,3,Northshore School District,Bothell
+Northshore Online School,23,0.00,Northshore School District,Bothell
+Secondary Academy for Success,100,3.00,Northshore School District,Bothell
 Shelton View Elementary,444,0.23,Northshore School District,Bothell
 Skyview Middle School,952,1.79,Northshore School District,Bothell
 Special Services,31,3.23,Northshore School District,Bothell
-St. Brendan School,182,1.1,Private,Bothell
+St. Brendan School,182,1.10,Private,Bothell
 The Clearwater School,42,33.33,Private,Bothell
 Ucic School,109,1.83,Private,Bothell
 Westhill Elementary,460,1.09,Northshore School District,Bothell
@@ -158,6 +263,10 @@ Whole Earth Montessori School,153,12.42,Private,Bothell
 Woodin Elementary,518,0.19,Northshore School District,Bothell
 Woodinville Montessori School,226,4.42,Private,Bothell
 Woodmoor Elementary,777,0.51,Northshore School District,Bothell
+Allen (7-8),101,0.99,Burlington-Edison School District,Bow
+Allen Elementary,323,0.62,Burlington-Edison School District,Bow
+Edison (7/8),118,2.54,Burlington-Edison School District,Bow
+Edison Elementary,354,4.52,Burlington-Edison School District,Bow
 Bremerton High School,"1,174",2.21,Bremerton School District,Bremerton
 Brownsville Elementary,444,2.03,Central Kitsap School District,Bremerton
 Cottonwood Elementary School,310,0.97,Central Kitsap School District,Bremerton
@@ -166,7 +275,7 @@ Esquire Hills Elementary,351,1.71,Central Kitsap School District,Bremerton
 Fairview Middle School,671,1.04,Central Kitsap School District,Bremerton
 Gateway Christian School - Crosspoint Campus,318,3.77,Private,Bremerton
 Green Mountain Elementary,374,4.28,Central Kitsap School District,Bremerton
-"John ""Bud"" Hawk At Jackson Park Elementary",485,2.27,Central Kitsap School District,Bremerton
+"John """"""""Bud"""""""" Hawk at Jackson Park Elementary",485,2.27,Central Kitsap School District,Bremerton
 Kitsap Adventist Christian School,34,14.71,Private,Bremerton
 Kitsap Lake Elementary,396,2.53,Bremerton School District,Bremerton
 Montessori Schoolhouse,17,5.88,Private,Bremerton
@@ -179,14 +288,28 @@ Renaissance High School,131,3.05,Bremerton School District,Bremerton
 View Ridge Elementary,447,1.57,Bremerton School District,Bremerton
 West Hills Stem Academy,648,2.93,Bremerton School District,Bremerton
 Woodlands Elementary,394,1.27,Central Kitsap School District,Bremerton
+Brewster Elementary School,466,0.86,Brewster School District,Brewster
+Brewster High School,244,0.41,Brewster School District,Brewster
+Brewster Middle School,216,0.93,Brewster School District,Brewster
+Bridgeport Aurora High School,20,0.00,Bridgeport School District,Bridgeport
+Bridgeport Elementary,346,0.29,Bridgeport School District,Bridgeport
+Bridgeport High School,234,0.00,Bridgeport School District,Bridgeport
+Bridgeport Middle School,255,0.00,Bridgeport School District,Bridgeport
 Brier Elementary School,457,3.72,Edmonds School District,Brier
 Brier Terrace Middle School,636,2.67,Edmonds School District,Brier
+Brinnon School,69,8.70,Brinnon School District,Brinnon
+Hockinson Heights Elementary,812,6.40,Hockinson School District,Brush Prairie
+Hockinson High School,682,7.04,Hockinson School District,Brush Prairie
+Hockinson Middle School,456,7.89,Hockinson School District,Brush Prairie
 Elk Ridge Elementary,427,5.85,White River School District,Buckley
 Foothills Elementary,583,2.92,White River School District,Buckley
 Glacier Middle School,826,2.78,White River School District,Buckley
 Mountain Meadow Elementary,513,4.09,White River School District,Buckley
 White River High School,"1,207",2.98,White River School District,Buckley
 Wilkeson Elementary School,284,4.23,White River School District,Buckley
+Columbia Elementary,351,0.85,Columbia (Walla Walla) School District,Burbank
+Columbia High School,234,2.56,Columbia (Walla Walla) School District,Burbank
+Columbia Middle School,168,1.19,Columbia (Walla Walla) School District,Burbank
 Cedarhurst Elementary,618,0.97,Highline School District,Burien
 Glendale Lutheran School,58,17.24,Private,Burien
 Gregory Heights Elementary,659,0.46,Highline School District,Burien
@@ -199,6 +322,29 @@ Shorewood Elementary,623,2.09,Highline School District,Burien
 St. Francis of Assisi School,472,1.06,Private,Burien
 Sylvester Middle School,659,0.61,Highline School District,Burien
 Three Tree Montessori,102,10.78,Private,Burien
+Bay View (7/8),123,2.44,Burlington-Edison School District,Burlington
+Bay View Elementary,403,3.47,Burlington-Edison School District,Burlington
+Burlington Edison High School,"1,078",2.50,Burlington-Edison School District,Burlington
+Burlington North,49,0.00,Burlington-Edison School District,Burlington
+Lucille Umbarger (7-8),244,0.82,Burlington-Edison School District,Burlington
+Lucille Umbarger Elementary,407,1.47,Burlington-Edison School District,Burlington
+Skagit Adventist Academy,125,10.40,Private,Burlington
+West View Elementary,394,0.00,Burlington-Edison School District,Burlington
+Elger Bay Elementary,323,7.12,Stanwood-Camano School District,Camano Island
+Utsalady Elementary,317,6.94,Stanwood-Camano School District,Camano Island
+Camas Christian Academy (Bright Futures Christian School),96,15.63,Private,Camas
+Camas High School,"2,225",4.22,Camas School District,Camas
+Dorothy Fox Elementary School,437,5.26,Camas School District,Camas
+Grass Valley Elementary School,571,6.48,Camas School District,Camas
+Hayes Freedom High School,135,3.70,Camas School District,Camas
+Helen Baller Elementary School,617,5.83,Camas School District,Camas
+Illahee Elementary School,615,4.07,Evergreen School District (Clark),Camas
+Lacamas Heights Elementary,351,6.84,Camas School District,Camas
+Liberty Middle School,876,6.39,Camas School District,Camas
+Prune Hill Elementary School,514,7.59,Camas School District,Camas
+Skyridge Mid School,870,5.98,Camas School District,Camas
+Union High School,"1,995",3.81,Evergreen School District (Clark),Camas
+Woodburn Elementary School,483,4.76,Camas School District,Camas
 Carbonado Historical School 19,177,8.47,Carbonado School District,Carbonado
 Carnation Elementary,336,6.55,Riverview School District,Carnation
 Choice,14,21.43,Riverview School District,Carnation
@@ -206,16 +352,141 @@ Clip,30,13.33,Riverview School District,Carnation
 Parade,122,20.49,Riverview School District,Carnation
 Stillwater Elementary,471,5.31,Riverview School District,Carnation
 Tolt Middle School,746,4.83,Riverview School District,Carnation
-Bellevue Christian School,946,1.9,Private,Clyde Hill
-Sacred Heart School,357,0,Private,Clyde Hill
+Carrolls Elementary,144,4.86,Kelso School District,Carrolls
+Cashmere High School,503,1.79,Cashmere School District,Cashmere
+Cashmere Middle School,494,2.23,Cashmere School District,Cashmere
+Vale Elementary School,609,2.30,Cashmere School District,Cashmere
+Big Leaf Montessori,15,53.33,Private,Castle Rock
+Castle Rock High School,423,2.36,Castle Rock School District,Castle Rock
+Castle Rock Middle School,308,1.30,Castle Rock School District,Castle Rock
+Castle Rock Primary,585,4.27,Castle Rock School District,Castle Rock
+J A Wendt Elementary,202,8.91,Wahkiakum School District,Cathlamet
+John C Thomas Middle School,130,9.23,Wahkiakum School District,Cathlamet
+Wahkiakum High School,152,3.95,Wahkiakum School District,Cathlamet
+Centerville Elementary,90,15.56,Centerville School District,Centerville
+Centralia Christian,152,7.24,Private,Centralia
+Centralia High School,"1,070",1.50,Centralia School District,Centralia
+Centralia Middle School,495,1.62,Centralia School District,Centralia
+Edison Elementary School,346,1.45,Centralia School District,Centralia
+fords Prairie Elementary,372,1.88,Centralia School District,Centralia
+Futurus High School,71,1.41,Centralia School District,Centralia
+Gravity,30,0.00,Private,Centralia
+Jefferson Lincoln Elementary,389,3.08,Centralia School District,Centralia
+Oakview Elementary School,444,2.25,Centralia School District,Centralia
+Washington Elementary School,382,1.57,Centralia School District,Centralia
+Chattaroy Elementary,201,6.97,Riverside School District,Chattaroy
+Riverside Elementary,333,3.60,Riverside School District,Chattaroy
+Riverside High School,449,3.34,Riverside School District,Chattaroy
+Riverside Middle School,315,1.59,Riverside School District,Chattaroy
+Cascade Elementary School,423,4.02,Chehalis School District,Chehalis
+Chehalis Middle School,617,2.59,Chehalis School District,Chehalis
+Lewis County Adventist School,71,9.86,Private,Chehalis
+Olympic Elementary,425,2.59,Chehalis School District,Chehalis
+R E Bennett Elementary,420,3.57,Chehalis School District,Chehalis
+St. Joseph School,115,0.00,Private,Chehalis
+W F West High School,952,1.89,Chehalis School District,Chehalis
+Chelan High School,468,2.78,Lake Chelan School District,Chelan
+Chelan Middle School,324,2.16,Lake Chelan School District,Chelan
+Chelan School of Innovation,33,15.15,Lake Chelan School District,Chelan
+Morgen Owings Elementary,606,1.98,Lake Chelan School District,Chelan
+Betz Elementary,421,3.09,Cheney School District,Cheney
+Cheney High School,"1,310",2.75,Cheney School District,Cheney
+Cheney Middle School,469,4.48,Cheney School District,Cheney
+Homeworks,75,30.67,Cheney School District,Cheney
+Salnave Elementary,370,4.05,Cheney School District,Cheney
+Snowdon Elementary,483,6.21,Cheney School District,Cheney
+Three Springs High School,37,0.00,Cheney School District,Cheney
+Chewelah Alternative High School,13,0.00,Chewelah School District,Chewelah
+Gess Elementary,22,0.00,Chewelah School District,Chewelah
+Jenkins Junior/Senior High,18,0.00,Chewelah School District,Chewelah
+Jenkins Middle School,16,0.00,Chewelah School District,Chewelah
+Chimacum Elementary School,199,4.02,Chimacum School District,Chimacum
+Chimacum High School,348,9.20,Chimacum School District,Chimacum
+Chimacum Middle School,186,7.53,Chimacum School District,Chimacum
+Clallam Bay High and Elementary,117,1.71,Cape Flattery School District,Clallam Bay
+Clarkston (Charles Francis Adams) High School,773,2.72,Clarkston School District,Clarkston
+Educational Opportunity Center,103,0.97,Clarkston School District,Clarkston
+Grantham Elementary,264,3.03,Clarkston School District,Clarkston
+Heights Elementary,405,2.96,Clarkston School District,Clarkston
+Highland Elementary,307,0.33,Clarkston School District,Clarkston
+Holy Family School,93,1.08,Private,Clarkston
+Lincoln Middle School,408,2.45,Clarkston School District,Clarkston
+Monarch Academy,25,12.00,Private,Clarkston
+Parkway Elementary,331,3.32,Clarkston School District,Clarkston
+Special Services,18,5.56,Clarkston School District,Clarkston
+Cle Elum  Roslyn High School,268,1.87,Cle Elum-Roslyn School District,Cle Elum
+Cle Elum Roslyn Elementary,431,3.25,Cle Elum-Roslyn School District,Cle Elum
+Walter Strom Middle School,183,2.73,Cle Elum-Roslyn School District,Cle Elum
+Clear Lake Elementary School,302,9.60,Sedro-Woolley School District,Clear Lake
+Whidbey Island Waldorf School,101,17.82,Private,Clinton
+Bellevue Christian School,946,1.90,Private,Clyde Hill
+Sacred Heart School,357,0.00,Private,Clyde Hill
+Colbert Elementary School,504,4.56,Mead School District,Colbert
+Midway Elementary,604,3.64,Mead School District,Colbert
+Mountainside Middle School,727,2.48,Mead School District,Colbert
+Northwest Christian High School,552,11.05,Private,Colbert
+Colfax High School,586,2.05,Colfax School District,Colfax
+Leonard M Jennings Elementary,586,2.05,Colfax School District,Colfax
+College Place High School,418,4.31,College Place School District,College Place
+Davis Elementary,667,3.15,College Place School District,College Place
+John Sager Middle School,354,3.39,College Place School District,College Place
+Rogers Adventist School,315,9.21,Private,College Place
+Walla Walla Valley Academy,157,7.01,Private,College Place
+Colton School,142,2.82,Colton School District,Colton
+Guardian Angel St. Boniface School,19,0.00,Private,Colton
+Colville Junior High School,403,7.20,Colville School District,Colville
+Colville Senior High School,514,7.59,Colville School District,Colville
+Colville Valley Junior Academy,27,33.33,Private,Colville
+fort Colville Elementary,414,10.63,Colville School District,Colville
+Hofstetter Elementary,390,7.95,Colville School District,Colville
+Johnson Christian School,36,16.67,Private,Colville
+"Onion	Creek	Elementary",34,5.88,Onion Creek School District,Colville
+Riverwood Community School,21,47.62,Private,Colville
+Concrete Elementary School,292,5.48,Concrete School District,Concrete
+Concrete High School,236,6.78,Concrete School District,Concrete
+Connell High School,596,2.35,North Franklin School District,Connell
+Palouse Junction High School,27,0.00,North Franklin School District,Connell
+Robert L Olds Junior High School,352,0.85,North Franklin School District,Connell
+Cosmopolis Elementary School,150,3.33,Cosmopolis School District,Cosmopolis
+North River School,72,6.94,North River School District,Cosmopolis
+Almira Coulee Hartline High School,84,2.38,Coulee-Hartline School District,Coulee City
+Coulee City Elementary,86,5.81,Coulee-Hartline School District,Coulee City
+Lake Roosevelt Jr./Sr. High,339,1.47,Grand Coulee Dam School District,Coulee Dam
+Coupeville Elementary School,432,2.78,Coupeville School District,Coupeville
+Coupeville High School,283,3.18,Coupeville School District,Coupeville
+Coupeville Middle School,227,1.32,Coupeville School District,Coupeville
+Open Den,56,1.79,Coupeville School District,Coupville
 Covington Elementary,569,2.28,Kent School District,Covington
 Crestwood Elementary,494,5.47,Kent School District,Covington
 Jenkins Creek Elementary,438,4.11,Kent School District,Covington
 Kentwood High,"2,058",1.46,Kent School District,Covington
 Mattson Middle,630,2.54,Kent School District,Covington
-Rainier Christian Middle School,50,8,Private,Covington
+Rainier Christian Middle School,50,8.00,Private,Covington
+Highland High School,335,1.19,Highland School District,Cowiche
+Highland Junior High School,197,0.51,Highland School District,Cowiche
+Marcus Whitman Elementary,339,1.18,Highland School District,Cowiche
+Creston Elementary,39,0.00,Creston School District,Creston
+Creston Jr.-Sr. High School,59,6.78,Creston School District,Creston
+Curlew Elementary School,84,15.48,Curlew School District,Curlew
+Curlew High School,92,14.13,Curlew School District,Curlew
+Boistfort Elementary,91,2.20,Boistfort School District,Curtis
+Bess Herian Elementary,100,8.00,Cusick School District,Cusick
+Cusick Jr./Sr. High,124,4.84,Cusick School District,Cusick
+Custer Elem,350,9.14,Ferndale School District,Custer
+Dallesport Elementary,107,0.93,Lyle School District,Dallesport
 Darrington Elementary School,284,4.58,Darrington School District,Darrington
 Darrington High School,119,2.52,Darrington School District,Darrington
+Davenport Elementary,584,2.91,Davenport School District,Davenport
+Davenport Senior High School,584,2.91,Davenport School District,Davenport
+Dayton Elementary School,192,3.13,Dayton School District,Dayton
+Dayton High School,129,1.55,Dayton School District,Dayton
+Dayton Middle School,93,3.23,Dayton School District,Dayton
+Arcadia Elementary,454,5.51,Deer Park School District,Deer Park
+Deer Park Elementary,412,6.55,Deer Park School District,Deer Park
+Deer Park High School,671,4.92,Deer Park School District,Deer Park
+Deer Park Middle School,452,4.65,Deer Park School District,Deer Park
+Mount Baker Junior High,305,12.46,Mount Baker School District,Deming
+Mount Baker Senior High,516,8.72,Mount Baker School District,Deming
 Des Moines Elementary,388,1.03,Highline School District,Des Moines
 Holy Trinity Lutheran School,130,3.08,Private,Des Moines
 Kent Mountain View Elementary,107,4.67,Kent School District,Des Moines
@@ -225,37 +496,67 @@ Pacific Middle School,630,0.32,Highline School District,Des Moines
 Parkside Elementary,645,0.47,Highline School District,Des Moines
 St. Philomena School,257,0.78,Private,Des Moines
 Woodmont Elementary School,493,2.64,Federal Way School District,Des Moines
-Chloe Clark Elementary,562,1.6,Steilacoom Hist. School District,Dupont
+Chloe Clark Elementary,562,1.60,Steilacoom Hist. School District,Dupont
 Pioneer Middle School,757,1.32,Steilacoom Hist. School District,Dupont
 Cedarcrest High School,990,3.13,Riverview School District,Duvall
-Cherry Valley Elementary,449,4.9,Riverview School District,Duvall
+Cherry Valley Elementary,449,4.90,Riverview School District,Duvall
 Eagle Rock Multiage School,69,4.35,Riverview School District,Duvall
 Hillside Academy,63,9.52,Private,Duvall
+Cascade Elementary,511,1.96,Eastmont School District,East Wenatchee
+Clovis Point,642,1.71,Eastmont School District,East Wenatchee
+Eastmont Junior High,939,1.28,Eastmont School District,East Wenatchee
+Eastmont Senior High,"1,438",1.39,Eastmont School District,East Wenatchee
+Grant Elementary School,512,0.59,Eastmont School District,East Wenatchee
+Kenroy Elementary,473,1.27,Eastmont School District,East Wenatchee
+Robert E Lee Elementary,471,0.85,Eastmont School District,East Wenatchee
+Sterling Intermediate School,952,0.21,Eastmont School District,East Wenatchee
+Easton School,115,0.87,Easton School District,Easton
+Oasis School,377,0.80,Orcas Island School District,Eastsound
+Orcas Christian School,80,6.25,Private,Eastsound
+Orcas Elementary,180,7.78,Orcas Island School District,Eastsound
+Orcas Island High School,116,5.17,Orcas Island School District,Eastsound
+Orcas Island Middle School,87,11.49,Orcas Island School District,Eastsound
 Eatonville Elementary,366,2.46,Eatonville School District,Eatonville
 Eatonville High School,638,3.45,Eatonville School District,Eatonville
 Eatonville Middle School,399,1.75,Eatonville School District,Eatonville
-Mt. Rainier Parent Partnership,36,13.89,Eatonville School District,Eatonville
+Mt Rainier Parent Partnership,36,13.89,Eatonville School District,Eatonville
 Weyerhaeuser Elementary,281,3.56,Eatonville School District,Eatonville
-Edgemont Jr. High,499,2.4,Puyallup School District,Edgewood
+Edgemont Jr. High,499,2.40,Puyallup School District,Edgewood
 Hedden Elementary School,561,4.63,Fife School District,Edgewood
-Mt. View Elementary,335,4.78,Puyallup School District,Edgewood
+Mt View Elementary,335,4.78,Puyallup School District,Edgewood
 Northwood Elementary,463,3.24,Puyallup School District,Edgewood
-Salvation Christian Academy - Formerly Slavic Christian Academy-Edgewood,163,55.21,Private,Edgewood
+Salvation Christian Academy - formerly Slavic Christian Academy-Edgewood,163,55.21,Private,Edgewood
 Chase Lake Elementary School,380,0.53,Edmonds School District,Edmonds
 Edmonds Elementary School,339,2.36,Edmonds School District,Edmonds
 Edmonds Heights K-12,571,23.64,Edmonds School District,Edmonds
 Edmonds-Woodway High School,"1,641",2.44,Edmonds School District,Edmonds
 Holy Rosary Edmonds,235,0.43,Private,Edmonds
-Madrona K-8 School,632,5.7,Edmonds School District,Edmonds
+Madrona K-8 School,632,5.70,Edmonds School District,Edmonds
 Maplewood K-8 Co-Op,490,2.24,Edmonds School District,Edmonds
 Picnic Point Elementary,448,2.68,Mukilteo School District,Edmonds
 Scriber Lake High School,243,4.53,Edmonds School District,Edmonds
 Seaview Elementary School,399,4.01,Edmonds School District,Edmonds
 Serene Lake Elementary,419,4.77,Mukilteo School District,Edmonds
 Sherwood Elementary School,532,2.82,Edmonds School District,Edmonds
-Solomon International School,31,0,Private,Edmonds
+Solomon International School,31,0.00,Private,Edmonds
 Stella Maris Academy,17,35.29,Private,Edmonds
 Westgate Elementary School,507,3.75,Edmonds School District,Edmonds
+Damman Elementary,33,3.03,Damman School District,Ellensburg
+Ellensburg Christian School,81,16.05,Private,Ellensburg
+Ellensburg High School,972,2.06,Ellensburg School District,Ellensburg
+Excel High School,27,0.00,Ellensburg School District,Ellensburg
+K12 Eburg Learning Ctr,21,0.00,Ellensburg School District,Ellensburg
+Lincoln Elementary,521,3.07,Ellensburg School District,Ellensburg
+Morgan Middle School,726,2.75,Ellensburg School District,Ellensburg
+Mt Stuart Elementary,490,1.84,Ellensburg School District,Ellensburg
+Valley View Elementary School,557,3.23,Ellensburg School District,Ellensburg
+East Grays Harbor High School,27,0.00,Elma School District,Elma
+Elma Elementary School,621,2.42,Elma School District,Elma
+Elma High School,486,2.88,Elma School District,Elma
+Elma Middle School,324,2.78,Elma School District,Elma
+Mary M Knight Elementary Schoo,79,3.80,Mary M Knity School District,Elma
+Mary M Knight High School,81,3.70,Mary M Knity School District,Elma
+Endicott/St. John Elem and Middle,97,2.06,Endicott School District,Endicott
 Byron Kibler Elementary School,446,5.61,Enumclaw School District,Enumclaw
 Enumclaw High School,"1,308",3.75,Enumclaw School District,Enumclaw
 Enumclaw Middle School,484,2.48,Enumclaw School District,Enumclaw
@@ -263,22 +564,30 @@ Southwood Elementary School,304,4.28,Enumclaw School District,Enumclaw
 Sunrise Elementary,425,3.06,Enumclaw School District,Enumclaw
 Thunder Mountain Middle School,464,4.09,Enumclaw School District,Enumclaw
 Westwood Elementary School,342,6.73,Enumclaw School District,Enumclaw
+Columbia Ridge Elementary,479,2.30,Ephrata School District,Ephrata
+Ephrata High School,763,3.01,Ephrata School District,Ephrata
+Ephrata Middle School,366,3.01,Ephrata School District,Ephrata
+Grant Elementary,499,3.01,Ephrata School District,Ephrata
+New Life Christian School,41,7.32,Private,Ephrata
+Parkway School,403,1.74,Ephrata School District,Ephrata
+Sage Hills High School,54,3.70,Ephrata School District,Ephrata
+St. Rose of Lima School,81,0.00,Private,Ephrata
 Aces High School,183,1.09,Mukilteo School District,Everett
-Archbishop Thomas J. Murphy High School,487,0,Private,Everett
+Archbishop Thomas J. Murphy High School,487,0.00,Private,Everett
 Cascade High School,"1,796",1.73,Everett School District,Everett
 Cavelero Mid High,"1,335",1.95,Lake Stevens School District,Everett
 Cedar Park Christian School-Mill Creek Campus,161,13.66,Private,Everett
 Challenger Elementary,637,3.77,Mukilteo School District,Everett
 Discovery Elementary,596,2.35,Mukilteo School District,Everett
-Eisenhower Middle School,918,2.4,Everett School District,Everett
+Eisenhower Middle School,918,2.40,Everett School District,Everett
 Emerson Elementary School,635,4.72,Everett School District,Everett
 Everett Christian School,70,7.14,Private,Everett
 Everett High School,"1,434",1.19,Everett School District,Everett
 Evergreen Middle School,"1,058",3.21,Everett School District,Everett
 Explorer Middle School,950,1.05,Mukilteo School District,Everett
 Fairmount Elementary,545,2.75,Mukilteo School District,Everett
-Forest Park Adventist School,41,2.44,Private,Everett
-Forest View Elementary School,769,1.69,Everett School District,Everett
+forest Park Adventist School,41,2.44,Private,Everett
+forest View Elementary School,769,1.69,Everett School District,Everett
 Garfield Elementary School,408,4.66,Everett School District,Everett
 Gateway Middle School,890,1.35,Everett School District,Everett
 Hawthorne Elementary School,439,1.14,Everett School District,Everett
@@ -286,18 +595,18 @@ Henry M. Jackson High School,"2,197",1.68,Everett School District,Everett
 Hillcrest Elementary,810,3.33,Lake Stevens School District,Everett
 Horizon Elementary,701,1.71,Mukilteo School District,Everett
 Immaculate Conception/Our Lady of Perpetual,243,2.88,Private,Everett
-Jackson Elementary School,343,3.5,Everett School District,Everett
+Jackson Elementary School,343,3.50,Everett School District,Everett
 Jefferson Elementary,541,4.99,Everett School District,Everett
 Lowell Elementary,492,3.66,Everett School District,Everett
 Madison Elementary,420,3.57,Everett School District,Everett
 Mariner High School,"2,252",0.71,Mukilteo School District,Everett
 Mill Creek Elementary,664,2.71,Everett School District,Everett
 Monroe Elementary,580,2.41,Everett School District,Everett
-Montessori Schools of Snohomish County,77,2.6,Private,Everett
+Montessori Schools of Snohomish Co.,77,2.60,Private,Everett
 North Middle School,767,1.43,Everett School District,Everett
 Northshore Christian Academy,870,6.78,Private,Everett
-Odyssey Elementary,578,2.6,Mukilteo School District,Everett
-Olivia Park Elementary,591,2.2,Mukilteo School District,Everett
+Odyssey Elementary,578,2.60,Mukilteo School District,Everett
+Olivia Park Elementary,591,2.20,Mukilteo School District,Everett
 Pathfinder Kindergarten Center,483,0.41,Private,Everett
 Penny Creek Elementary,746,2.55,Everett School District,Everett
 Port Gardner,98,19.39,Everett School District,Everett
@@ -308,15 +617,21 @@ Silver Lake Elementary,732,3.14,Everett School District,Everett
 St. Mary Magdalen School,341,1.76,Private,Everett
 View Ridge Elementary,585,6.32,Everett School District,Everett
 Voyager Middle School,874,1.83,Mukilteo School District,Everett
-Whittier Elementary,486,3.7,Everett School District,Everett
+Whittier Elementary,486,3.70,Everett School District,Everett
 Woodside Elementary,659,2.88,Everett School District,Everett
+Everson Elementary,275,3.27,Nooksack Valley School District,Everson
+Irene Reither Elementary,690,3.48,Meridian School District,Everson
+Nooksack Elementary,395,2.28,Nooksack Valley School District,Everson
+Nooksack Valley High School,476,3.15,Nooksack Valley School District,Everson
+Nooksack Valley Middle School,354,0.85,Nooksack Valley School District,Everson
+Michael anderson Elementary,427,1.17,Medical Lake School District,Fairchild Air Force Base
 Chief Kanim Middle School,800,3.38,Snoqualmie Valley School District,Fall City
 Fall City Elementary,564,4.26,Snoqualmie Valley School District,Fall City
 Adelaide Elementary School,386,4.15,Federal Way School District,Federal Way
 Brigadoon Elementary School,354,0.85,Federal Way School District,Federal Way
 Brooklake Christian School,59,5.08,Private,Federal Way
-Career Academy At Truman High School,98,2.04,Federal Way School District,Federal Way
-Christian Faith School,270,13.7,Private,Federal Way
+Career Academy at Truman High School,98,2.04,Federal Way School District,Federal Way
+Christian Faith School,270,13.70,Private,Federal Way
 Enterprise Elementary School,431,4.18,Federal Way School District,Federal Way
 Federal Way High School,"1,608",0.81,Federal Way School District,Federal Way
 Federal Way Public Academy,309,2.91,Federal Way School District,Federal Way
@@ -332,17 +647,34 @@ Panther Lake Elementary School,461,1.52,Federal Way School District,Federal Way
 Rainier View Elementary School,517,5.03,Federal Way School District,Federal Way
 Sacajawea Middle School,795,1.26,Federal Way School District,Federal Way
 Saghalie Middle School,718,1.53,Federal Way School District,Federal Way
-Sherwood Forest Elementary School,441,5.44,Federal Way School District,Federal Way
+Sherwood forest Elementary School,441,5.44,Federal Way School District,Federal Way
 Silver Lake Elementary School,426,1.88,Federal Way School District,Federal Way
 Spring Valley Montessori,35,2.86,Private,Federal Way
-St. Paul's Lutheran School,251,0.4,Private,Federal Way
-St. Vincent De Paul School,223,0.9,Private,Federal Way
+St. Paul's Lutheran School,251,0.40,Private,Federal Way
+St. Vincent De Paul School,223,0.90,Private,Federal Way
 Todd Beamer High School,"1,616",1.61,Federal Way School District,Federal Way
 Twin Lakes Elementary School,334,2.69,Federal Way School District,Federal Way
 Wildwood Elementary School,569,1.23,Federal Way School District,Federal Way
-Evergreen Elementary School,483,0,Clover Park School District,Fort Lewis
+Cascadia Elementary,435,8.51,Ferndale School District,Ferndale
+Central Elementary,327,5.20,Ferndale School District,Ferndale
+Ferndale High School,"1,429",2.31,Ferndale School District,Ferndale
+Horizon Middle School,448,4.02,Ferndale School District,Ferndale
+Pioneer Meadows Montessori School,104,1.92,Private,Ferndale
+Providence Christian School Northwest,42,21.43,Private,Ferndale
+Skyline Elementary School,427,1.64,Ferndale School District,Ferndale
+Windward High School,122,4.10,Ferndale School District,Ferndale
+Forks Elementary School,303,1.98,Quillayute Valley School District,Forks
+Queets School,21,0.00,Queets-Clearwater School District,Forks
+Evergreen Elementary School,483,0.00,Clover Park School District,Fort Lewis
 Hillside Elementary School,509,0.39,Clover Park School District,Fort Lewis
-Artondale Elementary School,452,4.2,Peninsula School District,Gig Harbor
+Friday Harbor Elementary School,317,4.73,San Juan Island School District,Friday Harbor
+Friday Harbor High School,261,6.90,San Juan Island School District,Friday Harbor
+Griffin Bay School,17,11.76,San Juan Island School District,Friday Harbor
+Stillpoint School,14,7.14,Private,Friday Harbor
+Garfield Elementary,58,8.62,Garfield Palouse School District,Garfield
+Garfield Middle School,65,7.69,Garfield Palouse School District,Garfield
+Evergreen Elementary,33,12.12,Evergreen School District (Stevens),Gifford
+Artondale Elementary School,452,4.20,Peninsula School District,Gig Harbor
 Discovery Elementary School,518,2.51,Peninsula School District,Gig Harbor
 Gig Harbor Academy,59,1.69,Private,Gig Harbor
 Gig Harbor High,"1,620",3.89,Peninsula School District,Gig Harbor
@@ -350,33 +682,69 @@ Goodman Middle School,571,3.15,Peninsula School District,Gig Harbor
 Harbor Christian Schools,15,13.33,Private,Gig Harbor
 Harbor Heights Elementary School,603,2.82,Peninsula School District,Gig Harbor
 Harbor Montessori School,65,4.62,Private,Gig Harbor
-Harbor Ridge Middle School,600,4,Peninsula School District,Gig Harbor
-Henderson Bay Alternative High School,106,8.49,Peninsula School District,Gig Harbor
+Harbor Ridge Middle School,600,4.00,Peninsula School District,Gig Harbor
+Henderson Bay Alt. High School,106,8.49,Peninsula School District,Gig Harbor
 Kopachuck Middle School,517,3.48,Peninsula School District,Gig Harbor
 Lighthouse Christian School,362,6.35,Private,Gig Harbor
-Minter Creek Elementary,394,3.3,Peninsula School District,Gig Harbor
+Minter Creek Elementary,394,3.30,Peninsula School District,Gig Harbor
 Peninsula High School,"1,401",4.71,Peninsula School District,Gig Harbor
 Purdy Elementary School,573,2.44,Peninsula School District,Gig Harbor
 St. Nicholas School,110,4.55,Private,Gig Harbor
 Voyager Elementary,627,3.83,Peninsula School District,Gig Harbor
+Glenwood Elementary,32,6.25,Glenwood School District,Glenwood
+Glenwood Secondary,41,2.44,Glenwood School District,Glenwood
 Gold Bar Elementary,346,4.34,Sultan School District,Gold Bar
-Bethel Elem Learning Academy,26,0,Bethel School District,Graham
+Goldendale High School,307,2.28,Goldendale School District,Goldendale
+Goldendale Middle School,297,1.35,Goldendale School District,Goldendale
+Goldendale Primary School,363,7.71,Goldendale School District,Goldendale
+Bethel Elem Learning Academy,26,0.00,Bethel School District,Graham
 Centennial Elementary,489,1.23,Bethel School District,Graham
-Cougar Mountain Middle School,617,1.94,Bethel School District,Graham
+Cougar Mountain Middle Scho,617,1.94,Bethel School District,Graham
 Frontier Middle School,742,2.29,Bethel School District,Graham
 Graham Elementary,701,2.71,Bethel School District,Graham
 Graham Kapowsin High School,"1,985",1.81,Bethel School District,Graham
-Kapowsin Elementary,419,4.3,Bethel School District,Graham
+Kapowsin Elementary,419,4.30,Bethel School District,Graham
 Nelson Elementary,536,1.87,Bethel School District,Graham
 North Star Elementary,492,1.42,Bethel School District,Graham
 Rocky Ridge Elementary,491,4.28,Bethel School District,Graham
+Lake Roosevelt Elementary,377,1.59,Grand Coulee Dam School District,Grand Coulee
+Contract Learning Center,30,3.33,Grandview School District,Grandview
+Grandview Adventist Junior Academy,11,0.00,Private,Grandview
+Grandview High School,974,0.21,Grandview School District,Grandview
+Grandview Middle School,861,0.35,Grandview School District,Grandview
+Mcclure Elementary School,633,0.63,Grandview School District,Grandview
+Smith Elementary School,609,0.16,Grandview School District,Grandview
+Thompson Elementary School,576,1.39,Grandview School District,Grandview
+Granger High School,428,0.00,Granger School District,Granger
+Granger Middle School,352,92.90,Granger School District,Granger
+Roosevelt Elementary,667,0.00,Granger School District,Granger
 Crossroads High School,153,1.31,Granite Falls School District,Granite Falls
-Granite Falls High School,525,4,Granite Falls School District,Granite Falls
+Granite Falls High School,525,4.00,Granite Falls School District,Granite Falls
 Granite Falls Middle School,403,2.98,Granite Falls School District,Granite Falls
 Granite Falls Open Doors,101,0.99,Granite Falls School District,Granite Falls
 Monte Cristo Elementary,463,4.32,Granite Falls School District,Granite Falls
 Mountain Way Elementary,373,2.14,Granite Falls School District,Granite Falls
+Grapeview Elementary,150,1.33,Grapeview School District,Grapeview
+Grapeview Middle School,74,0.00,Grapeview School District,Grapeview
+Harrah Community Christian School,41,12.20,Private,Harrah
+Harrah Elementary School,561,0.00,Mount Adams School District,Harrah
+Harrington Elementary,64,12.50,Harrington School District,Harrington
+Harrington High School,57,5.26,Harrington School District,Harrington
+Central Elementary School,244,0.00,Hoquiam School District,Hoquiam
+Emerson School,240,2.50,Hoquiam School District,Hoquiam
+Homelink School,109,1.83,Hoquiam School District,Hoquiam
+Hoquiam High School,488,2.05,Hoquiam School District,Hoquiam
+Hoquiam Middle School,378,1.59,Hoquiam School District,Hoquiam
+Lincoln Elementary School,243,2.06,Hoquiam School District,Hoquiam
+Columbia High and Elementary,135,5.93,Columbia (Stevens) School District,Hunters
+Ilwaco High School,287,1.74,Ocean Beach School District,Ilwaco
+Ilwaco Middle School,332,1.51,Ocean Beach School District,Ilwaco
+Inchelium Elementary School,112,0.00,Inchelium School District,Inchelium
+Inchelium High School,68,0.00,Inchelium School District,Inchelium
+Inchelium Middle School,48,0.00,Inchelium School District,Inchelium
 Index Elementary School,32,9.38,Index School District,Index
+Selkirk High School,78,3.85,Selkirk School District,Ione
+Selkirk Middle School,49,4.08,Selkirk School District,Ione
 Beaver Lake Middle School,849,0.82,Issaquah School District,Issaquah
 Challenger Elementary,625,2.24,Issaquah School District,Issaquah
 Clark Elementary,739,3.79,Issaquah School District,Issaquah
@@ -389,16 +757,59 @@ Issaquah High School,"2,389",1.84,Issaquah School District,Issaquah
 Issaquah Middle School,"1,022",2.05,Issaquah School District,Issaquah
 Issaquah Valley Elementary,620,1.29,Issaquah School District,Issaquah
 Pacific Cascade Middle Sch,971,1.03,Issaquah School District,Issaquah
-Snoqualmie Springs School,53,0,Private,Issaquah
+Snoqualmie Springs School,53,0.00,Private,Issaquah
 St. Joseph Catholic School of Issaquah,219,5.02,Private,Issaquah
-Synergy Learning Academy,25,0,Private,Issaquah
-Meriwether Elementary School,343,1.17,Clover Park School District,Jblm Lewis Mcchord
-Rainier Elementary School,502,1.39,Clover Park School District,Jblm Lewis Mcchord
+Synergy Learning Academy,25,0.00,Private,Issaquah
+Meriwether Elementary School,343,1.17,Clover Park School District,JBLM Lewis McChord
+Rainier Elementary School,502,1.39,Clover Park School District,JBLM Lewis McChord
+Kahlotus Elem and High,45,0.00,Kahlotus School District,Kahlotus
+Keller Elementary,30,0.00,Keller School District,Keller
+Barnes Elementary,384,3.39,Kelso School District,Kelso
+Butler Acres Elementary,411,2.19,Kelso School District,Kelso
+Catlin Elementary,365,4.66,Kelso School District,Kelso
+Coweeman Middle School,575,0.87,Kelso School District,Kelso
+Huntington Middle School,561,1.60,Kelso School District,Kelso
+Kelso High School,"1,657",1.99,Kelso School District,Kelso
+Kelso Virtual Academy,39,2.56,Kelso School District,Kelso
+Loowit,20,0.00,Kelso School District,Kelso
+Rose Valley Elementary,150,0.67,Kelso School District,Kelso
+Three Rivers Christian School--Kelso Jr./Sr. High Campus,105,10.48,Private,Kelso
+Wallace Elementary,367,3.27,Kelso School District,Kelso
 Arrowhead Elementary,413,3.87,Northshore School District,Kenmore
 Inglemoor High School,"1,745",2.58,Northshore School District,Kenmore
-Kenmore Elementary,500,1.6,Northshore School District,Kenmore
+Kenmore Elementary,500,1.60,Northshore School District,Kenmore
 Kenmore Middle School,708,3.25,Northshore School District,Kenmore
 Moorlands Elementary,614,0.98,Northshore School District,Kenmore
+Amistad Elementary School,522,0.19,Kennewick School District,Kennewick
+Bethlehem Lutheran School,174,3.45,Private,Kennewick
+Calvary Christian School,160,10.00,Private,Kennewick
+Canyon View Elementary School,527,1.33,Kennewick School District,Kennewick
+Cascade Elementary School,602,2.82,Kennewick School District,Kennewick
+Chinook Middle School,897,1.34,Kennewick School District,Kennewick
+Cottonwood Elementary,757,2.25,Kennewick School District,Kennewick
+Desert Hills Middle School,868,1.61,Kennewick School District,Kennewick
+Eastgate Elementary School,582,1.72,Kennewick School District,Kennewick
+Edison Elementary School,616,1.95,Kennewick School District,Kennewick
+Finley Elementary,303,1.65,Finley School District,Kennewick
+Finley Middle School,203,1.97,Finley School District,Kennewick
+Hawthorne Elementary School,544,0.18,Kennewick School District,Kennewick
+Highlands Middle School,807,2.48,Kennewick School District,Kennewick
+Horse Heaven Hills Middle School,815,2.33,Kennewick School District,Kennewick
+Kennewick High School,"1,695",1.89,Kennewick School District,Kennewick
+Lincoln Elementary School,573,2.44,Kennewick School District,Kennewick
+Mid-Columbia Parent Partnership,312,10.26,Kennewick School District,Kennewick
+Park Middle School,715,0.84,Kennewick School District,Kennewick
+Phoenix High School,62,0.00,Kennewick School District,Kennewick
+Ridge View Elementary School,651,2.00,Kennewick School District,Kennewick
+River View High School,338,2.07,Finley School District,Kennewick
+Sage Crest Elementary,546,3.30,Kennewick School District,Kennewick
+Southgate Elementary School,467,2.78,Kennewick School District,Kennewick
+Southridge High School,"1,688",1.24,Kennewick School District,Kennewick
+St. Joseph's School,201,4.98,Private,Kennewick
+Sunset View Elementary School,552,1.99,Kennewick School District,Kennewick
+Vista Elementary School,574,1.39,Kennewick School District,Kennewick
+Washington Elementary School,485,1.03,Kennewick School District,Kennewick
+Westgate Elementary School,549,5.10,Kennewick School District,Kennewick
 Cedar Heights Middle,647,2.94,Kent School District,Kent
 Cedar Valley Elementary,255,0.78,Kent School District,Kent
 East Hill Elementary,534,1.87,Kent School District,Kent
@@ -415,7 +826,7 @@ Kentridge High,"2,191",0.82,Kent School District,Kent
 Lake Youngs Elementary,508,3.54,Kent School District,Kent
 Martin Sortun Elementary,662,3.02,Kent School District,Kent
 Meadow Ridge Elementary,532,3.76,Kent School District,Kent
-Meridian Elementary,600,2,Kent School District,Kent
+Meridian Elementary,600,2.00,Kent School District,Kent
 Meridian Middle,625,1.44,Kent School District,Kent
 Mill Creek Middle,829,0.12,Kent School District,Kent
 Millennium Elementary,609,4.11,Kent School District,Kent
@@ -432,46 +843,84 @@ Sunrise Elementary,667,2.25,Kent School District,Kent
 Tahoma Senior High School,"2,603",2.19,Tahoma School District,Kent
 The Outreach Program,80,8.75,Kent School District,Kent
 Totem Middle School,693,0.58,Federal Way School District,Kent
+Kettle Falls Elementary School,292,6.16,Kettle Falls School District,Kettle Falls
+Kettle Falls High School,230,7.83,Kettle Falls School District,Kettle Falls
+Kettle Falls Middle School,237,9.70,Kettle Falls School District,Kettle Falls
 David Wolfle Elementary,369,3.52,North Kitsap School District,Kingston
 Kingston High School,770,3.51,North Kitsap School District,Kingston
 Kingston Middle School,509,2.16,North Kitsap School District,Kingston
-North Kitsap Msop,27,25.93,North Kitsap School District,Kingston
+North Kitsap MSOP,27,25.93,North Kitsap School District,Kingston
 Richard Gordon Elementary,445,5.84,North Kitsap School District,Kingston
 Bell Elementary,414,4.35,Lake Washington School District,Kirkland
 Community School,71,12.68,Lake Washington School District,Kirkland
 Contractual School,36,11.11,Lake Washington School District,Kirkland
-Countryside Montessori School,11,0,Private,Kirkland
+Countryside Montessori School,11,0.00,Private,Kirkland
 Discovery Elementary School,69,15.94,Lake Washington School District,Kirkland
 Eastside Preparatory School,430,1.86,Private,Kirkland
 Emerson High School,54,12.96,Lake Washington School District,Kirkland
-Emerson K-12,68,25,Lake Washington School District,Kirkland
+Emerson K-12,68,25.00,Lake Washington School District,Kirkland
 Environmental School,139,4.32,Lake Washington School District,Kirkland
 Finn Hill Middle School,636,3.77,Lake Washington School District,Kirkland
 Franklin Elementary,458,1.97,Lake Washington School District,Kirkland
 Frost Elementary,427,2.11,Lake Washington School District,Kirkland
-Futures School,26,0,Lake Washington School District,Kirkland
+Futures School,26,0.00,Lake Washington School District,Kirkland
 Holy Family Parish School,241,1.66,Private,Kirkland
-International Community School,437,1.6,Lake Washington School District,Kirkland
+International Community School,437,1.60,Lake Washington School District,Kirkland
 Juanita Elementary,364,2.47,Lake Washington School District,Kirkland
-Juanita Sr. High School,"1,522",2.5,Lake Washington School District,Kirkland
+Juanita Sr. High School,"1,522",2.50,Lake Washington School District,Kirkland
 Kamiakin Middle School,587,3.24,Lake Washington School District,Kirkland
 Keller Elementary,366,4.64,Lake Washington School District,Kirkland
 Kineo School,12,33.33,Private,Kirkland
 Kirk Elementary,567,2.47,Lake Washington School District,Kirkland
 Kirkland Middle School,617,2.76,Lake Washington School District,Kirkland
 Kirkland Sda School,118,2.54,Private,Kirkland
-Lake Washington Sr. High School,"1,718",3.96,Lake Washington School District,Kirkland
+Lake Washington Sr. High Sch,"1,718",3.96,Lake Washington School District,Kirkland
 Lakeview Elementary,562,3.02,Lake Washington School District,Kirkland
-Les Lilas,13,0,Private,Kirkland
+Les Lilas,13,0.00,Private,Kirkland
 Muir Elementary,421,2.38,Lake Washington School District,Kirkland
-Northlake Preschool/ Northlake Academy,69,2.9,Private,Kirkland
+Northlake Preschool/ Northlake Academy,69,2.90,Private,Kirkland
 Northstar Middle School,90,4.44,Lake Washington School District,Kirkland
 Puget Sound Adventist Academy,87,1.15,Private,Kirkland
-Rose Hill Elementary,480,2.5,Lake Washington School District,Kirkland
+Rose Hill Elementary,480,2.50,Lake Washington School District,Kirkland
 Sandburg Elementary,448,2.46,Lake Washington School District,Kirkland
-Thoreau Elementary,461,3.9,Lake Washington School District,Kirkland
+Thoreau Elementary,461,3.90,Lake Washington School District,Kirkland
 Twain Elementary,607,3.62,Lake Washington School District,Kirkland
-Woodinville Community Center,10,0,Northshore School District,Kirkland
+Kittitas Elementary School,286,1.75,Kittitas School District,Kittitas
+Kittitas Secondary School,384,4.17,Kittitas School District,Kittitas
+La Center Elementary School,731,6.16,La Center School District,La Center
+La Center High School,561,2.50,La Center School District,La Center
+La Center Middle School,390,3.85,La Center School District,La Center
+La Conner Elementary,256,3.13,La Conner School District,La Conner
+La Conner High School,198,4.04,La Conner School District,La Conner
+La Conner Middle,145,1.38,La Conner School District,La Conner
+Aspire Middle School,325,1.23,North Thurston Public Schools,Lacey
+Chambers Prairie Elementary,"2,590",1.66,North Thurston Public Schools,Lacey
+Chinook Middle School,747,0.94,North Thurston Public Schools,Lacey
+Community Christian Academy,165,1.82,Private,Lacey
+Evergreen forest Elementary,579,1.21,North Thurston Public Schools,Lacey
+Holy Family School,84,1.19,Private,Lacey
+Horizons Elementary School,534,1.87,North Thurston Public Schools,Lacey
+Komachin Middle School,695,1.73,North Thurston Public Schools,Lacey
+Lacey Elementary,495,2.83,North Thurston Public Schools,Lacey
+Lydia Hawk Elementary,485,2.47,North Thurston Public Schools,Lacey
+Meadows Elementary,615,2.44,North Thurston Public Schools,Lacey
+Mountain View Elementary,609,0.82,North Thurston Public Schools,Lacey
+Nisqually Middle School,805,1.49,North Thurston Public Schools,Lacey
+North Thurston High School,"1,477",2.30,North Thurston Public Schools,Lacey
+Northwest Christian High School,131,2.29,Private,Lacey
+Olympic View Elementary,556,2.34,North Thurston Public Schools,Lacey
+Paramount Christian Academy,33,9.09,Private,Lacey
+Pleasant Glade Elementary,404,0.74,North Thurston Public Schools,Lacey
+Pope John Paul Ii High School,92,1.09,Private,Lacey
+River Ridge High School,"1,397",1.36,North Thurston Public Schools,Lacey
+Salish Middle School,741,1.35,North Thurston Public Schools,Lacey
+Seven Oaks Elementary,447,0.67,North Thurston Public Schools,Lacey
+South Bay Elementary,713,3.09,North Thurston Public Schools,Lacey
+South Sound High School,168,2.38,North Thurston Public Schools,Lacey
+Timberline High School,"1,619",1.67,North Thurston Public Schools,Lacey
+Woodland Elementary,"4,922",1.38,North Thurston Public Schools,Lacey
+Lacrosse Elementary School,39,12.82,LaCrosse School District,LaCrosse
+Lacrosse High School,23,8.70,LaCrosse School District,LaCrosse
 Brookside Elementary School,510,2.35,Shoreline School District,Lake Forest Park
 Lake Forest Park Elementary,569,2.46,Shoreline School District,Lake Forest Park
 Glenwood Elementary,558,3.41,Lake Stevens School District,Lake Stevens
@@ -479,25 +928,25 @@ Lake Stevens Middle,652,2.15,Lake Stevens School District,Lake Stevens
 Lake Stevens Sr. High,"1,914",1.93,Lake Stevens School District,Lake Stevens
 North Lake Middle,757,2.38,Lake Stevens School District,Lake Stevens
 Skyline Elementary,585,2.74,Lake Stevens School District,Lake Stevens
-Sunnycrest Elementary,789,3.8,Lake Stevens School District,Lake Stevens
+Sunnycrest Elementary,789,3.80,Lake Stevens School District,Lake Stevens
 Zion Lutheran School,109,14.68,Private,Lake Stevens
 Dieringer Heights Elementary,466,4.29,Dieringer School District,Lake Tapps
 Lake Tapps Elementary,462,4.55,Dieringer School District,Lake Tapps
 North Tapps Middle School,524,2.67,Dieringer School District,Lake Tapps
-Evergreen Elementary,264,5.3,Peninsula School District,Lakebay
+Evergreen Elementary,264,5.30,Peninsula School District,Lakebay
 Key Peninsula Middle School,486,4.32,Peninsula School District,Lakebay
-Alfaretta Transition Program,148,0,Clover Park School District,Lakewood
+Alfaretta Transition Program,148,0.00,Clover Park School District,Lakewood
 Beachwood Elementary School,328,0.61,Clover Park School District,Lakewood
 Carter Lake Elementary School,470,0.85,Clover Park School District,Lakewood
 Clover Park High School,"1,286",0.47,Clover Park School District,Lakewood
-Contract Services/Relife,13,0,Clover Park School District,Lakewood
-Cpsd Open Doors Program,168,0,Clover Park School District,Lakewood
+Contract Services/Relife,13,0.00,Clover Park School District,Lakewood
+Cpsd Open Doors Program,168,0.00,Clover Park School District,Lakewood
 Custer Elementary School,282,1.77,Clover Park School District,Lakewood
 Dower Elementary School,316,2.53,Clover Park School District,Lakewood
-Firwood Secondary,41,0,Clover Park School District,Lakewood
+Firwood Secondary,41,0.00,Clover Park School District,Lakewood
 Four Heroes Elementary,704,0.14,Clover Park School District,Lakewood
 Harrison Prep School,690,0.58,Clover Park School District,Lakewood
-Hudtloff Middle School,758,0.4,Clover Park School District,Lakewood
+Hudtloff Middle School,758,0.40,Clover Park School District,Lakewood
 Idlewild Elementary School,510,1.37,Clover Park School District,Lakewood
 Lake Louise Elementary School,420,2.62,Clover Park School District,Lakewood
 Lakes High School,"1,385",0.58,Clover Park School District,Lakewood
@@ -505,20 +954,74 @@ Lakeview Hope Academy,662,0.76,Clover Park School District,Lakewood
 Lakewood Lutheran,30,3.33,Private,Lakewood
 Lochburn Middle School,618,0.49,Clover Park School District,Lakewood
 Mann Middle School,393,1.02,Clover Park School District,Lakewood
-Oak Grove Elementary School,16,0,Clover Park School District,Lakewood
+Oak Grove Elementary School,16,0.00,Clover Park School District,Lakewood
 Oakbrook Elementary School,326,1.23,Clover Park School District,Lakewood
 Park Lodge Elementary School,460,1.74,Clover Park School District,Lakewood
-St. Frances Cabrini School,186,0,Private,Lakewood
+St. Frances Cabrini School,186,0.00,Private,Lakewood
 Tillicum Elementary School,352,1.14,Clover Park School District,Lakewood
 Tyee Park Elementary School,443,0.45,Clover Park School District,Lakewood
-Woodbrook Middle School,509,0.2,Clover Park School District,Lakewood
+Woodbrook Middle School,509,0.20,Clover Park School District,Lakewood
+Lamont Middle School,38,0.00,Lamont School District,Lamont
+Island Christian Academy,80,10.00,Private,Langley
+South Whidbey Academy,81,11.11,South Whidbey School District,Langley
+South Whidbey Elementary,689,5.52,South Whidbey School District,Langley
+South Whidbey High School,458,7.86,South Whidbey School District,Langley
+South Whidbey Middle School,230,9.57,South Whidbey School District,Langley
+Beaver Valley School,32,15.63,Cascade School District,Leavenworth
+Cascade High School,437,2.75,Cascade School District,Leavenworth
+Icicle River Middle School,282,3.90,Cascade School District,Leavenworth
+Osborn Elementary,306,6.21,Cascade School District,Leavenworth
+Upper Valley Christian School,54,14.81,Private,Leavenworth
+Liberty Creek Elementary School,587,4.09,Central Valley School District,Liberty Lake
+Mcdonald Elementary School,306,5.88,Central Valley School District,Liberty Lake
+Lind Elementary School,90,2.22,Lind School District,Lind
+Lind-Ritzville High School,58,5.17,Lind School District,Lind
+Littlerock Elementary,289,3.11,Tumwater School District,Littlerock
+Long Beach Elementary School,240,5.83,Ocean Beach School District,Long Beach
+Beacon Hill Elementary,517,1.93,Kelso School District,Longview
+Cascade Middle School,557,2.33,Longview School District,Longview
+Columbia Heights Elementary,351,3.42,Longview School District,Longview
+Columbia Valley Garden Elem School,413,3.63,Longview School District,Longview
+Discovery High School,149,0.67,Longview School District,Longview
+Kessler Elementary School,313,0.32,Longview School District,Longview
+Longview School District Special Services,371,1.08,Longview School District,Longview
+Mark Morris High School,991,2.62,Longview School District,Longview
+Mint Valley Elementary,433,1.85,Longview School District,Longview
+Monticello Middle School,510,1.76,Longview School District,Longview
+Mt. Solo Middle School,428,1.87,Longview School District,Longview
+Northlake Elementary School,304,2.30,Longview School District,Longview
+Olympic Elementary School,402,1.24,Longview School District,Longview
+R A Long High School,905,1.88,Longview School District,Longview
+Robert Gray Elementary,448,5.13,Longview School District,Longview
+St. Rose School,120,1.67,Private,Longview
+Three Rivers Christian School-Longview Elementary,144,3.47,Private,Longview
+Loon Lake Elementary,118,5.08,Loon Lake School District,Loon Lake
+Loon Lake Homelink,107,0.00,Loon Lake School District,Loon Lake
+Lopez Elementary,125,8.80,Lopez School District,Lopez Island
+Lopez Middle High School,99,12.12,Lopez School District,Lopez Island
+Beach Elem,43,18.60,Ferndale School District,Lummi Island
+Lyle High School,77,6.49,Lyle School District,Lyle
+Lyle Middle School,58,10.34,Lyle School District,Lyle
+Lyman Elementary School,177,1.69,Sedro-Woolley School District,Lyman
+Cornerstone Christian School,116,1.72,Private,Lynden
+Covenant Christian School,27,25.93,Private,Lynden
+Ebenezer Christian School,170,7.65,Private,Lynden
+Fisher Elementary School,436,3.90,Lynden School District,Lynden
+Isom Elementary School,528,3.03,Lynden School District,Lynden
+Lynden Academy,223,23.77,Lynden School District,Lynden
+Lynden Christian Schools,993,2.11,Private,Lynden
+Lynden High School,880,3.75,Lynden School District,Lynden
+Lynden Middle School,670,2.54,Lynden School District,Lynden
+Lynden Special Services,106,1.89,Lynden School District,Lynden
+Meridian Middle School,303,4.95,Meridian School District,Lynden
+Vossbeck Elementary School,460,3.26,Lynden School District,Lynden
 Alderwood Middle School,832,2.28,Edmonds School District,Lynnwood
 Beverly Elementary School,580,3.97,Edmonds School District,Lynnwood
 Brighton School,267,0.75,Private,Lynnwood
 Cedar Park Christian School--Lynnwood Campus,152,5.26,Private,Lynnwood
 Cedar Valley Community School,439,0.91,Edmonds School District,Lynnwood
 College Place Elementary,502,1.79,Edmonds School District,Lynnwood
-College Place Middle School,459,2.4,Edmonds School District,Lynnwood
+College Place Middle School,459,2.40,Edmonds School District,Lynnwood
 Contracted Schools,21,4.76,Edmonds School District,Lynnwood
 Cypress Adventist School,31,6.45,Private,Lynnwood
 Edmonds Elearning Academy,84,2.38,Edmonds School District,Lynnwood
@@ -526,10 +1029,11 @@ Hazelwood Elementary School,484,3.31,Edmonds School District,Lynnwood
 Hilltop Elementary School,532,3.38,Edmonds School District,Lynnwood
 Journey School,36,2.78,Private,Lynnwood
 Lake Stickney Elementary,567,3.53,Mukilteo School District,Lynnwood
+Living Wisdom School of Seattle,23,43.48,Private,Lynnwood
 Lynndale Elementary School,435,0.92,Edmonds School District,Lynnwood
 Lynnwood Elementary School,525,3.62,Edmonds School District,Lynnwood
 Martha Lake Elementary School,472,1.69,Edmonds School District,Lynnwood
-Meadowdale Elementary School,535,4.3,Edmonds School District,Lynnwood
+Meadowdale Elementary School,535,4.30,Edmonds School District,Lynnwood
 Meadowdale High School,"1,626",0.86,Edmonds School District,Lynnwood
 Meadowdale Middle School,746,2.68,Edmonds School District,Lynnwood
 Oak Heights Elementary School,630,2.22,Edmonds School District,Lynnwood
@@ -537,9 +1041,15 @@ Providence Classical Christian School,226,18.14,Private,Lynnwood
 Soundview School,71,1.41,Private,Lynnwood
 Spruce Elementary School,555,1.98,Edmonds School District,Lynnwood
 St. Thomas More School,227,1.32,Private,Lynnwood
-Edmonds Career Access,253,1.58,Edmonds School District,Lynwood
-Graduation Alliance (Ols),22,4.55,Edmonds School District,Lynwood
-Living Wisdom School of Seattle,23,43.48,Private,Lynwood
+Edmonds Career Access,253,1.58,Edmonds School District,Lynnwood
+Graduation Alliance (Ols),22,4.55,Edmonds School District,Lynnwood
+Artz Fox Elementary,553,0.18,Mabton School District,Mabton
+Mansfield Elementary,44,0.00,Mansfield School District,Mansfield
+Mansfield Secondary School,41,0.00,Mansfield School District,Mansfield
+Manson Elementary,291,3.44,Manson School District,Manson
+Manson High School,189,1.06,Manson School District,Manson
+Manson Middle School,150,1.33,Manson School District,Manson
+Kendall Elementary,420,10.95,Mount Baker School District,Maple Falls
 Blossoming Hill Montessori,35,11.43,Private,Maple Valley
 Cedar River Elementary,598,3.85,Tahoma School District,Maple Valley
 Glacier Park Elementary,661,1.82,Tahoma School District,Maple Valley
@@ -548,8 +1058,8 @@ Maple View Middle School,970,1.44,Tahoma School District,Maple Valley
 Rock Creek Elementary,700,4.29,Tahoma School District,Maple Valley
 Shadow Lake Elementary,480,4.17,Tahoma School District,Maple Valley
 Tahoma Middle School,609,1.81,Tahoma School District,Maple Valley
-10Th Street School,177,0.56,Marysville School District,Marysville
-Academy Nw - Marysville Campus,284,25,Private,Marysville
+10th Street School,177,0.56,Marysville School District,Marysville
+Academy NW - Marysville Campus,284,25.00,Private,Marysville
 Allen Creek Elementary School,480,3.33,Marysville School District,Marysville
 Cascade Elementary,448,1.56,Marysville School District,Marysville
 Cedarcrest School,786,3.18,Marysville School District,Marysville
@@ -563,72 +1073,275 @@ Marysville Arts and Technology High School,169,2.96,Marysville School District,M
 Marysville Coop Program,274,9.49,Marysville School District,Marysville
 Marysville Middle School,800,1.75,Marysville School District,Marysville
 Marysville Mountain View High School,131,1.53,Marysville School District,Marysville
-Mp Pathways of Choice,"1,266",1.9,Marysville School District,Marysville
-Open Doors Re-Engagement,11,0,Lakewood School District,Marysville
+Mp Pathways of Choice,"1,266",1.90,Marysville School District,Marysville
+Open Doors Re-Engagement,11,0.00,Lakewood School District,Marysville
 Pinewood Elementary,557,4.31,Marysville School District,Marysville
 Quil Ceda Elementary,559,1.79,Marysville School District,Marysville
 Shoultes Elementary,482,4.36,Marysville School District,Marysville
 Sunnyside Elementary,534,4.12,Marysville School District,Marysville
 Totem Middle School,566,4.06,Marysville School District,Marysville
-Medina Elementary,499,0.4,Bellevue School District,Medina
+Mattawa Elementary,358,0.28,Wahluke School District,Mattawa
+Morris Schott Elementary,233,0.00,Wahluke School District,Mattawa
+Saddle Mountain Elementary,437,0.23,Wahluke School District,Mattawa
+Sentinel Tech  Alternative,26,0.00,Wahluke School District,Mattawa
+Wahluke High School,600,0.50,Wahluke School District,Mattawa
+Wahluke Jr. High,582,0.00,Wahluke School District,Mattawa
+Mc Cleary Elementary School,312,1.28,McCleary School District,McCleary
+Mead Open Doors,18,5.56,Mead School District,Mead
+Meadow Ridge Elementary,559,4.11,Mead School District,Mead
+Mt Spokane High School,"1,587",2.46,Mead School District,Mead
+Hallett Elementary,488,3.89,Medical Lake School District,Medical Lake
+Medical Lake Alternative High School,29,10.34,Medical Lake School District,Medical Lake
+Medical Lake High School,535,3.36,Medical Lake School District,Medical Lake
+Medical Lake Middle School,402,1.00,Medical Lake School District,Medical Lake
+Medina Elementary,499,0.40,Bellevue School District,Medina
 St. Thomas School,252,1.98,Private,Medina
 Three Points Elementary,227,0.88,Private,Medina
-French-Am School of Puget Sound,357,0,Private,Mercer Island
+Willapa Elementary,163,1.84,Willapa Valley School District,Menlo
+Willapa Valley Middle-High,193,1.04,Willapa Valley School District,Menlo
+French-Am School of Puget Sound,357,0.00,Private,Mercer Island
 Island Park Elementary,421,4.75,Mercer Island School District,Mercer Island
 Islander Middle School,"1,152",1.91,Mercer Island School District,Mercer Island
 Lakeridge Elementary,471,1.06,Mercer Island School District,Mercer Island
 Mercer Island High School,"1,536",2.08,Mercer Island School District,Mercer Island
 Northwood Elementary,444,2.93,Mercer Island School District,Mercer Island
-Privett Academy,15,0,Private,Mercer Island
+Privett Academy,15,0.00,Private,Mercer Island
 St. Monica School,147,2.72,Private,Mercer Island
 West Mercer Elementary,497,2.21,Mercer Island School District,Mercer Island
 Yellow Wood Academy,110,1.82,Private,Mercer Island
+Basin City Elementary,400,0.25,North Franklin School District,Mesa
+Mesa Elementary,172,4.07,North Franklin School District,Mesa
+Selkirk Elementary,121,2.48,Selkirk School District,Metaline Falls
 Heatherwood Middle School,"1,006",1.79,Everett School District,Mill Creek
 Discovery Primary School,590,6.44,Fife School District,Milton
-Endeavour Intermediate,586,2.9,Fife School District,Milton
+Endeavour Intermediate,586,2.90,Fife School District,Milton
 Surprise Lake Middle School,598,2.01,Fife School District,Milton
 Cornerstone Academy,46,2.17,Private,Monroe
 Frank Wagner Elementary,572,1.57,Monroe School District,Monroe
-Fryelands Elementary School,452,3.1,Monroe School District,Monroe
+Fryelands Elementary School,452,3.10,Monroe School District,Monroe
 Leaders In Learning,74,5.41,Monroe School District,Monroe
 Monroe Christian School,105,3.81,Private,Monroe
-Monroe High School,"1,733",3,Monroe School District,Monroe
+Monroe High School,"1,733",3.00,Monroe School District,Monroe
 Park Place Middle School,761,2.89,Monroe School District,Monroe
 Salem Woods Elementary School,484,5.58,Monroe School District,Monroe
 Sky Valley Education Center,896,23.66,Monroe School District,Monroe
-Cedar Park Christian School - Mountlake Terrace Campus,103,5.83,Private,Mountlake Terrace
+Beacon Elementary,307,3.91,Montesano School District,Montesano
+Grays Harbor Adventist Christian School,13,38.46,Private,Montesano
+Montesano Jr./Sr. High School,651,3.07,Montesano School District,Montesano
+Simpson Elementary School,416,4.09,Montesano School District,Montesano
+Morton Elementary School,153,3.27,Morton School District,Morton
+Morton Junior-Senior High,157,2.55,Morton School District,Morton
+Chief Moses Middle School,943,2.44,Moses Lake School District,Moses Lake
+Endeavor Middle School,264,1.14,Moses Lake School District,Moses Lake
+Frontier Middle School,757,2.25,Moses Lake School District,Moses Lake
+Garden Heights Elementary,533,4.69,Moses Lake School District,Moses Lake
+Knolls Vista Elementary,436,1.83,Moses Lake School District,Moses Lake
+Lakeview Terrace Elementary,440,1.36,Moses Lake School District,Moses Lake
+Larson Heights Elementary,363,1.65,Moses Lake School District,Moses Lake
+Longview Elementary,457,5.69,Moses Lake School District,Moses Lake
+Midway Learning Center,266,0.75,Moses Lake School District,Moses Lake
+Moses Lake Christian Academy,164,3.05,Private,Moses Lake
+Moses Lake High School,"2,374",1.68,Moses Lake School District,Moses Lake
+North Elementary,304,5.59,Moses Lake School District,Moses Lake
+Park Orchard Elementary,474,6.12,Moses Lake School District,Moses Lake
+Peninsula Elementary,509,4.13,Moses Lake School District,Moses Lake
+Sage Point Elementary,433,3.93,Moses Lake School District,Moses Lake
+Mossyrock Elementary,288,2.78,Mossyrock School District,Mossyrock
+Mossyrock Jr./Sr. High School,228,2.63,Mossyrock School District,Mossyrock
+Big Lake Elementary School,334,4.19,Sedro-Woolley School District,Mount Vernon
+Centennial Elementary School,547,2.74,Mount Vernon School District,Mount Vernon
+Conway Elementary,294,6.46,Conway School District,Mount Vernon
+Conway Middle School,144,2.08,Conway School District,Mount Vernon
+Immaculate Conception Regional School,202,1.98,Private,Mount Vernon
+Jefferson Elementary,539,2.60,Mount Vernon School District,Mount Vernon
+Laventure Middle School,647,1.08,Mount Vernon School District,Mount Vernon
+Lincoln Elementary,361,2.77,Mount Vernon School District,Mount Vernon
+Little Mountain Elementary,634,3.31,Mount Vernon School District,Mount Vernon
+Madison Elementary,528,4.17,Mount Vernon School District,Mount Vernon
+Mount Baker Middle School,677,1.77,Mount Vernon School District,Mount Vernon
+Mount Vernon Christian School,291,13.40,Private,Mount Vernon
+Mount Vernon High School,"1,985",1.41,Mount Vernon School District,Mount Vernon
+Skagit Family Learning Center,349,39.54,Mount Vernon School District,Mount Vernon
+Washington Elementary,419,2.63,Mount Vernon School District,Mount Vernon
+Cedar Park Christian School--Mountlake Terrace Campus,103,5.83,Private,Mountlake Terrace
 Cedar Way Elementary School,561,3.03,Edmonds School District,Mountlake Terrace
 Challenge Elementary School,332,3.01,Edmonds School District,Mountlake Terrace
 Mountlake Terrace Elementary,399,2.76,Edmonds School District,Mountlake Terrace
 Mountlake Terrace High School,"1,365",2.64,Edmonds School District,Mountlake Terrace
-St. Pius X School,126,0,Private,Mountlake Terrace
+St. Pius X School,126,0.00,Private,Mountlake Terrace
 Terrace Park School,315,2.22,Edmonds School District,Mountlake Terrace
+Moxee Elementary,532,1.50,East Valley School District (Yakima),Moxee
+Terrace Heights Elementary,513,0.78,East Valley School District (Yakima),Moxee
+Foothills Christian School,49,16.33,Private,Mount Vernon
+Nw Career and Tech Academy,264,0.00,Mount Vernon School District,Mount Vernon
 Columbia Elementary,511,4.31,Mukilteo School District,Mukilteo
 Endeavour Elementary,491,3.26,Mukilteo School District,Mukilteo
-Harbour Pointe Middle School,781,2.3,Mukilteo School District,Mukilteo
+Harbour Pointe Middle School,781,2.30,Mukilteo School District,Mukilteo
 Kamiak High School,"2,078",1.15,Mukilteo School District,Mukilteo
 Mukilteo Elementary,632,4.27,Mukilteo School District,Mukilteo
 Olympic View Middle School,937,2.13,Mukilteo School District,Mukilteo
+Naches Valley High School,418,2.15,Naches Valley School District,Naches
+Naches Valley Middle School,401,1.00,Naches Valley School District,Naches
+Naselle Elementary,165,3.64,Naselle-Grays River Valley School District,Naselle
+Naselle Jr. Sr. High Schools,173,2.89,Naselle-Grays River Valley School District,Naselle
 Hazelwood Elementary,655,1.83,Renton School District,Newcastle
 Newcastle Elementary,631,2.06,Issaquah School District,Newcastle
 Risdon Middle School,818,1.22,Renton School District,Newcastle
+East Farms School,425,5.18,East Valley School District (Spokane),Newman Lake
+Newport High School,389,5.66,Newport School District,Newport
+Pend Oreille River School,30,10.00,Newport School District,Newport
+Sadie Halstead Middle School,347,2.02,Newport School District,Newport
+Stratton Elementary School,371,4.85,Newport School District,Newport
+Lake Spokane Elementary,456,5.26,Nine Mile Falls School District,Nine Mile Falls
+Lakeside High School,488,2.87,Nine Mile Falls School District,Nine Mile Falls
+Lakeside Middle School,332,2.41,Nine Mile Falls School District,Nine Mile Falls
+Nine Mile Falls Elementary,145,6.90,Nine Mile Falls School District,Nine Mile Falls
 Marvista Elementary,612,4.08,Highline School District,Normandy Park
-Edwin R. Opstad Elementary,546,3.11,Snoqualmie Valley School District,North Bend
+Edwin R Opstad Elementary,546,3.11,Snoqualmie Valley School District,North Bend
 North Bend Elementary School,494,5.26,Snoqualmie Valley School District,North Bend
 Parent Partnership,75,10.67,Snoqualmie Valley School District,North Bend
 Summit Classical Christian School,87,17.24,Private,North Bend
 Twin Falls Middle School,818,4.52,Snoqualmie Valley School District,North Bend
-Two Rivers School,112,12.5,Snoqualmie Valley School District,North Bend
+Two Rivers School,112,12.50,Snoqualmie Valley School District,North Bend
 English Crossing Elementary,321,4.05,Lakewood School District,North Lakewood
 Lakewood Elementary,387,4.65,Lakewood School District,North Lakewood
 Lakewood High School,744,0.54,Lakewood School District,North Lakewood
 Lakewood Middle School,577,2.25,Lakewood School District,North Lakewood
+Northport Elementary School,111,13.51,Northport School District,Northport
+Northport High School,57,21.05,Northport School District,Northport
+Northport Homelink 9-12,16,25.00,Northport School District,Northport
+Northport Homelink 9-12,16,25.00,Northport School District,Northport
+Northport Homelink K-8,72,9.72,Northport School District,Northport
+Northport Homelink K-8,72,9.72,Northport School District,Northport
+Broad View Elementary,440,2.50,Oak Harbor School District,Oak Harbor
+Crescent Harbor Elementary,490,2.04,Oak Harbor School District,Oak Harbor
+Der Kinderhuis Montessori,22,0.00,Private,Oak Harbor
+Hillcrest Elementary,566,3.71,Oak Harbor School District,Oak Harbor
+Homeconnection,308,22.40,Oak Harbor School District,Oak Harbor
+North Whidbey Middle School,781,1.92,Oak Harbor School District,Oak Harbor
+Oak Harbor Christian School,58,13.79,Private,Oak Harbor
+Oak Harbor Elementary,399,1.25,Oak Harbor School District,Oak Harbor
+Oak Harbor High School,"1,564",2.30,Oak Harbor School District,Oak Harbor
+Oak Harbor Intermediate,905,1.10,Oak Harbor School District,Oak Harbor
+Olympic View Elementary,461,3.25,Oak Harbor School District,Oak Harbor
+Oakesdale Elementary School,112,0.89,Oakesdale School District,Oakesdale
+Oakville Elementary School,111,3.60,Oakville School District,Oakville
+Oakville High School,128,3.13,Oakville School District,Oakville
+Ocean Park Elementary,169,6.51,Ocean Beach School District,Ocean Park
+North Beach High School,210,4.29,North Beach School District,Ocean Shores
+North Beach Junior High School,105,6.67,North Beach School District,Ocean Shores
+Ocean Shores Elementary School,244,2.46,North Beach School District,Ocean Shores
+Odessa Jr./Sr. High School,114,0.00,Odessa School District,Odessa
+P C Jantz Elementary,126,0.79,Odessa School District,Odessa
+Grainger Elementary,459,5.23,Okanogan School District,Okanogan
+Okanogan High School,287,4.18,Okanogan School District,Okanogan
+Okanogan Middle School,254,3.54,Okanogan School District,Okanogan
+Avanti High School,142,11.97,Olympia School District,Olympia
+Black Lake Elementary,403,5.71,Tumwater School District,Olympia
+Boston Harbor Elementary,169,4.73,Olympia School District,Olympia
+Capital High School,"1,419",3.74,Olympia School District,Olympia
+Capital Montessori School,21,0.00,Private,Olympia
+Centennial Elementary,534,3.75,Olympia School District,Olympia
+Cornerstone Christian School,134,2.24,Private,Olympia
+East Olympia Elementary,532,3.95,Tumwater School District,Olympia
+Evergreen Christian School,270,4.44,Private,Olympia
+Garfield Elementary,372,4.57,Olympia School District,Olympia
+Gospel Outreach,49,2.04,Private,Olympia
+Gravity,16,12.50,Tumwater School District,Olympia
+Griffin School K-8,223,4.04,Griffin School District,Olympia
+Griffin School K-8,419,2.63,Griffin School District,Olympia
+Jefferson Middle School,438,3.88,Olympia School District,Olympia
+Julia Butler Hansen Elementary,455,2.20,Olympia School District,Olympia
+L P Brown Elementary,379,1.85,Olympia School District,Olympia
+Lincoln Elementary,283,12.72,Olympia School District,Olympia
+Madison Elementary,241,2.07,Olympia School District,Olympia
+Margaret Mckenny Elementary,356,3.93,Olympia School District,Olympia
+Mclane Elementary,306,0.98,Olympia School District,Olympia
+Nova School,105,8.57,Private,Olympia
+Oly Regional Learning Academy,462,16.23,Olympia School District,Olympia
+Olympia Christian School,38,2.63,Private,Olympia
+Olympia Community School,31,12.90,Private,Olympia
+Olympia High School,"1,868",3.91,Olympia School District,Olympia
+Orla Montessori,213,15.49,Olympia School District,Olympia
+Pioneer Elementary,442,5.88,Olympia School District,Olympia
+Reeves Middle School,449,5.12,Olympia School District,Olympia
+Roosevelt Elementary,414,4.59,Olympia School District,Olympia
+Secondary Options,127,2.36,Tumwater School District,Olympia
+St. Michael School,229,1.75,Private,Olympia
+Sunrise Beach School,56,5.36,Private,Olympia
+Thurgood Marshall Middle School,388,4.90,Olympia School District,Olympia
+Washington Middle School,813,2.83,Olympia School District,Olympia
+East Omak Elementary,367,3.27,Omak School District,Omak
+Highlands High School,19,0.00,Omak School District,Omak
+North Omak Elementary,440,2.73,Omak School District,Omak
+Omak High School,399,1.25,Omak School District,Omak
+Omak Middle School,352,0.85,Omak School District,Omak
+Paschal Sherman,129,0.00,Omak School District,Omak
+Onalaska Elementary School,367,3.27,Onalaska School District,Onalaska
+Onalaska High School,227,2.64,Onalaska School District,Onalaska
+Onalaska Middle School,188,3.19,Onalaska School District,Onalaska
+"Orient	Elementary",50,12.00,Orient School District,Orient
+Orondo Elementary,174,0.00,Orondo School District,Orondo
+Oroville Elementary School,326,3.99,Oroville School District,Oroville
+Oroville Middle High School,260,3.46,Oroville School District,Oroville
 Orting High School,802,2.74,Orting School District,Orting
 Orting Middle School,602,1.33,Orting School District,Orting
-Orting Primary School,572,3.5,Orting School District,Orting
+Orting Primary School,572,3.50,Orting School District,Orting
 Ptarmigan Ridge Elementary,672,4.17,Orting School District,Orting
+Hiawatha Elementary School,561,1.25,Othello School District,Othello
+Lutacaga Elementary,573,0.52,Othello School District,Othello
+Mcfarland Middle School,997,1.00,Othello School District,Othello
+Othello High School,"1,112",1.26,Othello School District,Othello
+Saddle Mountain School,29,0.00,Private,Othello
+Scootney Springs Elementary,556,1.08,Othello School District,Othello
+Wahitis Elementary School,536,0.37,Othello School District,Othello
+Otis Orchards School,430,10.47,East Valley School District (Spokane),Otis Orchards
 Alpac Elementary School,626,5.43,Auburn School District,Pacific
-Bethany Lutheran Elementary,74,0,Private,Port Orchard
+North Coast Montessori School,19,0.00,Private,Pacific Beach
+Pacific Beach Elementary,158,1.27,North Beach School District,Pacific Beach
+Palisades Elementary School,21,0.00,Palisades School District,Palisades
+Barbara Mcclintock Stem Elementary,755,1.72,Pasco School District,Pasco
+Captain Gray Elementary School,551,0.18,Pasco School District,Pasco
+Chiawana High School,"2,738",1.06,Pasco School District,Pasco
+Edwin Markham Elementary,402,2.99,Pasco School District,Pasco
+Ellen Ochoa Middle School,710,0.00,Pasco School District,Pasco
+Emerson Elementary,684,0.58,Pasco School District,Pasco
+James Mcgee Elementary,673,3.71,Pasco School District,Pasco
+Kingspoint Christian School,87,8.05,Private,Pasco
+Longfellow Elementary,479,0.21,Pasco School District,Pasco
+Marie Curie Stem Elementary,842,0.12,Pasco School District,Pasco
+Mark Twain Elementary,750,1.07,Pasco School District,Pasco
+Maya Angelou Elementary,902,2.00,Pasco School District,Pasco
+Mcloughlin Middle School,"1,290",1.47,Pasco School District,Pasco
+New Horizons High School,269,0.37,Pasco School District,Pasco
+Pasco Senior High School,"2,239",0.54,Pasco School District,Pasco
+Robert Frost Elementary,653,5.05,Pasco School District,Pasco
+Rosalind Franklin Stem Elementary,810,1.73,Pasco School District,Pasco
+Rowena Chess Elementary,528,0.19,Pasco School District,Pasco
+Ruth Livingston Elementary,787,1.91,Pasco School District,Pasco
+St. Patrick School,178,1.12,Private,Pasco
+Stevens Middle School,710,0.70,Pasco School District,Pasco
+Tri-Cities Prep,149,6.04,Private,Pasco
+Tri-City Junior Academy,93,6.45,Private,Pasco
+Virgie Robinson Elementary,790,0.25,Pasco School District,Pasco
+Whittier Elementary,618,0.00,Pasco School District,Pasco
+Pateros Elementary,174,8.62,Pateros School District,Pateros
+Pateros High School,146,9.59,Pateros School District,Pateros
+Paterson School,129,5.43,Paterson School District,Paterson
+Pe Ell School,253,3.16,Pe Ell School District,Pe Ell
+Pomeroy Elementary School,177,2.26,Pomeroy School District,Pomeroy
+Pomeroy Jr. Sr. High School,148,4.05,Pomeroy School District,Pomeroy
+Dry Creek Elementary,366,2.46,Port Angeles School District,Port Angeles
+Franklin Elementary,422,5.21,Port Angeles School District,Port Angeles
+Hamilton Elementary,389,5.91,Port Angeles School District,Port Angeles
+Jefferson Elementary,303,4.62,Port Angeles School District,Port Angeles
+Lincoln High School,72,6.94,Port Angeles School District,Port Angeles
+Port Angeles High School,"1,150",3.74,Port Angeles School District,Port Angeles
+Roosevelt Elementary School,531,3.95,Port Angeles School District,Port Angeles
+Stevens Middle School,554,3.61,Port Angeles School District,Port Angeles
+Chimacum Creek Primary School,194,3.61,Chimacum School District,Port Hadlock
+Sunfield Waldorf School,97,51.55,Private,Port Hadlock
+Bethany Lutheran Elementary,74,0.00,Private,Port Orchard
 Burley Christian School,110,26.36,Private,Port Orchard
 Burley Glenwood Elementary,486,5.56,South Kitsap School District,Port Orchard
 Cedar Heights,800,2.25,South Kitsap School District,Port Orchard
@@ -638,22 +1351,42 @@ Explorer Academy,155,8.39,South Kitsap School District,Port Orchard
 Hidden Creek Elementary School,457,3.72,South Kitsap School District,Port Orchard
 John Sedgwick,702,2.71,South Kittitas School District,Port Orchard
 Manchester Elementary School,321,4.05,South Kittitas School District,Port Orchard
-Marcus Whitman,667,3,South Kitsap School District,Port Orchard
-Mullenix Ridge Elementary School,422,3.55,South Kitsap School District,Port Orchard
-Olalla Elementary School,316,3.8,South Kitsap School District,Port Orchard
-Sidney Glen Elementary School,579,1.9,South Kitsap School District,Port Orchard
+Marcus Whitman,667,3.00,South Kitsap School District,Port Orchard
+Mullenix Ridge Elementary Scho,422,3.55,South Kitsap School District,Port Orchard
+Olalla Elementary School,316,3.80,South Kitsap School District,Port Orchard
+Sidney Glen Elementary School,579,1.90,South Kitsap School District,Port Orchard
 South Colby Elementary,341,4.69,South Kitsap School District,Port Orchard
 South Kitsap High School,"2,770",2.64,South Kitsap School District,Port Orchard
-Sunnyslope Elementary School,500,1,South Kitsap School District,Port Orchard
+Sunnyslope Elementary School,500,1.00,South Kitsap School District,Port Orchard
+Blue Heron School,425,8.24,Port Townsend School District,Port Townsend
+Grant Street Elementary,329,4.86,Port Townsend School District,Port Townsend
+Jefferson Community School,16,6.25,Private,Port Townsend
+Port Townsend High School,365,9.32,Port Townsend School District,Port Townsend
+Swan School,29,17.24,Private,Port Townsend
 Gateway Christian Schools,105,10.48,Private,Poulsbo
 Hilder Pearson Elementary,307,0.98,North Kitsap School District,Poulsbo
 North Kitsap High School,"1,150",3.22,North Kitsap School District,Poulsbo
 Pal Program,63,1.59,North Kitsap School District,Poulsbo
 Poulsbo Elementary,535,1.68,North Kitsap School District,Poulsbo
 Poulsbo Middle School,820,1.34,North Kitsap School District,Poulsbo
-Silverwood School,60,15,Private,Poulsbo
+Silverwood School,60,15.00,Private,Poulsbo
 Vinland Elementary,606,1.65,North Kitsap School District,Poulsbo
-West Sound Academy,117,9.4,Private,Poulsbo
+West Sound Academy,117,9.40,Private,Poulsbo
+Nueva Esperanza Leadership Acamy,35,0.00,Private,Prescott
+Prescott Elementary School,138,0.00,Prescott School District,Prescott
+Prescott Jr. Sr. High,114,0.00,Prescott School District,Prescott
+Housel Middle School,621,1.77,Prosser School District,Prosser
+Keene-Riverview Elementary,454,2.20,Prosser School District,Prosser
+Prosser Heights Elementary,475,1.47,Prosser School District,Prosser
+Prosser High School,906,1.32,Prosser School District,Prosser
+Whitstran Elementary,271,0.74,Prosser School District,Prosser
+Franklin Elementary,458,1.75,Pullman School District,Pullman
+Jefferson Elementary (Southside),510,2.16,Pullman School District,Pullman
+Lincoln Middle School,647,0.46,Pullman School District,Pullman
+Montessori School of Pullman,23,8.70,Private,Pullman
+Pullman Christian School,77,7.79,Private,Pullman
+Pullman High School,857,0.82,Pullman School District,Pullman
+Sunnyside Elementary,420,2.14,Pullman School District,Pullman
 Aylen Jr. High,806,1.74,Puyallup School District,Puyallup
 Ballou Jr. High,878,2.28,Puyallup School District,Puyallup
 Carson Elementary,936,2.88,Puyallup School District,Puyallup
@@ -661,9 +1394,9 @@ Cascade Christian Junior High and High School,361,4.71,Private,Puyallup
 Cascade Christian School Mcalder Elementary,95,13.68,Private,Puyallup
 Cascade Christian School-Puyallup Elementary,239,6.28,Private,Puyallup
 Doris Stahl Junior High,838,1.91,Puyallup School District,Puyallup
-E. B. Walker High School,109,0,Puyallup School District,Puyallup
+E B Walker High School,109,0.00,Puyallup School District,Puyallup
 Edgerton Elementary,728,4.67,Puyallup School District,Puyallup
-Edward Zeiger Elementary,717,4.32,Puyallup School District,Puyallup
+Edward Zeiger Elem,717,4.32,Puyallup School District,Puyallup
 Emerald Ridge High School,"1,528",1.57,Puyallup School District,Puyallup
 Ferrucci Jr. High,718,2.09,Puyallup School District,Puyallup
 Firgrove Elementary,720,2.08,Puyallup School District,Puyallup
@@ -678,7 +1411,7 @@ Maplewood Elementary,425,4.47,Puyallup School District,Puyallup
 Meeker Elementary,411,3.16,Puyallup School District,Puyallup
 Northwest Christian School,134,8.21,Private,Puyallup
 Phoenix Program,386,4.66,Puyallup School District,Puyallup
-Pierce County Skills Center,216,0,Bethel School District,Puyallup
+Pierce County Skills Center,216,0.00,Bethel School District,Puyallup
 Pope Elementary,578,2.94,Puyallup School District,Puyallup
 Puyallup High School,"1,840",1.47,Puyallup School District,Puyallup
 Ridgecrest Elementary,519,4.05,Puyallup School District,Puyallup
@@ -686,12 +1419,31 @@ Shaw Road Elementary,680,3.09,Puyallup School District,Puyallup
 Spinning Elementary,329,4.56,Puyallup School District,Puyallup
 Stewart Elementary,327,2.75,Puyallup School District,Puyallup
 Sunrise Elementary,457,2.19,Puyallup School District,Puyallup
-Warren Hunt Elem,658,3.34,Puyallup School District,Puyallup
+Warren Hunt Elementary,658,3.34,Puyallup School District,Puyallup
 Wildwood Elementary,466,2.58,Puyallup School District,Puyallup
 Woodland Elementary,698,1.72,Puyallup School District,Puyallup
+Quilcene Primary,101,9.90,Quilcene School District,Quilcene
+George Elementary,409,0.00,Quincy School District,Quincy
+High Tech High,641,0.00,Quincy School District,Quincy
+Monument Elementary,"1,293",0.70,Quincy School District,Quincy
+Mountain View Elementary,"1,045",1.05,Quincy School District,Quincy
+Pioneer Elementary,912,0.88,Quincy School District,Quincy
+Quincy High School,"4,426",0.11,Quincy School District,Quincy
+Quincy Junior High,877,0.11,Quincy School District,Quincy
+Quincy Valley School,69,1.45,Private,Quincy
+Rainier Elementary School,425,3.29,Rainier School District,Rainier
+Rainier High School,261,4.98,Rainier School District,Rainier
+Rainier Middle School,199,5.03,Rainier School District,Rainier
+White Pass Elementary School,190,3.16,White Pass School District,Randle
+White Pass Jr. Sr. High School,230,3.48,White Pass School District,Randle
+Raymond Elementary School,286,4.20,Raymond School District,Raymond
+Raymond Jr. Sr. High School,245,2.04,Raymond School District,Raymond
+Reardan Elementary School,288,10.76,Reardan-Edwall School District,Reardan
+Reardan High School,185,8.65,Reardan-Edwall School District,Reardan
+Reardan Middle/High School,156,10.26,Reardan-Edwall School District,Reardan
 Albert Einstein Elementary,443,1.58,Lake Washington School District,Redmond
-Audubon Elementary,600,2,Lake Washington School District,Redmond
-Cascadia Montessori School,66,0,Private,Redmond
+Audubon Elementary,600,2.00,Lake Washington School District,Redmond
+Cascadia Montessori School,66,0.00,Private,Redmond
 Dickinson Elementary,563,2.84,Lake Washington School District,Redmond
 Evergreen Middle School,"1,201",1.42,Lake Washington School District,Redmond
 Explorer Community School,71,2.82,Lake Washington School District,Redmond
@@ -700,36 +1452,36 @@ Mann Elementary,462,2.38,Lake Washington School District,Redmond
 Medina Academy,205,5.37,Private,Redmond
 Montessori Children's House,64,7.81,Private,Redmond
 Norman Rockwell Elementary,640,1.56,Lake Washington School District,Redmond
-Northern Lights Montessori Willows Campus,40,0,Private,Redmond
+Northern Lights Montessori Willows Campus,40,0.00,Private,Redmond
 Overlake School,536,1.31,Private,Redmond
 Redmond Elementary,787,2.54,Lake Washington School District,Redmond
-Redmond Middle School,"1,047",2.2,Lake Washington School District,Redmond
+Redmond Middle School,"1,047",2.20,Lake Washington School District,Redmond
 Redmond Sr. High School,"1,929",2.75,Lake Washington School District,Redmond
-Rosa Parks Elementary,646,1.7,Lake Washington School District,Redmond
+Rosa Parks Elementary,646,1.70,Lake Washington School District,Redmond
 Rose Hill Middle School,894,3.02,Lake Washington School District,Redmond
 Rush Elementary,613,1.96,Lake Washington School District,Redmond
 Stella Schola,90,2.22,Lake Washington School District,Redmond
-Sunrise Elementary,345,2.9,Northshore School District,Redmond
+Sunrise Elementary,345,2.90,Northshore School District,Redmond
 The Bear Creek School,716,3.77,Private,Redmond
-The Sammamish Montessori School,42,0,Private,Redmond
+The Sammamish Montessori School,42,0.00,Private,Redmond
 Wanic Skill Center,406,0.49,Lake Washington School District,Redmond
-Willows Preparatory School,120,0,Private,Redmond
+Willows Preparatory School,120,0.00,Private,Redmond
 Apollo Elementary,674,3.12,Issaquah School District,Renton
 Benson Hill Elementary,532,2.63,Renton School District,Renton
 Briarwood Elementary,675,1.63,Issaquah School District,Renton
 Carriage Crest Elementary,492,1.42,Kent School District,Renton
 Cascade Elementary,529,1.32,Renton School District,Renton
 Cedar River Montessori School,77,9.09,Private,Renton
-Children's Institute For Learning Differences (Child),45,2.22,Private,Renton
+Children's Institute for Learning Differences (Child),45,2.22,Private,Renton
 Fairwood Elementary,369,2.44,Kent School District,Renton
 Glenridge Elementary,476,3.78,Kent School District,Renton
-H.O.M.E. Program,125,24,Renton School District,Renton
+H.O.M.E. Program,125,24.00,Renton School District,Renton
 Hazen High School,"1,627",1.41,Renton School District,Renton
 Highlands Elementary,512,1.56,Renton School District,Renton
 Honey Dew Elementary,504,1.19,Renton School District,Renton
 Kennydale Elementary,649,4.16,Renton School District,Renton
 Liberty High School,"1,394",1.79,Issaquah School District,Renton
-Lindbergh High School,"1,248",1.6,Renton School District,Renton
+Lindbergh High School,"1,248",1.60,Renton School District,Renton
 Maple Hills Elementary,445,4.49,Issaquah School District,Renton
 Maplewood Heights Elementary,816,1.35,Renton School District,Renton
 Maywood Middle School,"1,153",1.56,Issaquah School District,Renton
@@ -738,17 +1490,66 @@ Meeker Middle,602,1.83,Kent School District,Renton
 Nelsen Middle School,"1,014",2.56,Renton School District,Renton
 New Horizon School,44,4.55,Private,Renton
 Northwood Middle,584,1.03,Kent School District,Renton
-Renton Academy,40,2.5,Renton School District,Renton
+Renton Academy,40,2.50,Renton School District,Renton
 Renton Christian School,433,9.24,Private,Renton
-Renton High School,"1,339",0.6,Renton School District,Renton
+Renton High School,"1,339",0.60,Renton School District,Renton
 Renton Park Elementary,481,4.37,Renton School District,Renton
 Ridgewood Elementary,491,1.83,Kent School District,Renton
 Sierra Heights Elementary,592,3.38,Renton School District,Renton
-St. Anthony School,434,2.3,Private,Renton
+St. Anthony School,434,2.30,Private,Renton
 Talbot Hill Elementary,534,1.69,Renton School District,Renton
 Tiffany Park Elementary,469,4.26,Renton School District,Renton
+Grace Christian Academy,35,14.29,Private,Republic
+Republic Elementary School,140,5.00,Republic School District,Republic
+Republic High School,92,4.35,Republic School District,Republic
+Republic Junior High School,74,4.05,Republic School District,Republic
+Badger Mountain Elementary,618,1.78,Richland School District,Richland
+Carmichael Middle School,819,2.08,Richland School District,Richland
+Chief Joseph Middle School,752,3.06,Richland School District,Richland
+Childrens Garden Montessori,24,8.33,Private,Richland
+Christ The King School,392,2.04,Private,Richland
+Hanford High School,"2,163",1.94,Richland School District,Richland
+Jason Lee Elementary School,571,2.80,Richland School District,Richland
+Jefferson Elementary,507,1.38,Richland School District,Richland
+Lewis and Clark Elementary School,591,1.69,Richland School District,Richland
+Liberty Christian School,383,4.70,Private,Richland
+Marcus Whitman Elementary,542,2.03,Richland School District,Richland
+Orchard Elementary,706,1.84,Richland School District,Richland
+Richland High School,"2,009",3.04,Richland School District,Richland
+Rivers Edge High School,234,1.28,Richland School District,Richland
+Sacajawea Elementary,610,1.15,Richland School District,Richland
+Sagebrush Elementary School,41,2.44,Private,Richland
+White Bluffs Elementary School,748,2.01,Richland School District,Richland
+Cedar Tree Classical Christian School,209,17.70,Private,Ridgefield
+Ridgefield High School,887,4.28,Ridgefield School District,Ridgefield
+South Ridge Elementary,795,5.16,Ridgefield School District,Ridgefield
+Union Ridge Elementary,916,4.15,Ridgefield School District,Ridgefield
+View Ridge Middle School,449,3.79,Ridgefield School District,Ridgefield
+Lind-Ritzville High School,135,0.00,Ritzville School District,Ritzville
+Lind-Ritzville Middle School,45,8.89,Lind School District,Ritzville
+Lind-Ritzville Middle School,64,3.13,Ritzville School District,Ritzville
+Ritzville Elementary,162,2.47,Ritzville School District,Ritzville
+Grand Mound Elementary,520,3.65,Rochester School District,Rochester
+H.E.A.R.T. High School,43,0.00,Rochester School District,Rochester
+Rochester High School,661,1.82,Rochester School District,Rochester
+Rochester Middle School,531,2.82,Rochester School District,Rochester
+Rochester Primary School,542,3.87,Rochester School District,Rochester
+Rock Island Elementary,224,1.34,Eastmont School District,Rock Island
+Freeman Elementary School,365,5.75,Freeman School District,Rockford
+Freeman High School,331,2.72,Freeman School District,Rockford
+Freeman Middle School,202,2.48,Freeman School District,Rockford
+Roosevelt Elementary School,24,0.00,Roosevelt School District,Roosevelt
+Rosalia Elementary and Secondary School,169,1.78,Rosalia School District,Rosalia
+Swiftwater Learning Center,25,0.00,Cle Elum-Roslyn School District,Roslyn
+Roy Elementary,354,1.98,Bethel School District,Roy
+Red Rock Elementary,559,0.72,Royal School District,Royal City
+Royal High School,496,0.20,Royal School District,Royal City
+Royal Intermediate School,429,0.00,Royal School District,Royal City
+Royal Middle School,265,0.75,Royal School District,Royal City
+St. John Elementary,68,2.94,St. John School District,Saint John
+St. John/Endicott High,82,4.88,St. John School District,Saint John
 Arbor Schools (Eastside Montessori Education Foundation),56,5.36,Private,Sammamish
-Brightmont Academy - Sammamish Campus,13,7.69,Private,Sammamish
+Brightmont Academy--Sammamish Campus,13,7.69,Private,Sammamish
 Cascade Ridge Elementary,518,1.16,Issaquah School District,Sammamish
 Christa Mcauliffe Elementary,496,1.81,Lake Washington School District,Sammamish
 Creekside Elementary,752,2.93,Issaquah School District,Sammamish
@@ -764,61 +1565,62 @@ Samantha Smith Elementary,696,1.01,Lake Washington School District,Sammamish
 Skyline High School,"2,196",1.05,Issaquah School District,Sammamish
 Sunny Hills Elementary,688,1.31,Issaquah School District,Sammamish
 Tesla Stem High School,608,0.33,Lake Washington School District,Sammamish
-Tlc Montessori,12,0,Private,Sammamish
-Bow Lake Elementary,720,1.25,Highline School District,Seatac
-Chinook Middle School,573,0.52,Highline School District,Seatac
-Madrona Elementary,674,2.67,Highline School District,Seatac
-Mcmicken Heights Elementary,596,0.84,Highline School District,Seatac
-Tyee High School,"1,020",1.86,Highline School District,Seatac
-Academy For Precision Learning,124,4.84,Private,Seattle
+Tlc Montessori,12,0.00,Private,Sammamish
+Satsop Elementary School,68,1.47,Satsop School District,Satsop
+Bow Lake Elementary,720,1.25,Highline School District,SeaTac
+Chinook Middle School,573,0.52,Highline School District,SeaTac
+Madrona Elementary,674,2.67,Highline School District,SeaTac
+Mcmicken Heights Elementary,596,0.84,Highline School District,SeaTac
+Tyee High School,"1,020",1.86,Highline School District,SeaTac
+Academy for Precision Learning,124,4.84,Private,Seattle
 Adams Elementary School,551,1.81,Seattle Public Schools,Seattle
 Aki Kurose Middle School,697,0.14,Seattle Public Schools,Seattle
-Alfajer School,23,0,Private,Seattle
+Alfajer School,23,0.00,Private,Seattle
 Alki Elementary School,364,0.27,Seattle Public Schools,Seattle
-Amazing Grace Christian School,200,4,Private,Seattle
-Applied Scholastics Academy of Seattle,15,20,Private,Seattle
-Arbor Heights Elementary School,512,0,Seattle Public Schools,Seattle
+Amazing Grace Christian School,200,4.00,Private,Seattle
+Applied Scholastics Academy of Seattle,15,20.00,Private,Seattle
+Arbor Heights Elementary School,512,0.00,Seattle Public Schools,Seattle
 Assumption St. Bridget,485,0.82,Private,Seattle
-B. F. Day Elementary School,284,0.7,Seattle Public Schools,Seattle
-Bailey Gatzert Elementary School,300,0,Seattle Public Schools,Seattle
+B F Day Elementary School,284,0.70,Seattle Public Schools,Seattle
+Bailey Gatzert Elementary School,300,0.00,Seattle Public Schools,Seattle
 Ballard High School,"1,922",0.31,Seattle Public Schools,Seattle
-Beacon Hill International School,417,0,Seattle Public Schools,Seattle
+Beacon Hill International School,417,0.00,Seattle Public Schools,Seattle
 Bertschi School,223,4.04,Private,Seattle
-Beverly Park Elem At Glendale,437,0.23,Highline School District,Seattle
+Beverly Park Elem at Glendale,437,0.23,Highline School District,Seattle
 Billings Middle School,93,1.08,Private,Seattle
-Bridges Transition,134,0,Seattle Public Schools,Seattle
+Bridges Transition,134,0.00,Seattle Public Schools,Seattle
 Bright Water School,159,20.75,Private,Seattle
 Broadview-Thomson K-8 School,520,1.35,Seattle Public Schools,Seattle
-Bryant Elementary School,582,0,Seattle Public Schools,Seattle
-Bryn Mawr Elementary,451,1.11,Renton School District,Seattle
-Campbell Hill Elementary,450,1.56,Renton School District,Seattle
-Cascade Middle School,570,0.7,Highline School District,Seattle
+Bryant Elementary School,582,0.00,Seattle Public Schools,Seattle
+Bryn Mawr Elementary,451,1.11,Renton School District,Renton
+Campbell Hill Elementary,450,1.56,Renton School District,Renton
+Cascade Middle School,570,0.70,Highline School District,Seattle
 Cascade Parent Partnership Program,186,4.84,Seattle Public Schools,Seattle
 Cascadia Elementary,524,0.38,Seattle Public Schools,Seattle
 Catharine Blaine K-8 School,775,0.13,Seattle Public Schools,Seattle
 Cedar Park Elementary,54,1.85,Seattle Public Schools,Seattle
-Chief Sealth High School,"1,049",0.1,Seattle Public Schools,Seattle
+Chief Sealth High School,"1,049",0.10,Seattle Public Schools,Seattle
 Choice Academy,165,3.03,Highline School District,Seattle
 Christ The King School,174,0.57,Private,Seattle
-Cleveland High School,866,0,Seattle Public Schools,Seattle
-Concord International School,343,0,Seattle Public Schools,Seattle
-Concordia Lutheran School,27,0,Private,Seattle
+Cleveland High School,866,0.00,Seattle Public Schools,Seattle
+Concord International School,343,0.00,Seattle Public Schools,Seattle
+Concordia Lutheran School,27,0.00,Private,Seattle
 Daniel Bagley Elementary School,425,4.47,Seattle Public Schools,Seattle
 David T. Denny International School,832,0.24,Seattle Public Schools,Seattle
-Dearborn Park Elementary School,349,0,Seattle Public Schools,Seattle
+Dearborn Park Elementary School,349,0.00,Seattle Public Schools,Seattle
 Destiny Middle School Charter,242,0.41,Green Dot Public Schools Washington State Charter District,Seattle
-Dimmitt Middle School,644,0.62,Renton School District,Seattle
+Dimmitt Middle School,644,0.62,Renton School District,Renton
 Dunlap Elementary School,283,0.35,Seattle Public Schools,Seattle
 Eckstein Middle School,960,0.21,Seattle Public Schools,Seattle
 Emerald City School,16,6.25,Private,Seattle
-Emerson Elementary School,291,0,Seattle Public Schools,Seattle
-Epiphany School,323,0,Private,Seattle
-Evergreen High School,"1,012",0,Highline School District,Seattle
+Emerson Elementary School,291,0.00,Seattle Public Schools,Seattle
+Epiphany School,323,0.00,Private,Seattle
+Evergreen High School,"1,012",0.00,Highline School District,Seattle
 Explorer West Middle School,109,4.59,Private,Seattle
-Fairmount Park Elementary,543,0.55,Seattle Public Schools,Seattle
+Fairmount Park Elementary,543,0.55,Seattle Public Schools,Renton
 Fairview Christian School,47,4.26,Private,Seattle
 Franklin High School,"1,280",0.08,Seattle Public Schools,Seattle
-Frantz Coe Elementary School,572,2.1,Seattle Public Schools,Seattle
+Frantz Coe Elementary School,572,2.10,Seattle Public Schools,Seattle
 Garfield High School,"1,846",0.38,Seattle Public Schools,Seattle
 Gatewood Elementary School,373,2.14,Seattle Public Schools,Seattle
 Genesee Hill,716,2.51,Seattle Public Schools,Seattle
@@ -827,49 +1629,49 @@ Green Lake Elementary School,424,1.65,Seattle Public Schools,Seattle
 Greenwood Elementary School,345,0.29,Seattle Public Schools,Seattle
 Hamilton International Middle School,983,0.41,Seattle Public Schools,Seattle
 Hamlin Robinson School,279,2.51,Private,Seattle
-Hawthorne Elementary School,406,0,Seattle Public Schools,Seattle
+Hawthorne Elementary School,406,0.00,Seattle Public Schools,Seattle
 Hazel Wolf K-8,733,0.27,Seattle Public Schools,Seattle
 Highland Park Elementary School,316,2.22,Seattle Public Schools,Seattle
 Hilltop Elementary,620,0.65,Highline School District,Seattle
-Holy Family Bi-Lingual,116,0,Private,Seattle
+Holy Family Bi-Lingual,116,0.00,Private,Seattle
 Holy Names Academy,698,1.72,Private,Seattle
 Holy Rosary Elementary,443,1.58,Private,Seattle
-Hutch School,12,0,Seattle Public Schools,Seattle
+Hutch School,12,0.00,Seattle Public Schools,Renton
 Ingraham High School,"1,370",0.29,Seattle Public Schools,Seattle
-Interagency Academy,78,0,Seattle Public Schools,Seattle
-Interagency At Kc Youth Service,50,0,Seattle Public Schools,Seattle
-Interagency Programs,406,0,Seattle Public Schools,Seattle
-Jane Addams Middle School,915,0.44,Seattle Public Schools,Seattle
+Interagency Academy 1418,78,0.00,Seattle Public Schools,Seattle
+Interagency at Kc Youth Service,50,0.00,Seattle Public Schools,Seattle
+Interagency Programs,406,0.00,Seattle Public Schools,Seattle
+Jane Addams Ms,915,0.44,Seattle Public Schools,Seattle
 John Hay Elementary School,487,0.82,Seattle Public Schools,Seattle
-John Muir Elementary School,362,0,Seattle Public Schools,Seattle
+John Muir Elementary School,362,0.00,Seattle Public Schools,Seattle
 John Rogers Elementary School,346,0.29,Seattle Public Schools,Seattle
 John Stanford International Elementary,450,0.44,Seattle Public Schools,Seattle
-K-8 Stem At Boren,536,0.56,Seattle Public Schools,Seattle
+K-8 Stem at Boren,536,0.56,Seattle Public Schools,Seattle
 Kapka Cooperative School,59,13.56,Private,Seattle
 Kimball Elementary School,451,0.22,Seattle Public Schools,Seattle
 Kings Schools,"1,191",2.85,Private,Seattle
 Lafayette Elementary School,391,1.53,Seattle Public Schools,Seattle
-Lake Washington Girls Middle School,108,1.85,Private,Seattle
-Lakeridge Elementary,427,2.81,Renton School District,Seattle
+Lake Wa Girls Middle School,108,1.85,Private,Seattle
+Lakeridge Elementary,427,2.81,Renton School District,Renton
 Lakeside School,856,0.23,Private,Seattle
 Laurelhurst Elementary School,351,0.28,Seattle Public Schools,Seattle
 Lawton Elementary School,454,0.22,Seattle Public Schools,Seattle
-Leschi Elementary School,393,0,Seattle Public Schools,Seattle
+Leschi Elementary School,393,0.00,Seattle Public Schools,Seattle
 Licton Springs K-8,160,0.63,Seattle Public Schools,Seattle
 Lowell Elementary School,326,0.31,Seattle Public Schools,Seattle
 Loyal Heights Elementary School,395,1.52,Seattle Public Schools,Seattle
 Madison Middle School,886,0.11,Seattle Public Schools,Seattle
-Madrona K-8 School,230,0,Seattle Public Schools,Seattle
+Madrona K-8 School,230,0.00,Seattle Public Schools,Seattle
 Maple Elementary School,536,1.68,Seattle Public Schools,Seattle
 Martin Luther King Jr.. Elementary School,270,0.37,Seattle Public Schools,Seattle
-Matheia School,45,0,Private,Seattle
+Matheia School,45,0.00,Private,Seattle
 Mc Donald Elementary,459,3.49,Seattle Public Schools,Seattle
 Mcclure Middle School,549,0.73,Seattle Public Schools,Seattle
 Mcgilvra Elementary School,242,0.83,Seattle Public Schools,Seattle
-Meany Middle School,482,0,Seattle Public Schools,Seattle
+Meany Middle School,482,0.00,Seattle Public Schools,Seattle
 Mercer Middle School,"1,128",0.35,Seattle Public Schools,Seattle
-Meridian School,195,4.1,Private,Seattle
-Middle College High School,73,0,Seattle Public Schools,Seattle
+Meridian School,195,4.10,Private,Seattle
+Middle College High School,73,0.00,Seattle Public Schools,Seattle
 Mmsc Day School,72,2.78,Private,Seattle
 Montlake Elementary School,265,2.64,Seattle Public Schools,Seattle
 Morningside Academy,93,1.08,Private,Seattle
@@ -882,101 +1684,132 @@ Northgate Elementary School,255,0.39,Seattle Public Schools,Seattle
 Northwest School,509,2.75,Private,Seattle
 Nova High School,303,0.33,Seattle Public Schools,Seattle
 O'Dea High School,488,1.02,Private,Seattle
-Olympic Hills Elementary School,380,0,Seattle Public Schools,Seattle
+Olympic Hills Elementary School,380,0.00,Seattle Public Schools,Seattle
 Olympic View Elementary School,447,0.45,Seattle Public Schools,Seattle
-Orca K-8 School,401,1,Seattle Public Schools,Seattle
+Orca K-8 School,401,1.00,Seattle Public Schools,Seattle
 Our Lady of Fatima School,233,2.58,Private,Seattle
-Our Lady of Guadalupe School,207,0,Private,Seattle
+Our Lady of Guadalupe School,207,0.00,Private,Seattle
 Pathfinder K-8 School,485,1.24,Seattle Public Schools,Seattle
 Perkins School,99,1.01,Private,Seattle
 Private School Services (Contract Eeu),97,1.03,Seattle Public Schools,Seattle
 Puget Sound Community School,52,5.77,Private,Seattle
-Queen Anne Elementary,359,0,Seattle Public Schools,Seattle
-Rainier Beach High School,725,0,Seattle Public Schools,Seattle
-Rainier Prep,336,0.3,Seattle Public Schools,Seattle
-Rainier View Elementary School,246,0,Seattle Public Schools,Seattle
-Residential Consortium,26,0,Seattle Public Schools,Seattle
-Robert Eagle Staff Middle School,710,0.7,Seattle Public Schools,Seattle
-Roosevelt High School,"1,867",0,Seattle Public Schools,Seattle
+Queen Anne Elementary,359,0.00,Seattle Public Schools,Seattle
+Rainier Beach High School,725,0.00,Seattle Public Schools,Seattle
+Rainier Prep,336,0.30,Seattle Public Schools,Seattle
+Rainier View Elementary School,246,0.00,Seattle Public Schools,Seattle
+Residential Consortium,26,0.00,Seattle Public Schools,Seattle
+Robert Eagle Staff Middle School,710,0.70,Seattle Public Schools,Seattle
+Roosevelt High School,"1,867",0.00,Seattle Public Schools,Seattle
 Roxhill Elementary School,264,1.52,Seattle Public Schools,Seattle
 Sacajawea Elementary School,233,2.58,Seattle Public Schools,Seattle
 Salmon Bay K-8 School,655,1.68,Seattle Public Schools,Seattle
-Sand Point Elementary,203,0,Seattle Public Schools,Seattle
+Sand Point Elementary,203,0.00,Seattle Public Schools,Seattle
 Sanislo Elementary School,232,0.43,Seattle Public Schools,Seattle
 Seattle Academy of Arts/Sciences,822,0.24,Private,Seattle
 Seattle Amistad School,85,5.88,Private,Seattle
-Seattle Area German American School,50,0,Private,Seattle
+Seattle Area German American School,50,0.00,Private,Seattle
 Seattle Christian School,467,5.57,Private,Seattle
 Seattle Classical Christian School,94,8.51,Private,Seattle
 Seattle Country Day School,362,2.21,Private,Seattle
-Seattle Girls School,128,0,Private,Seattle
+Seattle Girls School,128,0.00,Private,Seattle
 Seattle Hebrew Academy,157,4.46,Private,Seattle
-Seattle Jewish Community School,65,0,Private,Seattle
-Seattle Jewish Girls High School,25,8,Private,Seattle
-Seattle Lutheran High School,115,0,Private,Seattle
-Seattle Nativity School,38,0,Private,Seattle
-Seattle Urban Academy,37,0,Private,Seattle
+Seattle Jewish Community School,65,0.00,Private,Seattle
+Seattle Jewish Girls High School,25,8.00,Private,Seattle
+Seattle Lutheran High School,115,0.00,Private,Seattle
+Seattle Nativity School,38,0.00,Private,Seattle
+Seattle Urban Academy,37,0.00,Private,Seattle
 Seattle Waldorf School - Seattle Campuses,356,22.47,Private,Seattle
-Seattle World School (Secondary Boc),300,0,Seattle Public Schools,Seattle
+Seattle World School (Secondary Boc),300,0.00,Seattle Public Schools,Seattle
 Shoreline Christian School,177,11.86,Private,Seattle
-Shorewood Christian School,96,12.5,Private,Seattle
-South Lake High School,74,0,Seattle Public Schools,Seattle
+Shorewood Christian School,96,12.50,Private,Seattle
+South Lake High School,74,0.00,Seattle Public Schools,Seattle
 South Shore Pk-8 School,520,0.19,Seattle Public Schools,Seattle
 Southern Heights Elementary,302,0.33,Highline School District,Seattle
 Spruce Street School,108,2.78,Private,Seattle
 St. Alphonsus School,199,1.01,Private,Seattle
 St. Anne School,241,1.24,Private,Seattle
-St. Bernadette School,168,0.6,Private,Seattle
+St. Bernadette School,168,0.60,Private,Seattle
 St. Catherine School,189,1.59,Private,Seattle
-St. Edwards School,115,0,Private,Seattle
+St. Edwards School,115,0.00,Private,Seattle
 St. George School,219,0.91,Private,Seattle
 St. John School,463,0.65,Private,Seattle
 St. Joseph School,586,1.88,Private,Seattle
-St. Matthew School,176,0,Private,Seattle
-St. Paul School,124,0,Private,Seattle
-St. Therese School,153,0,Private,Seattle
-Stephen Decatur Elementary,241,0,Seattle Public Schools,Seattle
+St. Matthew School,176,0.00,Private,Seattle
+St. Paul School,124,0.00,Private,Seattle
+St. Therese School,153,0.00,Private,Seattle
+Stephen Decatur Elementary,241,0.00,Seattle Public Schools,Seattle
 Stevens Elementary School,289,1.04,Seattle Public Schools,Seattle
-Summit Public Charter Atlas School,180,6.67,Seattle Public Schools,Seattle
+Summit Public Charter atlas School,180,6.67,Seattle Public Schools,Seattle
 Summit Public Charter School Olympus,161,0.62,Summit Public School: Olympus,Seattle
 Summit Public Charter School Sierra,301,0.66,Summit Public School: Sierra,Seattle
-Svi 1418 Re-Engagement Program,69,0,Seattle Public Schools,Seattle
-Talley High School,299,0.67,Renton School District,Seattle
+Svi 1418 Re-Engagement Program,69,0.00,Seattle Public Schools,Seattle
+Talley High School,299,0.67,Renton School District,Renton
 The Bush School,656,1.83,Private,Seattle
-The Center School,240,0,Seattle Public Schools,Seattle
-The Lake And Park School,62,6.45,Private,Seattle
+The Center School,240,0.00,Seattle Public Schools,Seattle
+The Lake and Park School,62,6.45,Private,Seattle
 Thornton Creek Elementary School,514,4.86,Seattle Public Schools,Seattle
 Thurgood Marshall Elementary,572,0.17,Seattle Public Schools,Seattle
-Tilden School,98,0,Private,Seattle
+Tilden School,98,0.00,Private,Seattle
 Tops K-8 School,471,1.91,Seattle Public Schools,Seattle
-University Child Development School,261,2.3,Private,Seattle
+University Child Development School,261,2.30,Private,Seattle
 University Cooperative School,85,10.59,Private,Seattle
 University Preparatory,568,1.06,Private,Seattle
-Valley School,92,0,Private,Seattle
+Valley School,92,0.00,Private,Seattle
 Van Asselt Elementary School,418,0.24,Seattle Public Schools,Seattle
 View Ridge Elementary School,547,1.28,Seattle Public Schools,Seattle
 Viewlands Elementary School,396,0.51,Seattle Public Schools,Seattle
 Villa Academy,368,0.82,Private,Seattle
 Washington Middle School,711,0.14,Seattle Public Schools,Seattle
-Wedgwood Elementary School,475,0,Seattle Public Schools,Seattle
+Wedgwood Elementary School,475,0.00,Seattle Public Schools,Seattle
 West Seattle Elementary School,422,4.98,Seattle Public Schools,Seattle
-West Seattle High School,"1,037",0.1,Seattle Public Schools,Seattle
-West Seattle Montessori School,112,12.5,Private,Seattle
-West Woodland Elementary School,568,0,Seattle Public Schools,Seattle
-Westside School,346,2.6,Private,Seattle
+West Seattle High School,"1,037",0.10,Seattle Public Schools,Seattle
+West Seattle Montessori School,112,12.50,Private,Seattle
+West Woodland Elementary School,568,0.00,Seattle Public Schools,Seattle
+Westside School,346,2.60,Private,Seattle
 White Center Heights Elementary,597,1.01,Highline School District,Seattle
 Whitman Middle School,559,1.25,Seattle Public Schools,Seattle
 Whittier Elementary School,491,2.44,Seattle Public Schools,Seattle
 Wing Luke Elementary School,326,3.07,Seattle Public Schools,Seattle
+Alger Learning Center Inc,11,0.00,Private,Sedro-Woolley
+Cascade Middle School,644,2.64,Sedro-Woolley School District,Sedro-Woolley
+Central Elementary School,465,1.94,Sedro-Woolley School District,Sedro-Woolley
+Evergreen Elementary School,573,2.09,Sedro-Woolley School District,Sedro-Woolley
+Mary Purcell Elementary School,416,1.92,Sedro-Woolley School District,Sedro-Woolley
+Samish Elementary School,173,5.20,Sedro-Woolley School District,Sedro-Woolley
+Sedro-Woolley High School,"1,176",4.34,Sedro-Woolley School District,Sedro-Woolley
+State Street High School,151,5.30,Sedro-Woolley School District,Sedro-Woolley
+John Campbell Primary,843,1.54,Selah School District,Selah
+Selah Academy,95,2.11,Selah School District,Selah
+Selah High School,"1,103",1.00,Selah School District,Selah
+Selah Homelink,23,17.39,Selah School District,Selah
+Selah Intermediate School,836,1.67,Selah School District,Selah
+Selah Middle School,827,1.21,Selah School District,Selah
+Five Acre School,44,18.18,Private,Sequim
+Mountain View Christian School,16,18.75,Private,Sequim
+Shaw Island Elementary School,11,27.27,Shaw Island School District,Shaw Island
+Bordeaux Elementary,575,2.78,Shelton School District,Shelton
+Choice Alternative,222,1.80,Shelton School District,Shelton
+Evergreen Elementary,570,1.40,Shelton School District,Shelton
+Hood Canal Elementary School,165,3.03,Hood Canal School District,Shelton
+Hood Canal Junior High School,136,6.62,Hood Canal School District,Shelton
+Mason County Christian School,86,27.91,Private,Shelton
+Mountain View Elementary,613,2.28,Shelton School District,Shelton
+Oakland Bay Jr. High,714,1.68,Shelton School District,Shelton
+Olympic Middle School,596,1.68,Shelton School District,Shelton
+Pioneer Elementary School,490,2.65,Pioneer School District,Shelton
+Pioneer Middle School,254,3.54,Pioneer School District,Shelton
+Shelton High School,"1,077",1.76,Shelton School District,Shelton
+Shelton Valley Christian School,14,14.29,Private,Shelton
+Southside Elementary School,213,4.23,Southside School District,Shelton
 Briarcrest Elementary School,502,2.39,Shoreline School District,Shoreline
 Cascade K-8 Community School,224,14.29,Shoreline School District,Shoreline
 Echo Lake Elementary School,475,5.26,Shoreline School District,Shoreline
 Einstein Middle School,736,4.08,Shoreline School District,Shoreline
 Highland Terrace Elementary,498,3.61,Shoreline School District,Shoreline
 Home Education Exchange,138,15.22,Shoreline School District,Shoreline
-Kellogg Middle School,650,2,Shoreline School District,Shoreline
+Kellogg Middle School,650,2.00,Shoreline School District,Shoreline
 Meridian Park Elementary,749,2.67,Shoreline School District,Shoreline
-Northwest School For Hearing Impaired,46,0,Private,Shoreline
+Northwest School for Hearing Impaired,46,0.00,Private,Shoreline
 Parkwood Elementary School,469,1.71,Shoreline School District,Shoreline
 Ridgecrest Elementary School,548,4.93,Shoreline School District,Shoreline
 Shorecrest High School,"1,447",3.52,Shoreline School District,Shoreline
@@ -996,25 +1829,24 @@ Ridgetop Middle School,727,1.65,Central Kitsap School District,Silverdale
 Silver Ridge Elementary,364,1.92,Central Kitsap School District,Silverdale
 Silverdale Elementary,433,1.39,Central Kitsap School District,Silverdale
 Skykomish Elementary School,27,22.22,Skykomish School District,Skykomish
-Skykomish High School,14,0,Skykomish School District,Skykomish
-Skykomish Middle School,10,10,Skykomish School District,Skykomish
+Skykomish High School,14,0.00,Skykomish School District,Skykomish
 Aim High School,142,2.82,Snohomish School District,Snohomish
 Cascade View Elementary,419,5.01,Snohomish School District,Snohomish
 Cathcart Elementary,404,7.43,Snohomish School District,Snohomish
-Centennial Middle School,795,4.4,Snohomish School District,Snohomish
+Centennial Middle School,795,4.40,Snohomish School District,Snohomish
 Central Primary Center,169,5.92,Snohomish School District,Snohomish
-Chain Lake Elementary School,533,3,Monroe School District,Snohomish
+Chain Lake Elementary School,533,3.00,Monroe School District,Snohomish
 Dutch Hill Elementary,501,4.19,Snohomish School District,Snohomish
 Emerson Elementary,318,5.97,Snohomish School District,Snohomish
 Glacier Peak High School,"1,788",2.85,Snohomish School District,Snohomish
 Hidden River Middle School,441,1.59,Monroe School District,Snohomish
-High School Re Entry,24,0,Snohomish School District,Snohomish
+High School Re Entry,24,0.00,Snohomish School District,Snohomish
 Little Cedars Elementary,709,3.67,Snohomish School District,Snohomish
-Machias Elementary,513,3.9,Snohomish School District,Snohomish
+Machias Elementary,513,3.90,Snohomish School District,Snohomish
 Maltby Elementary,461,7.38,Monroe School District,Snohomish
 Parent Partnership,99,12.12,Snohomish School District,Snohomish
-Riverview Elementary,492,6.3,Snohomish School District,Snohomish
-Sky Valley Adventist School,24,0,Private,Snohomish
+Riverview Elementary,492,6.30,Snohomish School District,Snohomish
+Sky Valley Adventist School,24,0.00,Private,Snohomish
 Snohomish Center,33,9.09,Snohomish School District,Snohomish
 Snohomish Senior High School,"1,655",5.32,Snohomish School District,Snohomish
 St. Michael Catholic School,101,1.98,Private,Snohomish
@@ -1022,15 +1854,19 @@ Totem Falls,412,1.94,Snohomish School District,Snohomish
 Valley View Middle School,744,2.82,Snohomish School District,Snohomish
 Cascade View Elementary,588,3.06,Snoqualmie Valley School District,Snoqualmie
 Mount Si High School,"1,852",3.51,Snoqualmie Valley School District,Snoqualmie
-Snoqualmie Access,10,10,Snoqualmie Valley School District,Snoqualmie
 Snoqualmie Elementary,523,6.88,Snoqualmie Valley School District,Snoqualmie
-Timber Ridge Elementary School,655,2.6,Snoqualmie Valley School District,Snoqualmie
-Acceleration Academy,223,0.9,Private,Spanaway
+Timber Ridge Elementary School,655,2.60,Snoqualmie Valley School District,Snoqualmie
+Smokiam Alternative High School,25,4.00,Soap Lake School District,Soap Lake
+Soap Lake Elementary,194,11.86,Soap Lake School District,Soap Lake
+Soap Lake Middle and High School,281,5.34,Soap Lake School District,Soap Lake
+Chauncey Davis Elementary,284,2.11,South Bend School District,South Bend
+South Bend High School,271,1.11,South Bend School District,South Bend
+Acceleration Academy,223,0.90,Private,Spanaway
 Bethel High School,"1,758",1.65,Bethel School District,Spanaway
-Bethel Middle School,700,1,Bethel School District,Spanaway
+Bethel Middle School,700,1.00,Bethel School District,Spanaway
 Camas Prairie Elementary,656,1.07,Bethel School District,Spanaway
 Cedarcrest Middle School,677,2.81,Bethel School District,Spanaway
-Challenger High School,285,0.7,Bethel School District,Spanaway
+Challenger High School,285,0.70,Bethel School District,Spanaway
 Elk Plain School of Choice,592,2.53,Bethel School District,Spanaway
 Evergreen Elementary,537,2.79,Bethel School District,Spanaway
 Liberty Middle School,747,1.61,Bethel School District,Spanaway
@@ -1038,35 +1874,187 @@ Pioneer Valley Elementary,422,1.66,Bethel School District,Spanaway
 Shining Mountain Elementary,786,1.53,Bethel School District,Spanaway
 Spanaway Elementary,390,2.56,Bethel School District,Spanaway
 Spanaway Lake High School,"1,589",1.64,Bethel School District,Spanaway
+Liberty Elementary School,265,4.91,Liberty School District,Spangle
+Liberty High School,161,4.35,Liberty School District,Spangle
+Liberty Junior High,79,1.27,Liberty School District,Spangle
+Upper Columbia Academy,227,6.61,Private,Spangle
+Upper Columbia Academy Elementary,27,18.52,Private,Spangle
+Adams Elementary,369,5.69,Spokane School District,Spokane
+Archbishop Thomas J. Murphy High School,396,7.07,Private,Spokane
+Arlington Elementary,656,5.64,Spokane School District,Spokane
+Audubon Elementary,389,3.34,Spokane School District,Spokane
+Balboa Elementary,358,2.23,Spokane School District,Spokane
+Bemiss Elementary,531,3.01,Spokane School District,Spokane
+Browne Elementary,434,5.76,Spokane School District,Spokane
+Bryant Campus,"1,034",10.06,Spokane School District,Spokane
+Cataldo School,319,1.57,Private,Spokane
+Cbe Alternative Programs,331,2.11,West Valley School District (Spokane),Spokane
+Centennial Middle School,634,2.52,West Valley School District (Spokane),Spokane
+Chase Middle School,683,3.66,Spokane School District,Spokane
+Cooper Elementary,513,6.43,Spokane School District,Spokane
+Daybreak - A-1 Alternative,18,0.00,Spokane School District,Spokane
+Eagle Peak School,92,1.09,Spokane School District,Spokane
+Evergreen Elementary School,609,5.25,Mead School District,Spokane
+Excelsior,18,0.00,Spokane School District,Spokane
+Farwell Elementary School,604,4.97,Mead School District,Spokane
+Ferris High School,"1,824",3.89,Spokane School District,Spokane
+Finch Elementary,534,4.12,Spokane School District,Spokane
+First Presbyterian Christian School,49,4.08,Private,Spokane
+Five Mile Prairie School,490,20.00,Mead School District,Spokane
+Franklin Elementary,435,3.91,Spokane School District,Spokane
+Garfield Elementary,438,4.57,Spokane School District,Spokane
+Garry Middle School,575,1.91,Spokane School District,Spokane
+Glover Middle School,499,2.20,Spokane School District,Spokane
+Gonzaga Preparatory School,874,2.97,Private,Spokane
+Grant Elementary,370,3.78,Spokane School District,Spokane
+Great Northern Elementary,53,13.21,Great Northern School District,Spokane
+Hamblen Elementary,513,4.09,Spokane School District,Spokane
+Healing Lodge,32,0.00,Spokane School District,Spokane
+Holmes Elementary,391,3.84,Spokane School District,Spokane
+Hutton Elementary,593,2.87,Spokane School District,Spokane
+Indian Trail Elementary,327,4.59,Spokane School District,Spokane
+Jefferson Elementary,513,4.87,Spokane School District,Spokane
+Kindergarten Center,232,3.88,West Valley School District (Spokane),Spokane
+Lewis and Clark High School,"1,867",2.41,Spokane School District,Spokane
+Libby Center,360,3.61,Spokane School District,Spokane
+Lidgerwood Elementary,412,2.43,Spokane School District,Spokane
+Lincoln Heights Elementary,506,5.73,Spokane School District,Spokane
+Linwood Elementary,511,1.57,Spokane School District,Spokane
+Logan Elementary,399,5.01,Spokane School District,Spokane
+Longfellow Elementary,503,2.39,Spokane School District,Spokane
+Madison Elementary,350,3.71,Spokane School District,Spokane
+Map,26,0.00,Spokane School District,Spokane
+Mead Alternative High School,87,4.60,Mead School District,Spokane
+Mead Senior High School,"1,638",1.65,Mead School District,Spokane
+Middle Academy,221,3.17,Private,Spokane
+Moran Prairie Elementary,546,2.01,Spokane School District,Spokane
+Mullan Road Elementary,674,6.23,Spokane School District,Spokane
+Ness Elementary,300,4.67,West Valley School District (Spokane),Spokane
+North Central High School,"1,525",1.97,Spokane School District,Spokane
+North Country Christian,14,7.14,Private,Spokane
+North Pines Middle School,525,1.52,Central Valley School District,Spokane
+Northwest Christian Elementary and Middle School,358,8.10,Private,Spokane
+Northwood Middle School,920,1.74,Mead School District,Spokane
+Open Doors (1418),167,5.99,Private,Spokane
+Opportunity Elementary School,560,4.11,Central Valley School District,Spokane
+Orchard Center Elementary,246,2.85,West Valley School District (Spokane),Spokane
+Orchard Prairie Elementary,69,10.14,Orchard Prairie School District,Spokane
+Palisades Christian Academy,186,12.37,Private,Spokane
+Pasadena Park Elementary,383,6.53,West Valley School District (Spokane),Spokane
+Ponderosa Elementary School,426,2.11,Central Valley School District,Spokane
+Prairie View Elementary,662,5.14,Mead School District,Spokane
+Primary Academy,191,5.24,Spokane School District,Spokane
+Regal Elementary,468,3.42,Spokane School District,Spokane
+Ridgeview Elementary,329,3.95,Spokane School District,Spokane
+Riverpoint Academy,170,4.71,Mead School District,Spokane
+Rogers High School,"1,549",1.81,Spokane School District,Spokane
+Roosevelt Elementary,507,4.93,Spokane School District,Spokane
+Sacajawea Middle School,789,4.94,Spokane School District,Spokane
+Saint George's School,360,3.33,Private,Spokane
+Salish School of Spokane,29,6.90,Private,Spokane
+Salk Middle School,710,2.11,Spokane School District,Spokane
+Seth Woodard Elementary,279,1.43,West Valley School District (Spokane),Spokane
+Shadle Park High School,"1,352",2.37,Spokane School District,Spokane
+Shaw Middle School,578,2.08,Spokane School District,Spokane
+Sheridan Elementary,457,5.69,Spokane School District,Spokane
+Shiloh Hills Elementary,557,1.97,Mead School District,Spokane
+South Pines Elementary School,314,5.10,Central Valley School District,Spokane
+Southside Christian School,96,10.42,Private,Spokane
+Spokane Christian Academy,59,22.03,Private,Spokane
+Spokane Public Montessori,448,13.84,Spokane School District,Spokane
+Spokane Valley High School,99,8.08,West Valley School District (Spokane),Spokane
+Spokane Valley Learning Academy,55,10.91,Central Valley School District,Spokane
+Spokane Valley Transition School,145,2.07,West Valley School District (Spokane),Spokane
+Spokane Windsong School,70,21.43,Private,Spokane
+St. Charles School,136,1.47,Private,Spokane
+St. John Vianney School,118,0.00,Private,Spokane
+St. Mary's Catholic School,235,1.70,Private,Spokane
+St. Michael's Academy,135,51.11,Private,Spokane
+St. Thomas More School,230,6.09,Private,Spokane
+Stevens Elementary,442,1.36,Spokane School District,Spokane
+Summit Christian Academy,141,59.57,Private,Spokane
+Tamarack,16,6.25,Spokane School District,Spokane
+The Community School,166,11.45,Spokane School District,Spokane
+Trinity Catholic School,155,3.87,Private,Spokane
+University Elementary School,287,4.53,Central Valley School District,Spokane
+Valley Christian School,284,14.44,Private,Spokane
+West Valley City School,219,5.48,West Valley School District (Spokane),Spokane
+West Valley High School,927,3.13,West Valley School District (Spokane),Spokane
+Westview Elementary,512,5.08,Spokane School District,Spokane
+Westwood Middle School,581,3.44,Cheney School District,Spokane
+Whitman Elementary,565,2.83,Spokane School District,Spokane
+Willard Elementary,531,3.39,Spokane School District,Spokane
+Wilson Elementary,365,5.48,Spokane School District,Spokane
+Windsor Elementary,529,6.43,Cheney School District,Spokane
+Woodridge Elementary,456,3.51,Spokane School District,Spokane
+Adams Elementary School,416,2.88,Central Valley School District,Spokane Valley
+Bowdish Middle School,488,3.28,Central Valley School District,Spokane Valley
+Broadway Elementary School,407,5.41,Central Valley School District,Spokane Valley
+Chester Elementary School,501,3.39,Central Valley School District,Spokane Valley
+Continuous Curriculum School,517,5.42,East Valley School District (Spokane),Spokane Valley
+East Valley High School,"1,137",3.25,East Valley School District (Spokane),Spokane Valley
+East Valley Middle School,513,4.09,East Valley School District (Spokane),Spokane Valley
+Ev Online,82,8.54,East Valley School District (Spokane),Spokane Valley
+Ev Parent Partnership,185,22.16,East Valley School District (Spokane),Spokane Valley
+Evergreen Middle School,778,2.96,Central Valley School District,Spokane Valley
+Greenacres Elementary School,624,5.93,Central Valley School District,Spokane Valley
+Greenacres Middle School,776,2.58,Central Valley School District,Spokane Valley
+Horizon Middle School,487,2.67,Central Valley School District,Spokane Valley
+Spokane Valley Adventist School,39,15.38,Private,Spokane Valley
+Summit School,419,7.40,Central Valley School District,Spokane Valley
+Trent School,473,2.96,East Valley School District (Spokane),Spokane Valley
+Trentwood School,461,6.51,East Valley School District (Spokane),Spokane Valley
+Sprague Elementary,44,0.00,Sprague School District,Sprague
+Sprague High School,28,0.00,Sprague School District,Sprague
+Mary Walker Alternative High,17,0.00,Mary Walker School District,Springdale
+Mary Walker High School,172,9.88,Mary Walker School District,Springdale
+Springdale Elementary School,198,8.08,Mary Walker School District,Springdale
+Springdale Middle School,107,8.41,Mary Walker School District,Springdale
 Cedarhome Elementary School,525,5.14,Stanwood-Camano School District,Stanwood
 Lincoln Academy,18,5.56,Stanwood-Camano School District,Stanwood
 Lincoln Hill High School,141,2.84,Stanwood-Camano School District,Stanwood
 Port Susan Middle School,490,3.67,Stanwood-Camano School District,Stanwood
 Saratoga School,180,14.44,Stanwood-Camano School District,Stanwood
 Stanwood Elementary School,401,3.49,Stanwood-Camano School District,Stanwood
-Stanwood High School,"1,356",2.8,Stanwood-Camano School District,Stanwood
+Stanwood High School,"1,356",2.80,Stanwood-Camano School District,Stanwood
 Stanwood Middle School,473,2.75,Stanwood-Camano School District,Stanwood
 Twin City Elementary,352,1.42,Stanwood-Camano School District,Stanwood
-Anderson Island Elementary,36,2.78,Steilacoom Hist. School District,Steilacoom
+anderson Island Elementary,36,2.78,Steilacoom Hist. School District,Steilacoom
 Cherrydale Elementary,379,3.43,Steilacoom Hist. School District,Steilacoom
 Saltars Point Elementary,490,2.45,Steilacoom Hist. School District,Steilacoom
 Steilacoom High School,"1,040",1.06,Steilacoom Hist. School District,Steilacoom
+Steptoe Elementary School,41,4.88,Steptoe School District,Steptoe
+Carson Elementary,266,2.26,Stevenson-Carson School District,Stevenson
+Stevenson Elementary,203,6.40,Stevenson-Carson School District,Stevenson
+Stevenson High School,308,5.19,Stevenson-Carson School District,Stevenson
+Wind River Middle School,114,5.26,Stevenson-Carson School District,Stevenson
 Sultan Elementary School,562,2.49,Sultan School District,Sultan
 Sultan Middle School,456,3.51,Sultan School District,Sultan
 Sultan Senior High School,543,4.05,Sultan School District,Sultan
+Sumas Elementary,271,2.95,Nooksack Valley School District,Sumas
 Daffodil Valley Elementary,512,2.15,Sumner School District,Sumner
 Lakeridge Middle School,632,3.32,Sumner School District,Sumner
 Liberty Ridge Elementary,387,5.43,Sumner School District,Sumner
 Maple Lawn Elementary,649,2.47,Sumner School District,Sumner
-Sumner High School,"1,819",3.3,Sumner School District,Sumner
+Sumner High School,"1,819",3.30,Sumner School District,Sumner
 Sumner Middle School,759,2.64,Sumner School District,Sumner
+Chief Kamiakin Elementary School,744,0.67,Sunnyside School District,Sunnyside
+Harrison Middle School,911,0.11,Sunnyside School District,Sunnyside
+Outlook Elementary School,561,0.00,Sunnyside School District,Sunnyside
+Pioneer Elementary School,709,0.28,Sunnyside School District,Sunnyside
+Sierra Vista Middle School,699,0.43,Sunnyside School District,Sunnyside
+Sun Valley Elementary,461,0.22,Sunnyside School District,Sunnyside
+Sunnyside Christian School,180,3.89,Private,Sunnyside
+Sunnyside Christian School (2nd Location),62,0.00,Private,Sunnyside
+Sunnyside High School,"1,982",0.10,Sunnyside School District,Sunnyside
+Washington Elementary,674,0.45,Sunnyside School District,Sunnyside
 Suquamish Elementary,378,2.91,North Kitsap School District,Suquamish
 Angelo Giaudrone Middle School,661,1.36,Tacoma School District,Tacoma
 Annie Wright School,493,3.25,Private,Tacoma
 Arlington Elementary School,349,0.57,Tacoma School District,Tacoma
 Baker Middle School,744,1.48,Tacoma School District,Tacoma
 Bellarmine Preparatory School,851,0.71,Private,Tacoma
-Birney Elementary School,408,2.7,Tacoma School District,Tacoma
+Birney Elementary School,408,2.70,Tacoma School District,Tacoma
 Blix Elementary School,539,1.86,Tacoma School District,Tacoma
 Boze Elementary School,432,0.93,Tacoma School District,Tacoma
 Brookdale Elementary,481,1.66,Franklin Pierce School District,Tacoma
@@ -1080,20 +2068,20 @@ Clover Creek Elementary,753,2.12,Bethel School District,Tacoma
 Collins Elementary,446,3.81,Franklin Pierce School District,Tacoma
 Columbia Junior High School,602,1.33,Fife School District,Tacoma
 Community Montessori,14,14.29,Private,Tacoma
-Concord Lutheran School,112,0,Private,Tacoma
+Concord Lutheran School,112,0.00,Private,Tacoma
 Covenant High School,110,8.18,Private,Tacoma
 Crescent Heights Elementary School,473,4.65,Tacoma School District,Tacoma
 Delong Elementary School,412,2.91,Tacoma School District,Tacoma
 Downing Elementary School,275,0.73,Tacoma School District,Tacoma
 Edison,452,3.98,Tacoma School District,Tacoma
 Elmhurst Elementary School,460,1.52,Franklin Pierce School District,Tacoma
-Evergreen Lutheran High School,87,4.6,Private,Tacoma
+Evergreen Lutheran High School,87,4.60,Private,Tacoma
 Faith Evangelical Lutheran School,89,13.48,Private,Tacoma
 Fawcett Elementary School,425,1.88,Tacoma School District,Tacoma
 Fern Hill Elementary School,303,0.99,Tacoma School District,Tacoma
 Fife High School,861,1.05,Fife School District,Tacoma
 First Creek Middle School,748,0.53,Tacoma School District,Tacoma
-Ford Middle,937,1.17,Franklin Pierce School District,Tacoma
+ford Middle,937,1.17,Franklin Pierce School District,Tacoma
 Foss High School,807,1.61,Tacoma School District,Tacoma
 Franklin Elementary School,296,1.69,Tacoma School District,Tacoma
 Franklin Pierce High School,"1,218",1.72,Franklin Pierce School District,Tacoma
@@ -1107,14 +2095,14 @@ Helen Stafford Elementary School,519,1.54,Tacoma School District,Tacoma
 Hrrs - Juan Diego Academy,211,1.42,Private,Tacoma
 Industrial Design Engineering and Arts,209,3.35,Tacoma School District,Tacoma
 James Sales Elementary,444,0.45,Franklin Pierce School District,Tacoma
-Larchmont Elementary School,353,1.7,Tacoma School District,Tacoma
+Larchmont Elementary School,353,1.70,Tacoma School District,Tacoma
 Life Christian School,567,4.59,Private,Tacoma
 Lincoln High School,"1,444",0.97,Tacoma School District,Tacoma
 Lister Elementary School,436,2.29,Tacoma School District,Tacoma
-Lowell Elementary School,433,3,Tacoma School District,Tacoma
+Lowell Elementary School,433,3.00,Tacoma School District,Tacoma
 Lyon Elementary School,347,1.73,Tacoma School District,Tacoma
 Manitou Park Elementary School,469,1.71,Tacoma School District,Tacoma
-Mann Elementary School,462,1.3,Tacoma School District,Tacoma
+Mann Elementary School,462,1.30,Tacoma School District,Tacoma
 Mason Middle School,780,1.92,Tacoma School District,Tacoma
 Mccarver Elementary School,411,1.22,Tacoma School District,Tacoma
 Meeker Middle School,674,1.34,Tacoma School District,Tacoma
@@ -1123,30 +2111,30 @@ Mount Tahoma High School,"1,423",0.84,Tacoma School District,Tacoma
 N.E. Tacoma Elementary School,361,5.82,Tacoma School District,Tacoma
 Naches Trail Elementary,570,2.28,Bethel School District,Tacoma
 Oakland High School,185,2.16,Tacoma School District,Tacoma
-Parkland Lutheran School,83,0,Private,Tacoma
+Parkland Lutheran School,83,0.00,Private,Tacoma
 Perry G Keithley Middle School,806,1.24,Franklin Pierce School District,Tacoma
 Point Defiance Elementary School,387,4.39,Tacoma School District,Tacoma
 Reed Elementary School,409,0.98,Tacoma School District,Tacoma
 Roosevelt Elementary School,247,1.21,Tacoma School District,Tacoma
-Science And Math Institute,483,1.66,Tacoma School District,Tacoma
+Science and Math Institute,483,1.66,Tacoma School District,Tacoma
 Sheridan Elementary School,513,1.95,Tacoma School District,Tacoma
 Sherman Elementary School,414,2.66,Tacoma School District,Tacoma
 Skyline Elementary School,335,5.67,Tacoma School District,Tacoma
-Soar Academy Tacoma,173,1.16,Soar Academy Charter District,Tacoma
-South Sound Christian Schools - Tacoma Baptist Campus,280,5.71,Private,Tacoma
+Soar Academy Tacoma,173,1.16,SOAR Academy Charter District,Tacoma
+South Sound Christian Schools-Tacoma Baptist Campus,280,5.71,Private,Tacoma
 Spanaway Middle School,695,1.44,Bethel School District,Tacoma
 St. Charles Borromeo School,483,0.62,Private,Tacoma
 St. Mary's Academy,48,18.75,Private,Tacoma
-St. Patrick School,308,0,Private,Tacoma
+St. Patrick School,308,0.00,Private,Tacoma
 Stadium High School,"1,468",0.95,Tacoma School District,Tacoma
 Stanley Elementary School,290,2.41,Tacoma School District,Tacoma
 Stewart Middle School,533,0.56,Tacoma School District,Tacoma
-Tacoma Christian Acad - Formerly Slavic Christian Academy-Tacoma,275,56.36,Private,Tacoma
+Tacoma Christian Acad - formerly Slavic Christian Academy-Tacoma,275,56.36,Private,Tacoma
 Tacoma School of The Arts,617,3.08,Tacoma School District,Tacoma
 The Cor Deo School,90,7.78,Private,Tacoma
-Thompson Elementary,622,0.8,Bethel School District,Tacoma
+Thompson Elementary,622,0.80,Bethel School District,Tacoma
 Truman Middle School,774,1.55,Tacoma School District,Tacoma
-Visitation School,100,6,Private,Tacoma
+Visitation School,100,6.00,Private,Tacoma
 Wainwright Elementary School,213,2.82,Tacoma School District,Tacoma
 Wainwright Intermediate School,180,2.22,Tacoma School District,Tacoma
 Waller Road Elementary,370,1.89,Puyallup School District,Tacoma
@@ -1155,29 +2143,236 @@ Washington High School,991,0.61,Franklin Pierce School District,Tacoma
 Whitman Elementary School,379,2.11,Tacoma School District,Tacoma
 Whittier Elementary School,385,3.64,Tacoma School District,Tacoma
 Wilson High School,"1,284",1.79,Tacoma School District,Tacoma
+Taholah Elementary School,63,0.00,Taholah School District,Taholah
+Taholah High School,59,0.00,Taholah School District,Taholah
+Taholah Middle School,43,0.00,Taholah School District,Taholah
+Tekoa Elementary School,193,0.00,Tekoa School District,Tekoa
+Tekoa High School,102,0.00,Tekoa School District,Tekoa
+Parkside Elementary School,294,4.42,Tenino School District,Tenino
+Tenino Elementary,302,2.32,Tenino School District,Tenino
+Tenino High School,354,3.95,Tenino School District,Tenino
+Tenino Middle School,292,3.77,Tenino School District,Tenino
+Thorp Elem and Jr. Sr. High,168,7.14,Thorp School District,Thorp
+Tieton Intermediate School,277,0.36,Highland School District,Tieton
+Tonasket Elementary School,512,4.88,Tonasket School District,Tonasket
+Tonasket High School,337,5.04,Tonasket School District,Tonasket
+Tonasket Middle School,295,2.37,Tonasket School District,Tonasket
+Eagle High School,145,0.00,Toppenish School District,Toppenish
+Garfield Elementary School,415,0.24,Toppenish School District,Toppenish
+Kirkwood Elementary School,549,0.18,Toppenish School District,Toppenish
+Lincoln Elementary School,398,0.00,Toppenish School District,Toppenish
+Toppenish High School,971,0.51,Toppenish School District,Toppenish
+Toppenish Middle School,895,0.22,Toppenish School District,Toppenish
+Valley View Elementary,472,0.00,Toppenish School District,Toppenish
+Touchet Elem and High School,194,0.52,Touchet School District,Touchet
+Toutle Lake Elementary,374,3.74,Toutle Lake School District,Toutle
+Toutle Lake High School,307,2.93,Toutle Lake School District,Toutle
+Trout Lake Elementary,95,17.89,Trout Lake School District,Trout Lake
+Trout Lake School,151,7.95,Trout Lake School District,Trout Lake
 Cascade View Elementary,468,1.28,Tukwila School District,Tukwila
 Foster Senior High School,920,0.22,Tukwila School District,Tukwila
 Raisbeck  Aviation High School,412,1.46,Highline School District,Tukwila
 Showalter Middle School,623,0.96,Tukwila School District,Tukwila
-Thorndyke Elementary,375,3.2,Tukwila School District,Tukwila
+Thorndyke Elementary,375,3.20,Tukwila School District,Tukwila
 Tukwila Elementary,539,2.23,Tukwila School District,Tukwila
+Black Hills High School,908,3.74,Tumwater School District,Tumwater
+George Washington Bush Middle School,778,3.47,Tumwater School District,Tumwater
+Michael T Simmons Elementary,624,4.97,Tumwater School District,Tumwater
+New Market High School,75,4.00,Tumwater School District,Tumwater
+New Market Skills Center,382,0.26,Tumwater School District,Tumwater
+Peter G Schmidt Elementary,597,3.69,Tumwater School District,Tumwater
+Tumwater High School,"1,252",4.07,Tumwater School District,Tumwater
+Tumwater Hill Elementary,424,3.07,Tumwater School District,Tumwater
+Tumwater Middle School,714,3.08,Tumwater School District,Tumwater
+Tumwater West,11,9.09,Tumwater School District,Tumwater
+Union Gap School,597,0.34,Union Gap School District,Union Gap
 Charles Wright Academy,676,3.99,Private,University Place
 Heritage Christian School,195,5.13,Private,University Place
+Paideia High School,63,11.11,Valley School District,Valley
+Valley School,194,13.92,Valley School District,Valley
+49th Street Academy,103,5.83,Evergreen School District (Clark),Vancouver
+Alki Middle School,630,2.70,Vancouver School District,Vancouver
+anderson Elementary School,771,3.89,Vancouver School District,Vancouver
+Burnt Bridge Creek Elem School,487,5.75,Evergreen School District (Clark),Vancouver
+Burton Elementary School,381,8.66,Evergreen School District (Clark),Vancouver
+Cascade Middle School,963,4.88,Evergreen School District (Clark),Vancouver
+Cascadia School,77,12.99,Private,Vancouver
+Cascadia Technical Academy Sc,725,2.76,Evergreen School District (Clark),Vancouver
+Chinook Elementary School,758,3.96,Vancouver School District,Vancouver
+Columbia River High,"1,194",2.85,Vancouver School District,Vancouver
+Columbia Valley Elementary School,585,3.42,Evergreen School District (Clark),Vancouver
+Cornerstone Christian School,302,14.24,Private,Vancouver
+Covington Middle School,"1,086",4.79,Evergreen School District (Clark),Vancouver
+Crestline Elementary School,535,3.55,Evergreen School District (Clark),Vancouver
+Discovery Middle School,684,3.80,Vancouver School District,Vancouver
+Eisenhower Elementary School,567,6.17,Vancouver School District,Vancouver
+Ellsworth Elementary School,405,3.70,Evergreen School District (Clark),Vancouver
+Endeavour Elementary School,712,3.65,Evergreen School District (Clark),Vancouver
+Evergreen High School,"1,719",3.14,Evergreen School District (Clark),Vancouver
+Felida Elementary School,683,5.42,Vancouver School District,Vancouver
+Fir Grove Childrens Center,52,1.92,Vancouver School District,Vancouver
+Fircrest Elementary School,473,3.59,Evergreen School District (Clark),Vancouver
+Fishers Landing Elementary School,596,4.53,Evergreen School District (Clark),Vancouver
+fort Vancouver High School,"1,559",2.76,Vancouver School District,Vancouver
+Frontier Middle School,821,7.19,Evergreen School District (Clark),Vancouver
+Fruit Valley Elementary School,275,1.82,Vancouver School District,Vancouver
+Gaiser Middle School,880,4.20,Vancouver School District,Vancouver
+Gardner School,94,6.38,Private,Vancouver
+Gate Program,33,3.03,Vancouver School District,Vancouver
+Glenwood Heights Primary,801,8.49,Battle Ground School District,Vancouver
+Harmony Elementary School,655,6.87,Evergreen School District (Clark),Vancouver
+Harney Elementary School,671,4.32,Vancouver School District,Vancouver
+Hazel Dell Elementary School,435,2.99,Vancouver School District,Vancouver
+Hearthwood Elementary School,391,6.39,Evergreen School District (Clark),Vancouver
+Henrietta Lacks High School,633,6.00,Evergreen School District (Clark),Vancouver
+Heritage High School,"1,761",3.63,Evergreen School District (Clark),Vancouver
+Home Choice Academy,157,20.38,Evergreen School District (Clark),Vancouver
+Home Connection,196,24.49,Vancouver School District,Vancouver
+Hosanna Christian School,91,19.78,Private,Vancouver
+Hough Elementary School,295,5.76,Vancouver School District,Vancouver
+Hudsons Bay High School,"1,212",3.88,Vancouver School District,Vancouver
+Image Elementary School,689,9.29,Evergreen School District (Clark),Vancouver
+Jason Lee Middle School,711,4.36,Vancouver School District,Vancouver
+Jefferson Middle School,846,3.66,Vancouver School District,Vancouver
+King Elementary School,488,2.87,Vancouver School District,Vancouver
+King's Way Christian School,761,4.34,Private,Vancouver
+Lake Shore Elementary School,442,4.75,Vancouver School District,Vancouver
+Laurin Middle School,693,7.36,Battle Ground School District,Vancouver
+Legacy High School,282,2.84,Evergreen School District (Clark),Vancouver
+Lewis and Clark High School,92,8.70,Vancouver School District,Vancouver
+Lincoln Elementary School,372,2.96,Vancouver School District,Vancouver
+Marrion Elementary School,533,2.81,Evergreen School District (Clark),Vancouver
+Marshall Elementary School,398,2.76,Vancouver School District,Vancouver
+Mcloughlin Middle School,"1,006",1.29,Vancouver School District,Vancouver
+Mill Plain Elementary School,478,3.56,Evergreen School District (Clark),Vancouver
+Minnehaha Elementary School,535,7.66,Vancouver School District,Vancouver
+Mountain View High School,"1,903",2.89,Evergreen School District (Clark),Vancouver
+Ogden Elementary School,540,3.70,Vancouver School District,Vancouver
+Orchards Elementary School,520,5.58,Evergreen School District (Clark),Vancouver
+Our Lady of Lourdes School,222,1.80,Private,Vancouver
+Pacific Middle School,975,4.92,Evergreen School District (Clark),Vancouver
+Pioneer Elementary School,694,8.07,Evergreen School District (Clark),Vancouver
+Pleasant Valley Middle,552,3.80,Battle Ground School District,Vancouver
+Riverview Elementary School,461,2.82,Evergreen School District (Clark),Vancouver
+Roosevelt Elementary School,668,1.95,Vancouver School District,Vancouver
+Sacajawea Elementary School,402,2.74,Vancouver School District,Vancouver
+Salmon Creek Elementary School,513,4.09,Vancouver School District,Vancouver
+School of Arts & Academics,596,5.87,Vancouver School District,Vancouver
+Seton Catholic College Prep,183,0.00,Private,Vancouver
+Shahala Middle School,"1,114",3.59,Evergreen School District (Clark),Vancouver
+Sifton Elementary School,482,5.39,Evergreen School District (Clark),Vancouver
+Silver Star Elementary School,466,8.37,Evergreen School District (Clark),Vancouver
+Skinner Elementary Montessori School,48,8.33,Private,Vancouver
+Skyview High School,"1,977",4.20,Vancouver School District,Vancouver
+Sonshine Christian Elementary,51,7.84,Private,Vancouver
+Sunset Elementary School,537,8.38,Evergreen School District (Clark),Vancouver
+Truman Elementary School,565,6.90,Vancouver School District,Vancouver
+Vancouver Itech Preparatory,390,6.67,Vancouver School District,Vancouver
+Vancouver Virtual Learning Academy,475,3.58,Private,Vancouver
+Wa School for the Deaf,61,0.00,Private,Vancouver
+Walnut Grove Elementary School,765,6.80,Vancouver School District,Vancouver
+Washington Elementary School,350,2.29,Vancouver School District,Vancouver
+Wsd Elementary School,36,0.00,Private,Vancouver
+Wy'East Middle School,874,1.60,Evergreen School District (Clark),Vancouver
+York Elementary School,512,8.59,Evergreen School District (Clark),Vancouver
 Chautauqua Elementary,598,8.53,Vashon Island School District,Vashon
 Family Link,59,30.51,Vashon Island School District,Vashon
-Mcmurray Middle School,387,9.3,Vashon Island School District,Vashon
+Mcmurray Middle School,387,9.30,Vashon Island School District,Vashon
 Student Link,34,20.59,Vashon Island School District,Vashon
-The Harbor School,82,6.1,Private,Vashon
+The Harbor School,82,6.10,Private,Vashon
 Vashon Island High School,547,8.41,Vashon Island School District,Vashon
-Vashon Special Education School,12,0,Vashon Island School District,Vashon
+Vashon Special Education School,12,0.00,Vashon Island School District,Vashon
 Vaughn Elementary School,375,5.07,Peninsula School District,Vaughn
+Pioneer School,54,5.56,Private,Veradale
+Progress Elementary School,342,5.56,Central Valley School District,Veradale
+Sunrise Elementary School,623,3.85,Central Valley School District,Veradale
+Preston Hall Middle School,71,1.41,Waitsburg School District,Waitsburg
+Waitsburg Elementary School,129,1.55,Waitsburg School District,Waitsburg
+Waitsburg High School,88,6.82,Waitsburg School District,Waitsburg
+Assumption Grade School,196,5.10,Private,Walla Walla
+Berney Elementary School,452,2.21,Walla Walla Public Schools,Walla Walla
+Blue Ridge Elementary,284,0.70,Walla Walla Public Schools,Walla Walla
+Desales Catholic School,93,4.30,Private,Walla Walla
+Edison Elementary School,406,0.49,Walla Walla Public Schools,Walla Walla
+Garrison Middle School,620,1.61,Walla Walla Public Schools,Walla Walla
+Green Park Elementary School,424,3.07,Walla Walla Public Schools,Walla Walla
+Lincoln High School,179,1.12,Walla Walla Public Schools,Walla Walla
+Pioneer Middle School,664,2.41,Walla Walla Public Schools,Walla Walla
+Prospect Point Elementary,473,2.33,Walla Walla Public Schools,Walla Walla
+Sharpstein Elementary School,413,2.18,Walla Walla Public Schools,Walla Walla
+St. Basil Academy of Classical Studies,54,16.67,Private,Walla Walla
+Walla Walla High School,"1,721",2.38,Walla Walla Public Schools,Walla Walla
+Adams Elementary,337,0.59,Wapato School District,Wapato
+Camas Elementary,619,0.16,Wapato School District,Wapato
+Satus Elementary,644,0.16,Wapato School District,Wapato
+Wapato High School,884,0.23,Wapato School District,Wapato
+Wapato Middle School,834,0.36,Wapato School District,Wapato
+Warden Elementary,494,0.40,Warden School District,Warden
+Warden High School,282,0.71,Warden School District,Warden
+Warden Middle School,227,0.44,Warden School District,Warden
+Canyon Creek Middle School,231,2.16,Washougal School District,Washougal
+Cape Horn Skye Elementary,329,5.47,Washougal School District,Washougal
+Columbia River Gorge Elementary,413,4.12,Washougal School District,Washougal
+Gause Elementary,349,5.16,Washougal School District,Washougal
+Hathaway Elementary,299,4.35,Washougal School District,Washougal
+Jemtegaard Middle School,533,3.94,Washougal School District,Washougal
+Mt Pleasant School,59,11.86,Mount Pleasant School District,Washougal
+Riverside Sda Christian School,30,23.33,Private,Washougal
+Washougal High School,"1,075",3.91,Washougal School District,Washougal
+Washtucna School District,47,0.00,Washtucna School District,Washtucna
+Waterville Elementary,133,1.50,Waterville School District,Waterville
+Waterville High School,151,0.66,Waterville School District,Waterville
+Wellpinit Elementary School,183,0.00,Wellpinit School District,Wellpinit
+Wellpinit High School,85,0.00,Wellpinit School District,Wellpinit
+Wellpinit Middle School,77,0.00,Wellpinit School District,Wellpinit
+Abraham Lincoln Elementary,526,1.33,Wenatchee School District,Wenatchee
+Columbia Elementary School,435,1.15,Wenatchee School District,Wenatchee
+Foothills Middle School,608,1.48,Wenatchee School District,Wenatchee
+John Newbery Elementary,478,3.56,Wenatchee School District,Wenatchee
+Joyful Scholars Montessori Elementary School,42,9.52,Private,Wenatchee
+Lewis and Clark Elementary Sch,483,0.62,Wenatchee School District,Wenatchee
+Mission View Elementary School,500,1.40,Wenatchee School District,Wenatchee
+Orchard Middle School,498,0.80,Wenatchee School District,Wenatchee
+Pioneer Middle School,601,1.50,Wenatchee School District,Wenatchee
+St. Joseph's School,142,0.70,Private,Wenatchee
+St. Paul's Lutheran School,51,1.96,Private,Wenatchee
+Sunnyslope Elementary School,304,1.97,Wenatchee School District,Wenatchee
+The River Academy,204,16.18,Private,Wenatchee
+Valley Academy of Learning,198,13.13,Wenatchee School District,Wenatchee
+Washington Elementary School,558,1.08,Wenatchee School District,Wenatchee
+Wenatchee High School,"2,118",0.99,Wenatchee School District,Wenatchee
+Wenatchee Valley Technical Skills Center,132,0.00,Wenatchee School District,Wenatchee
+Westside High School,276,0.72,Wenatchee School District,Wenatchee
+Enterprise Middle School,690,1.59,Richland School District,West Richland
+Tapteal Elementary School,650,1.69,Richland School District,West Richland
+Wiley Elementary,544,2.39,Richland School District,West Richland
+Ocosta Elementary School,290,2.76,Ocosta School District,Westport
+Ocosta High School,293,2.05,Ocosta School District,Westport
+Columbia High School,393,4.33,White Salmon Valley School District,White Salmon
+Hulan L Whitson Elem,370,4.05,White Salmon Valley School District,White Salmon
+Little Oak Montessori School - Elementary,30,16.67,Private,White Salmon
+W & P Stevenson Intermediate,312,6.09,White Salmon Valley School District,White Salmon
+Wayne M Henkle Middle School,187,5.88,White Salmon Valley School District,White Salmon
+White Salmon Academy,21,0.00,White Salmon Valley School District,White Salmon
+Mount Adams Middle School,133,0.00,Mount Adams School District,White Swan
+White Swan High School,243,0.00,Mount Adams School District,White Swan
+Wilbur Elementary School,121,7.44,Wilbur School District,Wilbur
+Wilbur Secondary School,130,3.85,Wilbur School District,Wilbur
+Wilson Creek Elementary,69,2.90,Wilson Creek School District,Wilson Creek
+Wilson Creek Jr. Sr. High School,74,1.35,Wilson Creek School District,Wilson Creek
+Evaline Elementary,58,6.90,Evaline School District,Winlock
+Alternative Ed Experience,14,0.00,Methow Valley School District,Winthrop
+Liberty Bell Jr. Sr. High,288,10.07,Methow Valley School District,Winthrop
+Methow Valley Elementary,332,5.72,Methow Valley School District,Winthrop
+Methow Valley Independent  L C,21,14.29,Methow Valley School District,Winthrop
+Wishram Elementary School,28,0.00,Wishram School District,Wishram
+Wishram Jr. Sr. High School,38,2.63,Wishram School District,Wishram
 Bear Creek Elementary,344,2.33,Northshore School District,Woodinville
-Bellevue Christian Mack Elementary,200,4,Private,Woodinville
+Bellevue Christian Mack Elementary,200,4.00,Private,Woodinville
 Chrysalis School (9-12),133,4.51,Private,Woodinville
-Chrysalis School (K-8),10,0,Private,Woodinville
 Chrysalis School (K-8),59,13.56,Private,Woodinville
 Cottage Lake Elementary,286,5.24,Northshore School District,Woodinville
-East Ridge Elementary,361,3.6,Northshore School District,Woodinville
+East Ridge Elementary,361,3.60,Northshore School District,Woodinville
 Hollywood Hill Elementary,331,3.93,Northshore School District,Woodinville
 Kokanee Elementary,713,0.84,Northshore School District,Woodinville
 Leota Middle School,882,3.06,Northshore School District,Woodinville
@@ -1185,3 +2380,71 @@ Timbercrest Middle School,741,2.97,Northshore School District,Woodinville
 Wellington Elementary,455,3.52,Northshore School District,Woodinville
 Wilder Elementary,617,1.78,Lake Washington School District,Woodinville
 Woodinville High School,"1,763",2.44,Northshore School District,Woodinville
+Green Mountain School,156,3.85,Green Mountain School District,Woodland
+Lewis River Academy,55,16.36,Woodland School District,Woodland
+Team High School,96,2.08,Woodland School District,Woodland
+Woodland High School,727,3.99,Woodland School District,Woodland
+Woodland Intermediate,491,6.31,Woodland School District,Woodland
+Woodland Middle School,724,4.28,Woodland School District,Woodland
+Woodland Primary School,331,6.34,Woodland School District,Woodland
+Yacolt Primary,776,5.03,Battle Ground School District,Yacolt
+Adams Elementary School,695,0.14,Yakima School District,Yakima
+Ahtanum Valley Elementary,282,0.00,West Valley School District (Yakima),Yakima
+Apple Valley Elementary,342,1.17,West Valley School District (Yakima),Yakima
+Barge Lincoln Elementary,620,0.65,Yakima School District,Yakima
+Davis High School,"2,390",0.88,Yakima School District,Yakima
+Discovery Lab School,215,1.86,Yakima School District,Yakima
+East Valley Elementary,530,1.32,East Valley School District (Yakima),Yakima
+East Valley High School,873,1.49,East Valley School District (Yakima),Yakima
+Eisenhower High School,"2,135",0.42,Yakima School District,Yakima
+Franklin Middle School,839,0.48,Yakima School District,Yakima
+Garfield Elementary,516,0.00,Yakima School District,Yakima
+Gilbert Elementary School,572,1.40,Yakima School District,Yakima
+Grace Lutheran School,21,0.00,Private,Yakima
+Hoover Elementary School,651,0.15,Yakima School District,Yakima
+Lewis and Clark Middle School,876,0.34,Yakima School District,Yakima
+Martin Luther King Jr. Elementary,629,0.16,Yakima School District,Yakima
+Mcclure Elementary School,584,1.03,Yakima School District,Yakima
+Mckinley Elementary School,455,0.22,Yakima School District,Yakima
+Montessori School of Yakima,35,8.57,Private,Yakima
+Mountainview Elementary,154,1.95,West Valley School District (Yakima),Yakima
+Naches Valley Elementary,492,2.64,Naches Valley School District,Yakima
+Nob Hill Elementary School,486,0.62,Yakima School District,Yakima
+Ridgeview Elementary,632,0.32,Yakima School District,Yakima
+Riverside Christian School,371,1.89,Private,Yakima
+Robertson Elementary,522,0.77,Yakima School District,Yakima
+Roosevelt Elementary School,522,0.77,Yakima School District,Yakima
+St. John of Kronstadt Orthodox Christian School,25,68.00,Private,Yakima
+St. Joseph Marquette Middle School,324,0.93,Private,Yakima
+St. Paul Cathedral School,123,2.44,Private,Yakima
+Stanton Alternative School,250,1.20,Yakima School District,Yakima
+Summitview Elementary,349,1.43,West Valley School District (Yakima),Yakima
+Washington Middle School,804,0.37,Yakima School District,Yakima
+West Valley High School,"1,106",1.99,West Valley School District (Yakima),Yakima
+West Valley High School Freshman Campus,446,2.02,West Valley School District (Yakima),Yakima
+West Valley Middle School,859,1.86,West Valley School District (Yakima),Yakima
+West Valley Virtual Academy 820 9-12,124,5.65,West Valley School District (Yakima),Yakima
+Westpark Christian Academy,64,4.69,Private,Yakima
+Whitney Elementary,528,1.14,Yakima School District,Yakima
+Wide Hollow Elementary,387,1.81,West Valley School District (Yakima),Yakima
+Wilson Middle School,861,0.81,Yakima School District,Yakima
+Yakima Adventist Christian School,97,3.09,Private,Yakima
+Yakima Open Doors,114,0.00,Yakima School District,Yakima
+Yakima Satellite Alternative Programs,35,2.86,Yakima School District,Yakima
+Yakima School District Online,80,1.25,Yakima School District,Yakima
+Eagle View Christian School,118,10.17,Private,Yelm
+fort Stevens Elementary,512,3.91,Yelm School District,Yelm
+Lackamas Elementary,301,3.32,Yelm School District,Yelm
+Mckenna Elementary,420,3.10,Yelm School District,Yelm
+Mill Pond Elementary School,441,3.40,Yelm School District,Yelm
+Ridgeline Middle School,604,5.13,Yelm School District,Yelm
+Southworth Elementary,542,3.51,Yelm School District,Yelm
+Yelm Extension School,107,1.87,Yelm School District,Yelm
+Yelm High School 12,"1,675",3.52,Yelm School District,Yelm
+Yelm Middle School,677,3.55,Yelm School District,Yelm
+Yelm Prairie Elementary,450,3.11,Yelm School District,Yelm
+Christian Worship Center Elementary,22,9.09,Private,Zillah
+Hilton Elementary School,373,2.14,Zillah School District,Zillah
+Zillah High School,432,1.85,Zillah School District,Zillah
+Zillah Intermediate School,287,2.44,Zillah School District,Zillah
+Zillah Middle School,207,0.97,Zillah School District,Zillah
