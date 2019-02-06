@@ -2,10 +2,10 @@
   "s3": {
     "stage": {
       "bucket": "projects-staging.seattletimes.com",
-      "path": "impulsive-tissue"
+      "path": "unalterable-lowering"
     },
     "live": {
-      "bucket": "",
+      "bucket": "projects.seattletimes.com",
       "path": "2019/fyiguy/mmr-exemption"
     }
   },

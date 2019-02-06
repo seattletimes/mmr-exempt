@@ -33,7 +33,7 @@ app.controller("commonCoreController", ["$scope", function($scope) {
 app.directive("typeSelect", function() {
   return {
     template: `
-      <input ng-model="selection" placeholder="Enter district or county">
+      <input ng-model="selection" placeholder="Enter city">
       <div class="completion">
         <div class="options">
           <a class="option" ng-repeat="option in filtered" ng-click="setValue(option)">
