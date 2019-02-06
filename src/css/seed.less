@@ -16,6 +16,10 @@ body {
   max-width: 630px;
   font-family: @df-sans;
   margin: auto;
+
+  @media @mobile {
+    max-width: 300px;
+  }
 }
 
 .arrow {
@@ -27,6 +31,11 @@ body {
   // border-bottom: 1px solid @df-border-gray;
   padding: 20px 0;
   margin: 20px 0;
+
+  @media @mobile {
+    padding: 0px;
+    margin: 0px;
+  }
 }
 
 .title {
@@ -95,6 +104,7 @@ type-select {
     max-width: 100%;
     font-family: @df-sans;
     font-size: 13px;
+
   }
 
   &.show-completion .completion {
@@ -167,7 +177,10 @@ table {
   width: 650px;
 
   @media @mobile {
-    font-size: 13px;
+    font-size: 12px;
+    width: 300px;
+    margin-left: -5px;
+    padding: 0px;
   }
 
   .table-label {
@@ -193,7 +206,7 @@ table {
     padding: 5px 20px;
 
     @media @mobile {
-      padding: 5px 10px;
+      padding: 5px 5px;
     }
   }
 
@@ -210,6 +223,7 @@ table {
 
       @media @mobile {
         border: none;
+        max-width: 75px;
       }
 
       &.average {
@@ -289,7 +303,7 @@ table {
     color: white;
 
     @media @mobile {
-      font-size: 12px;
+      font-size: 11px;
     }
 
     td {
